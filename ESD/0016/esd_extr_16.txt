@@ -1,0 +1,1750 @@
+/ESD/0016/Neutral/0016_000001.wav|ðə nˈaɪn ˈɛɡz, aɪ kˈiːp. |0
+/ESD/0016/Neutral/0016_000002.wav|aɪ dˈɪd ɡˈoʊ, ænd mˌeɪd mˈɛni pɹˈɪzənɚz. |0
+/ESD/0016/Neutral/0016_000003.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː. |0
+/ESD/0016/Neutral/0016_000004.wav|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈæs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt. |0
+/ESD/0016/Neutral/0016_000005.wav|klˈɪɹ ðɐn klˈɪɹ wˈɔːɾɚ! |0
+/ESD/0016/Neutral/0016_000006.wav|ˈændi wʌts ðə dʒˈaɪɚ ænd tə ɡˈæmbəl. |0
+/ESD/0016/Neutral/0016_000007.wav|aɪm æz bˈæd æz aɪ kæn bˈiː. |0
+/ESD/0016/Neutral/0016_000008.wav|ðæt wʌz hɪz tʃˈiːf θˈɔːt. |0
+/ESD/0016/Neutral/0016_000009.wav|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ. |0
+/ESD/0016/Neutral/0016_000010.wav|ɐ nˈɔːsɪəs dɹˈæft. |0
+/ESD/0016/Neutral/0016_000011.wav|tʃˈæptɚ tˈɛn ɐ wˈɔːɹm wˈɛlkʌm. |0
+/ESD/0016/Neutral/0016_000012.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz. |0
+/ESD/0016/Neutral/0016_000013.wav|aɪ hæv bˈʌnbɛɹid ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz. |0
+/ESD/0016/Neutral/0016_000014.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː! |0
+/ESD/0016/Neutral/0016_000015.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd! |0
+/ESD/0016/Neutral/0016_000016.wav|mˈɪstɚ ʃˈɛɹ mˈæn, aɪ mˈuːv fɚɹə dᵻvˈɪʒən. |0
+/ESD/0016/Neutral/0016_000017.wav|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən? |0
+/ESD/0016/Neutral/0016_000018.wav|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ. |0
+/ESD/0016/Neutral/0016_000019.wav|æt ðɪ ˈɛnd ʌv fˈoːɹ. |0
+/ESD/0016/Neutral/0016_000020.wav|æt ðə ɹˈuːtsəvə bˈʊʃ əvə ɡɹˈæs. |0
+/ESD/0016/Neutral/0016_000021.wav|æz ɹˈɪtʃæz pˈiːɾɚz sˈʌn ɪn lˈɔː! |0
+/ESD/0016/Neutral/0016_000022.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz. |0
+/ESD/0016/Neutral/0016_000023.wav|aɪ θˈɔːt juː mˈɛnt hˌaʊ ˈoʊld ɑːɹ juː? |0
+/ESD/0016/Neutral/0016_000024.wav|ðə fˈʊtbɔːl tˈiːmz ɡˈɪv ɐ tˈiː pˈɑːɹɾi. |0
+/ESD/0016/Neutral/0016_000025.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ. |0
+/ESD/0016/Neutral/0016_000026.wav|lˈɛts mˌeɪk ðə nˈɔɪz ɐ snˈeɪk. |0
+/ESD/0016/Neutral/0016_000027.wav|mˈɔnstɚ mˌeɪd ɐ dˈiːp bˈoʊ. |0
+/ESD/0016/Neutral/0016_000028.wav|ʃiː hæd sˈɛd, sˌoʊ ðˈætwˌʌn kʊd kˈiːp ˌʌp ɐ kˈɑːnvɜːs ! |0
+/ESD/0016/Neutral/0016_000029.wav|ɹˈæt kˈeɪm ænd ɹᵻplˈaɪd ɔnðə lˈiːvz. |0
+/ESD/0016/Neutral/0016_000030.wav|mˈʌst ɐ nˈeɪm mˈiːn sˈʌmθɪŋ? |0
+/ESD/0016/Neutral/0016_000031.wav|ˈɔːl smˈaɪl wɜː ɹˈiːəl ænd ðə hˈæpɪɚ ðə mˈoːɹ sɪnsˈɪɹ . |0
+/ESD/0016/Neutral/0016_000032.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː? |0
+/ESD/0016/Neutral/0016_000033.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən. |0
+/ESD/0016/Neutral/0016_000034.wav|ɐ dᵻvˈaɪn ɹˈæθ mˌeɪd hɜː blˈuː ˈaɪz ˈɔːfəl. |0
+/ESD/0016/Neutral/0016_000035.wav|ðə nˈeɪm ɹˈiəli ɪz ðɪ ˈeɪdʒɛdɪdʒd mˈæn. |0
+/ESD/0016/Neutral/0016_000036.wav|hˌaʊ aɪ hˈeɪt ðɪs fˈaʊl pˈuːl! |0
+/ESD/0016/Neutral/0016_000037.wav|aɪ θˈɪŋk ˌɪɾəl ɛŋkˈɜːɹɪdʒ mˌiː. |0
+/ESD/0016/Neutral/0016_000038.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd. |0
+/ESD/0016/Neutral/0016_000039.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ. |0
+/ESD/0016/Neutral/0016_000040.wav|ɪnwˌɪtʃ fˈɑːks lˈuːzᵻz ɐ tˈeɪl ænd ɪts ˈɛldɚ sˈɪstɚ fˈaɪndz wˌʌn. |0
+/ESD/0016/Neutral/0016_000041.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ. |0
+/ESD/0016/Neutral/0016_000042.wav|ʃiː mˈeɪ mˈaɪnd jiː ʌv hɜː. |0
+/ESD/0016/Neutral/0016_000043.wav|stˈoːɹi twˈɛnti nˈaɪn ɐ bˈɔɪ ænd ɐ mˈʌŋki. |0
+/ESD/0016/Neutral/0016_000044.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt. |0
+/ESD/0016/Neutral/0016_000045.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz. |0
+/ESD/0016/Neutral/0016_000046.wav|ðeɪd nˈɛvɚ nˈoʊ aɪd ɹˈɛɡjʊlɚ ɹˈæn ɐwˈeɪ. |0
+/ESD/0016/Neutral/0016_000047.wav|plˈiːz ɛkskjˈuːs mˌiː. |0
+/ESD/0016/Neutral/0016_000048.wav|juː ɑːɹ nˌɑːɾɚ ɹˈʌnəwˌeɪ,hˈuː ɑːɹ juː? |0
+/ESD/0016/Neutral/0016_000049.wav|ðˈɛn wiː ˈɔːl sˈeɪ ɑːhˈɑː! |0
+/ESD/0016/Neutral/0016_000050.wav|ɹˈæbɪt ɡˈeɪv dˈɑːɡ ɐ hˈɜːɹiɪŋ ˌʌp sˈɔːɹt ʌv nˈʌdʒ. |0
+/ESD/0016/Neutral/0016_000051.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz. |0
+/ESD/0016/Neutral/0016_000052.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs. |0
+/ESD/0016/Neutral/0016_000053.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst! |0
+/ESD/0016/Neutral/0016_000054.wav|ɑːɹ juː ɐ ɹˈɛɡjʊlɚ dˈɑːɹki ɹˈiəli? |0
+/ESD/0016/Neutral/0016_000055.wav|ɐ dˈɛfənɪŋ tʃˈɪɹuːpɪŋ ɹˈɛnt ðɪ ˈɛɹ. |0
+/ESD/0016/Neutral/0016_000056.wav|jʊɹ mˈɪdʒɪt wˈaɪf nˈɛvɚ kæn sˈɪŋ ɐ sˈɔŋ. |0
+/ESD/0016/Neutral/0016_000057.wav|hˈænɪbəl kˈʌm tə sˈiː juː. |0
+/ESD/0016/Neutral/0016_000058.wav|ðɪ ˈɑːktəpəs hɐz ˈeɪt lˈɛɡz. |0
+/ESD/0016/Neutral/0016_000059.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni. |0
+/ESD/0016/Neutral/0016_000060.wav|ðæt aɪɐm ɐ bˈɔːɹn nˈɜːs. |0
+/ESD/0016/Neutral/0016_000061.wav|mˈɪdjɪɹ ɪz dˈeɪ, ʃˈaɪɚ jˈɪɹ. |0
+/ESD/0016/Neutral/0016_000062.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili. |0
+/ESD/0016/Neutral/0016_000063.wav|ˈæstɚɹˌɔɪd θɹˈiː hˈʌndɹɪd ænd twˈɛnti fˈaɪv. |0
+/ESD/0016/Neutral/0016_000064.wav|ænd wiː ɑːɹ sˌoʊ θˈɜːsti! |0
+/ESD/0016/Neutral/0016_000065.wav|tˈɑːm kʊd hˈɑːɹdli spˈiːk fɔːɹ lˈæfɪŋ. |0
+/ESD/0016/Neutral/0016_000066.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn? |0
+/ESD/0016/Neutral/0016_000067.wav|aɪ səpˈoʊz nˈoʊ, ɪt dˈʌzənt! |0
+/ESD/0016/Neutral/0016_000068.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd. |0
+/ESD/0016/Neutral/0016_000069.wav|nˌɑːt mˈʌtʃ jˈuːs ɪz ɪt, sˈæm? |0
+/ESD/0016/Neutral/0016_000070.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ! |0
+/ESD/0016/Neutral/0016_000071.wav|ʃiː wʌz bˈɔːɹn ˌɔn ˈeɪpɹəl nˈaɪntiːn fˈɔːɹɾi θɹˈiː. |0
+/ESD/0016/Neutral/0016_000072.wav|hˈaʊ ɑːɹ juː, dˈɪɹ tʃˈaɪld? |0
+/ESD/0016/Neutral/0016_000073.wav|hˌaʊ səspˈɪʃəs ðɪs fˈɑːks. |0
+/ESD/0016/Neutral/0016_000074.wav|kˈʌm ˌɔn maɪ dʒˈæk ɪnðə bˈɑːksᵻz! |0
+/ESD/0016/Neutral/0016_000075.wav|aɪd fˈɑːɹ ɹˈæðɚ ɡˌoʊ wɪðˌaʊt ðˌɛm ðɐn ˈiːt ðˌɛm! |0
+/ESD/0016/Neutral/0016_000076.wav|ðə hˈæɡ lˈʊkt ɪnðə stˈoʊv. |0
+/ESD/0016/Neutral/0016_000077.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ. |0
+/ESD/0016/Neutral/0016_000078.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː. |0
+/ESD/0016/Neutral/0016_000079.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl. |0
+/ESD/0016/Neutral/0016_000080.wav|ðˈɛn ðɛɹwˌʌz ɐ ɹᵻpˈoːɹt. |0
+/ESD/0016/Neutral/0016_000081.wav|ænd aɪ nˈɛvɚ hæd ɐ wˈuːpɪŋ kˈɔf wˈaɪ. |0
+/ESD/0016/Neutral/0016_000082.wav|ɐ fˈɛɹ dʒˈɔː kɹˈækɚ dwˈɔːɹf lˈæŋɡwɪdʒ mˈʌst bˈiː! |0
+/ESD/0016/Neutral/0016_000083.wav|biː ˈɔf nˈaʊ æz kwˈɪk æz juː mˈeɪ! |0
+/ESD/0016/Neutral/0016_000084.wav|baɪ hˈʊk ɔːɹ baɪ kɹˈʊk. |0
+/ESD/0016/Neutral/0016_000085.wav|səpˈoʊz aɪ tˈeɪk ɡɹˈændmʌðɚɹ ɐ fɹˈɛʃ vˈɛdʒɪɾəbəl. |0
+/ESD/0016/Neutral/0016_000086.wav|ænd tˈɪk ɐ tˈæk tˈuː. |0
+/ESD/0016/Neutral/0016_000087.wav|ɐ hˈɪpoʊ lˈaɪvz ɪnðə zˈuː. |0
+/ESD/0016/Neutral/0016_000088.wav|ɪn maɪ əpˈɪniən ðæɾɪz ɐ ɡˈʊd aɪdˈiə! |0
+/ESD/0016/Neutral/0016_000089.wav|lˈɛt ɡˌoʊ ʌv maɪ tˈɑːp nˈɑːt. |0
+/ESD/0016/Neutral/0016_000090.wav|ænd ðeɪ dˈɪd pˈʊʃ sˈoʊ! |0
+/ESD/0016/Neutral/0016_000091.wav|wiː ɛkspˈɛktᵻd tˈɑːm wʊd dʒˈʌmp fɔːɹ dʒˈɔɪ. |0
+/ESD/0016/Neutral/0016_000092.wav|dˈʌz ðə wˈʌn ðæt wˈɪnz ɡɛt ðə kɹˈaʊnd? |0
+/ESD/0016/Neutral/0016_000093.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps. |0
+/ESD/0016/Neutral/0016_000094.wav|ðeɪ fˈaʊnd ɐ kˈaʊ ɡɹˈeɪzɪŋ ɪn ɐ fˈiːld. |0
+/ESD/0016/Neutral/0016_000095.wav|ɑːhˈɑː wʌt ˈaɪ hæv wiː hˈɪɹ? |0
+/ESD/0016/Neutral/0016_000096.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ. |0
+/ESD/0016/Neutral/0016_000097.wav|kənfˈɛs ðæt juː ˈoʊpənd ðə θˈɜːtiːnθ dˈoːɹ. |0
+/ESD/0016/Neutral/0016_000098.wav|sˈɛd ðə wˈɪtʃ. |0
+/ESD/0016/Neutral/0016_000099.wav|aɪv hˈɪt ðə ɹˈɔŋ nˈoʊz. |0
+/ESD/0016/Neutral/0016_000100.wav|wˈɛl ˈɛnɪhˌaʊ ɪt dˈɪdnt ɹˈeɪn, hiː sˈɛd. |0
+/ESD/0016/Neutral/0016_000101.wav|ɪts mˌiː pˈɪɡ lˈɪt, hˈɛlp hˈɛlp! |0
+/ESD/0016/Neutral/0016_000102.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm. |0
+/ESD/0016/Neutral/0016_000103.wav|ðɪ ˈɛlɪfənt ænd ðə kˈɑːɹpəntɚɹ ɪz ðə lˈɔŋɡɪst. |0
+/ESD/0016/Neutral/0016_000104.wav|hˈɪɹ æm ˈaɪ hˈuːm juː sˈiːk. |0
+/ESD/0016/Neutral/0016_000105.wav|hiː wʌz kˈɪld baɪ ɐn ˈæɹoʊ. |0
+/ESD/0016/Neutral/0016_000106.wav|aɪ ɡˈɛs ɪts ɐ tʃˈɔɪs fˈiːst. |0
+/ESD/0016/Neutral/0016_000107.wav|tˈɑːm ænd mˈaɪkəl wˈoʊk ˌʌp nˈɛkst mˈɔːɹnɪŋ. |0
+/ESD/0016/Neutral/0016_000108.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt. |0
+/ESD/0016/Neutral/0016_000109.wav|ɪf ðeɪ mˈʌðɚ nˈuː ɪt. |0
+/ESD/0016/Neutral/0016_000110.wav|ˈækt dɹˈɑːp sˈɛkənd ˈækt sˈiːn. |0
+/ESD/0016/Neutral/0016_000111.wav|wiː nˈaɪtli dˈæns ˌaʊɚ hˈeɪdeɪ ɡˈaɪz. |0
+/ESD/0016/Neutral/0016_000112.wav|klˈaʊn, tə kˈɔːl hˌɪm dʒˈoʊi. |0
+/ESD/0016/Neutral/0016_000113.wav|mˈɪstɚ lˈɔːsən sˈɔː dʒˈɔːɹdʒ lˈæst nˈaɪt. |0
+/ESD/0016/Neutral/0016_000114.wav|ɐ hˈæf pˈaʊndz ʌv flˈaʊɚ ænd tˈuː ˈaʊnsᵻz sˈuːɪt. |0
+/ESD/0016/Neutral/0016_000115.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl. |0
+/ESD/0016/Neutral/0016_000116.wav|nˈoʊ, aɪ bˈɜːst ðə bəlˈuːn! |0
+/ESD/0016/Neutral/0016_000117.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn. |0
+/ESD/0016/Neutral/0016_000118.wav|lˈʊk ˈaʊt! sˈɛd ˈælɪs. |0
+/ESD/0016/Neutral/0016_000119.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ. |0
+/ESD/0016/Neutral/0016_000120.wav|ˌaʊɚ kˈɪŋ dʒˈɔːɹdʒ ɪz lˈeɪbɚɹɚz. |0
+/ESD/0016/Neutral/0016_000121.wav|fˈɪn ænd ðə fˈɛɹi ʃˈuːmeɪkɚ. |0
+/ESD/0016/Neutral/0016_000122.wav|æm aɪ ɐn ˈæbsəlˌuːt pˈɔːpɚ? |0
+/ESD/0016/Neutral/0016_000123.wav|aɪɐm fɹʌm tˈaʊəl lˈænd. |0
+/ESD/0016/Neutral/0016_000124.wav|juː nˈoʊ, ˈænsɚz tə ðə nˈeɪm ʌv tˈɑːmz sˈʌn. |0
+/ESD/0016/Neutral/0016_000125.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː! |0
+/ESD/0016/Neutral/0016_000126.wav|ðɪs tˈɜːn ɡoʊz tə ðə hˈɪl. |0
+/ESD/0016/Neutral/0016_000127.wav|kˈɑːs aɪ nˈoʊ aɪ hˌæd sʌm hˈʌni. |0
+/ESD/0016/Neutral/0016_000128.wav|pˌʊt ðæt ɹˈuːd ɡɹˈæshɑːpɚɹ ɪn dʒˈeɪl! |0
+/ESD/0016/Neutral/0016_000129.wav|ɐ lˈɑːɹdʒ flˈæt fˈɛɹi bˈoʊt wʌz mˈʊɹd bᵻsˌaɪdɪt. |0
+/ESD/0016/Neutral/0016_000130.wav|ænd wʊd spˈɔɪl maɪ dʒˈoʊk. |0
+/ESD/0016/Neutral/0016_000131.wav|ɪt mˈʌst kˈʌm sˈʌmtaɪmz tə dʒˈæm ɐ dˈeɪ. |0
+/ESD/0016/Neutral/0016_000132.wav|aɪ θˈæŋk juː fɔːɹ ðɪs mˈɜːsi! |0
+/ESD/0016/Neutral/0016_000133.wav|aɪ smˈɛl ðə bɹˈɛθ əvən ˈɪŋɡlɪʃ. |0
+/ESD/0016/Neutral/0016_000134.wav|ɹˈɛɹ ɹˈæbɪt hæd ɐ lˈɪɾəl ˈeɪpɹən. |0
+/ESD/0016/Neutral/0016_000135.wav|aɪ blˈɪŋkt maɪ ˈaɪz hˈɑːɹd. |0
+/ESD/0016/Neutral/0016_000136.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːlʌv ɪt. |0
+/ESD/0016/Neutral/0016_000137.wav|lˈɛt ðə ɡlˈæs ɡlˈoʊb bˈiː. |0
+/ESD/0016/Neutral/0016_000138.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs. |0
+/ESD/0016/Neutral/0016_000139.wav|kˈʊkuːz ɪz dˌaʊnhˈɛdᵻd ænd kɹˈaɪɪŋ. |0
+/ESD/0016/Neutral/0016_000140.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz! |0
+/ESD/0016/Neutral/0016_000141.wav|kæn aɪ lˈɑːdʒ hˈɪɹ tənˈaɪt? |0
+/ESD/0016/Neutral/0016_000142.wav|wˈeɪk nˈaʊ maɪ mˈɛɹi tˈædz! |0
+/ESD/0016/Neutral/0016_000143.wav|pˈʊsi kæn sˈɪt baɪ ðə fˈaɪɚ ænd sˈɪŋ. |0
+/ESD/0016/Neutral/0016_000144.wav|wiː ˈɔːl sˈiː pˈændə ˌɔn tˌiːvˈiː ɔːɹ ɪnðə zˈuː. |0
+/ESD/0016/Neutral/0016_000145.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl! |0
+/ESD/0016/Neutral/0016_000146.wav|hiː sˈɛd tə dʒˈæk, ðə tʃˈæɾɚɹɚ. |0
+/ESD/0016/Neutral/0016_000147.wav|ænd ðɛɹ juːl fˈaɪnd ɐ snˈæp dɹˈæɡən flˈaɪ. |0
+/ESD/0016/Neutral/0016_000148.wav|ænd ɔnðə tˈɑːp ʌv ðˌɛm, kˈeɪm wˈɪni, ðə kjˈuːt bˈɛɹ. |0
+/ESD/0016/Neutral/0016_000149.wav|maɪ wˈaɪndɪŋ ʃˈiːt! |0
+/ESD/0016/Neutral/0016_000150.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf? |0
+/ESD/0016/Neutral/0016_000151.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm. |0
+/ESD/0016/Neutral/0016_000152.wav|ɡˈɪlti fɔːɹ wʌt dˈuː juː ɹˈuːl? |0
+/ESD/0016/Neutral/0016_000153.wav|bˌʌt wiː ɑːɹ nˌɑːt hˈaɪ jˈɛt. |0
+/ESD/0016/Neutral/0016_000154.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt. |0
+/ESD/0016/Neutral/0016_000155.wav|ðɪs spˈiːtʃ ɹˈaʊzd dˈeɪm ˈɪls tʊ ˈæŋɡɚ. |0
+/ESD/0016/Neutral/0016_000156.wav|ðɪ ˈaɪ kʊd nˌɑːt kˈætʃ ðˌɛm. |0
+/ESD/0016/Neutral/0016_000157.wav|blˈækbɜːd, ænd dʒˈeɪ. |0
+/ESD/0016/Neutral/0016_000158.wav|ɪt lˈʊks mˈʌtʃ bˈɛɾɚ. |0
+/ESD/0016/Neutral/0016_000159.wav|sˈʌtʃ tˈuːnz ɑːɹ dʒˈɔɪ tʊ ɐ dˈænsɪŋ fˈeɪ. |0
+/ESD/0016/Neutral/0016_000160.wav|kˈɪɾi, kæn juː plˈeɪ tʃˈɛs? |0
+/ESD/0016/Neutral/0016_000161.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt. |0
+/ESD/0016/Neutral/0016_000162.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz. |0
+/ESD/0016/Neutral/0016_000163.wav|hˌaʊ ðeɪ wɛnt tə ðə mˈaʊntɪnz tʊ ˈiːt nˈʌts. |0
+/ESD/0016/Neutral/0016_000164.wav|hɪz lˈɑːɹdʒ mˈaʊθ kˈɜːld ˌɪntʊ ɐ snˈɪɹ. |0
+/ESD/0016/Neutral/0016_000165.wav|ðeɪ wɜː ɡˌoʊɪŋ fˈæst, wɪð ɐ lˈaɪt klˈɪp. |0
+/ESD/0016/Neutral/0016_000166.wav|ðeɪ ˈeɪt bˈiːf æt ðə bˈʊtʃɚ ʃˈɑːp. |0
+/ESD/0016/Neutral/0016_000167.wav|aɪ tˈɔɪ wɪð maɪ lᵻkˈɜː. |0
+/ESD/0016/Neutral/0016_000168.wav|aɪ sˈɛd juː lˈʊkt lˈaɪk ɐn ˈɛɡ, sˌɜː. |0
+/ESD/0016/Neutral/0016_000169.wav|sˈæm wˈeɪvd hɪz ˈɑːɹm vˈeɪɡli. |0
+/ESD/0016/Neutral/0016_000170.wav|bˌʌt ɪf juː hˈædənt dˈʌn ðˌɛm. |0
+/ESD/0016/Neutral/0016_000171.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ. |0
+/ESD/0016/Neutral/0016_000172.wav|aɪʃˌɐl sˈeɪ ɡˈʊd bˈaɪ. |0
+/ESD/0016/Neutral/0016_000173.wav|hiː sˈɜːtʃt θɹuː ðə bˈɑːks. |0
+/ESD/0016/Neutral/0016_000174.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə. |0
+/ESD/0016/Neutral/0016_000175.wav|ˈɔːl ðɪs hæv wiː wˈʌn baɪ ˌaʊɚ lˈeɪbɚ. |0
+/ESD/0016/Neutral/0016_000176.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl. |0
+/ESD/0016/Neutral/0016_000177.wav|tˈɑːm fˈɛl wɪð ɐ klˈoʊvən hˈɛd. |0
+/ESD/0016/Neutral/0016_000178.wav|ænd vˈaʊd hiːd tʃˈeɪndʒ ðə pˈɪɡteɪlz plˈeɪs. |0
+/ESD/0016/Neutral/0016_000179.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz. |0
+/ESD/0016/Neutral/0016_000180.wav|tˈoʊst fɹʌmðə bɹˈɛd fɹˈuːt tɹˈiː. |0
+/ESD/0016/Neutral/0016_000181.wav|fˈɜːst, ˈɪʃuː ɐ ɹᵻwˈɔːɹd. |0
+/ESD/0016/Neutral/0016_000182.wav|ˈeɪdʒ fˈɔːɹɾi fˈaɪv ɪf ɐ dˈeɪ ɐ lˈaɪ. |0
+/ESD/0016/Neutral/0016_000183.wav|fɹˈɛʃ pˈeɪn sˈiːzd pˈɔːlz bˈɑːdi. |0
+/ESD/0016/Neutral/0016_000184.wav|wiː hɐvbɪn fˈaɪn, hˈævənt wiː? |0
+/ESD/0016/Neutral/0016_000185.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ. |0
+/ESD/0016/Neutral/0016_000186.wav|ʃiː dʒˈʌmp æt ðə tˈeɪl ænd bˈaɪt ɪt sˈævɪdʒli. |0
+/ESD/0016/Neutral/0016_000187.wav|ɐn ˈaʊɚɹ ˌaʊɾəv ɡˈɪld fˈoːɹd tˈaʊn. |0
+/ESD/0016/Neutral/0016_000188.wav|nˈaʊ kwˈɪkɚ ðə fˈɪdəl wˈɛnt. |0
+/ESD/0016/Neutral/0016_000189.wav|wˌɛn sˈʌtʃ wˈɔndɚɹɚz mˈiːt. |0
+/ESD/0016/Neutral/0016_000190.wav|ænd ðeɪ wɜː sˈændi jˈɛloʊ bɹˈaʊnɪʃ ˈɔːl ˈoʊvɚ. |0
+/ESD/0016/Neutral/0016_000191.wav|aɪ mˌeɪk hɜː kwˈaɪt nˈɜːvi æt tˈaɪmz. |0
+/ESD/0016/Neutral/0016_000192.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld. |0
+/ESD/0016/Neutral/0016_000193.wav|plˈiːz hˈaɪɚ mˌiː ˈæftɚ juː. |0
+/ESD/0016/Neutral/0016_000194.wav|jˈɛs, aɪ mˈɪs hɜː. |0
+/ESD/0016/Neutral/0016_000195.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ. |0
+/ESD/0016/Neutral/0016_000196.wav|klˈɪɹ ɑːɹ jʊɹ ˈaɪz ænd bɹˈaɪt jʊɹ bɹˈɛθ! |0
+/ESD/0016/Neutral/0016_000197.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt. |0
+/ESD/0016/Neutral/0016_000198.wav|aɪd ʃˈuːt maɪsˈɛlf. ɐ pˈɔːz. |0
+/ESD/0016/Neutral/0016_000199.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ. |0
+/ESD/0016/Neutral/0016_000200.wav|ðæt klˈɔθ dʌznˌɑːt lˈʊk wˈɜːθ mˈʌtʃ! |0
+/ESD/0016/Neutral/0016_000201.wav|ɐ lˈeɪdi, ɪz ˌɔn ˈælɪsᵻz lˈæp! |0
+/ESD/0016/Neutral/0016_000202.wav|ðæt sˈaʊndz ɡˈʊd. |0
+/ESD/0016/Neutral/0016_000203.wav|aɪ wʌz nˌɑːt ɡɹˈæbd. |0
+/ESD/0016/Neutral/0016_000204.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt. |0
+/ESD/0016/Neutral/0016_000205.wav|fˈɪɹ nˈiːðɚ ɹˈuːt nˈɔːɹ spɹˈaʊt! |0
+/ESD/0016/Neutral/0016_000206.wav|stˈɪl juː ˈoʊ ɪɾ ɐ dˈuːɾi. |0
+/ESD/0016/Neutral/0016_000207.wav|wˌʌt æm ˈaɪ, aɪm ɐ ɹˈeɪsɚ, sˈʌn ʌv ɡˈɑːd. |0
+/ESD/0016/Neutral/0016_000208.wav|haʊˈɛvɚ, sˈʌmbɑːdi kˈɪld sˈʌmθɪŋ. |0
+/ESD/0016/Neutral/0016_000209.wav|ɐ ɹˈeɪdʒɪŋ fˈaɪɚ wʌz ɪn hɪz ˈaɪz. |0
+/ESD/0016/Neutral/0016_000210.wav|ɪt wˈeɪts sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm. |0
+/ESD/0016/Neutral/0016_000211.wav|fɹʌm ˈiːtʃ kˈeɪk, ðɛɹ spɹˈæŋ ɐ hjˈuːdʒ dˈɑːɡ. |0
+/ESD/0016/Neutral/0016_000212.wav|nˈoʊ θˈæŋk juː. |0
+/ESD/0016/Neutral/0016_000213.wav|lˈɛt ɪt ɡˈɪv ˌʌs ɐ tʃˈæns, maɪ pɹˈɛʃəs. |0
+/ESD/0016/Neutral/0016_000214.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki! |0
+/ESD/0016/Neutral/0016_000215.wav|hiː lˈaɪks dɹˈæɡənz vˈɛɹi mˈʌtʃ. |0
+/ESD/0016/Neutral/0016_000216.wav|ɪɾ ˌɪzənt pˈɪkt æɾ ˈɔːl. |0
+/ESD/0016/Neutral/0016_000217.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf ! |0
+/ESD/0016/Neutral/0016_000218.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ. |0
+/ESD/0016/Neutral/0016_000219.wav|bˌʌt ðə tˈuːn ˌɪzənt hɪz ˈoʊn ɪnvˈɛnʃən. |0
+/ESD/0016/Neutral/0016_000220.wav|hɜː pˈɔː wɛnt ˌɪntʊ jʊɹ ˈaɪ? |0
+/ESD/0016/Neutral/0016_000221.wav|aɪɐm ɐ sˈɛlfɪʃ sˈɪnɚ. |0
+/ESD/0016/Neutral/0016_000222.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː. |0
+/ESD/0016/Neutral/0016_000223.wav|pˈɪk, pˈɪk, pˈɪk! |0
+/ESD/0016/Neutral/0016_000224.wav|dˈuː juː nˈoʊ ðə lˈɪd ˈoʊpənz? |0
+/ESD/0016/Neutral/0016_000225.wav|hɜːɹ ɛɡzˈɪstəns mˌeɪks hˌɪm plˈɛzənt. |0
+/ESD/0016/Neutral/0016_000226.wav|ænd ðə nˈɛkst dˈeɪ. nˈɜːs wɪl biː ɹᵻlˈiːst. |0
+/ESD/0016/Neutral/0016_000227.wav|bˈɔːɹn wˈʌns ˈɛvɹi wˈʌn hˈʌndɹɪd jˈɪɹz, dˈaɪz ɪn flˈeɪmz! |0
+/ESD/0016/Neutral/0016_000228.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi. |0
+/ESD/0016/Neutral/0016_000229.wav|ðə fˈɜːst jˈɪɹ ðeɪ sˈoʊd ɹˈaɪ. |0
+/ESD/0016/Neutral/0016_000230.wav|jʊɹ ˈoʊn wˈaɪf ɪz nˌɑːt æt hˈoʊm. |0
+/ESD/0016/Neutral/0016_000231.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ. |0
+/ESD/0016/Neutral/0016_000232.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt. |0
+/ESD/0016/Neutral/0016_000233.wav|wˌaɪ ʃˌʊd ˈaɪ kˈɛɹ ðˌoʊ dˈeɪvɪdz lˈɪps wɜː twˈɪtʃɪŋ? |0
+/ESD/0016/Neutral/0016_000234.wav|hˈɜːɹi ˈʌp, hˈɜːɹi ˈʌp! |0
+/ESD/0016/Neutral/0016_000235.wav|ɪf nˈɑːt, aɪʃˌɐl ɡˌoʊ nˈoʊ fˈɜːðɚ. |0
+/ESD/0016/Neutral/0016_000236.wav|hˌaʊ ɹˈæʃ juː ɑːɹ! |0
+/ESD/0016/Neutral/0016_000237.wav|wˌʌt wʊd ðeɪ dˈuː æt ðɪ ˈɛnd ʌvðə jˈɪɹ? |0
+/ESD/0016/Neutral/0016_000238.wav|tədˈeɪ ˌɪzənt ˌɛni ˈʌðɚ dˈeɪ. |0
+/ESD/0016/Neutral/0016_000239.wav|ðɪs ɪz ðə wˈeɪ ðæt snˈeɪks ˈɔːlweɪz tˈɔːk. |0
+/ESD/0016/Neutral/0016_000240.wav|bˈoʊθ sˈaɪd wɜː sˈɔftli kˈɜːvd. |0
+/ESD/0016/Neutral/0016_000241.wav|wiː hæv ʃˈoʊd hɪz ʃˈɑːɹk tˈuːθ. |0
+/ESD/0016/Neutral/0016_000242.wav|ɡˈɪv mˌiː jʊɹ hˈænd ɔːɹ aɪ wɪl kɹˈaɪ hˈɑːɹdɚ ðɐn bᵻfˈoːɹ. |0
+/ESD/0016/Neutral/0016_000243.wav|ænd hɐz juː slˈeɪn hˌɪm? |0
+/ESD/0016/Neutral/0016_000244.wav|ˈɔf fɚðə pɹˈɪzən ʃˈɪp. |0
+/ESD/0016/Neutral/0016_000245.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl? |0
+/ESD/0016/Neutral/0016_000246.wav|wiː kæn nˌɑːt dˈuː ɪt sˌɜː. |0
+/ESD/0016/Neutral/0016_000247.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs. |0
+/ESD/0016/Neutral/0016_000248.wav|ɪnwˌɪtʃ pˈɪɡlɪt mˈiːts ɐ ˈɛlɪfənt. |0
+/ESD/0016/Neutral/0016_000249.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp. |0
+/ESD/0016/Neutral/0016_000250.wav|hɜː kˈaɪnd ænd fˈɜːm ɡlˈæns. |0
+/ESD/0016/Neutral/0016_000251.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli. |0
+/ESD/0016/Neutral/0016_000252.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt. |0
+/ESD/0016/Neutral/0016_000253.wav|aɪ hæv ɐ sˈuːθseɪɚ. |0
+/ESD/0016/Neutral/0016_000254.wav|ʃiː lˈæft. |0
+/ESD/0016/Neutral/0016_000255.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː. |0
+/ESD/0016/Neutral/0016_000256.wav|aɪ mˈʌstɐv tˈuː tə fˈɛtʃ ænd kˈæɹi. |0
+/ESD/0016/Neutral/0016_000257.wav|aɪ wʊd skˈɔf æt ðiːz fˈɑːloʊɚz. |0
+/ESD/0016/Neutral/0016_000258.wav|mˈʌm ʃˈʌts wˈʌnz mˈaʊθ ˈʌp, dˈʌzənt ɪt. |0
+/ESD/0016/Neutral/0016_000259.wav|ðə sˈɔŋ ɪz kˈɔːld wˈeɪz ænd mˈiːnz. |0
+/ESD/0016/Neutral/0016_000260.wav|æz sˈuːn æz ʃiː wɛnt ˈɪn, ðɛɹwˌʌz dɪsˈoːɹdɚ. |0
+/ESD/0016/Neutral/0016_000261.wav|ˈæftɚɹ ɐ wˈaɪl hiː pɚsˈiːvd bˈoʊθ dʒˈaɪənts. |0
+/ESD/0016/Neutral/0016_000262.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm! |0
+/ESD/0016/Neutral/0016_000263.wav|ʃiː sˈɛd ɪn sʌbdˈuːd vˈɔɪs. |0
+/ESD/0016/Neutral/0016_000264.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm! |0
+/ESD/0016/Neutral/0016_000265.wav|aɪv dʒˈʌst ʃˈɑːt ɐ stˈæɡ. |0
+/ESD/0016/Neutral/0016_000266.wav|wiː mˈeɪ dʒˈɔɪn wɪð ðæt pˈaʊɚ. |0
+/ESD/0016/Neutral/0016_000267.wav|tʃˈæptɚɹ ᵻlˈɛvən ɔnðə dˈoːɹstɛp. |0
+/ESD/0016/Neutral/0016_000268.wav|hiː ʃˈoʊd nˈoʊ sˈaɪnz ʌv ˈeɪdʒ. |0
+/ESD/0016/Neutral/0016_000269.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp! |0
+/ESD/0016/Neutral/0016_000270.wav|tʃˈuː lˈiːvz kwˈɪkli, sˈɛd ɹˈæbɪt. |0
+/ESD/0016/Neutral/0016_000271.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ. |0
+/ESD/0016/Neutral/0016_000272.wav|nˈoʊ ɐdmˈɪtəns ɛksˈɛpt ˌɔn pˈɑːɹɾi bˈɪznəs. |0
+/ESD/0016/Neutral/0016_000273.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː. |0
+/ESD/0016/Neutral/0016_000274.wav|bɪkˈʌz hiː wʌzɐ mˈæn wɪð ˈɪnfɪnət ɹᵻsˈoːɹs ænd səɡˈæsᵻɾi. |0
+/ESD/0016/Neutral/0016_000275.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn. |0
+/ESD/0016/Neutral/0016_000276.wav|kæn jʊɹ nˈeɪm biː mˈoːɹ hɪlˈɛɹiəs? |0
+/ESD/0016/Neutral/0016_000277.wav|ðɪ ˈɛnd pˈɑːɹt ɪz fˈɪʃ mˈaʊθ. |0
+/ESD/0016/Neutral/0016_000278.wav|aɪ nˈoʊ juː . |0
+/ESD/0016/Neutral/0016_000279.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns. |0
+/ESD/0016/Neutral/0016_000280.wav|jʊɹ pˈæθ nˈaʊ ɡoʊz sˈaʊθ. |0
+/ESD/0016/Neutral/0016_000281.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ. |0
+/ESD/0016/Neutral/0016_000282.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn. |0
+/ESD/0016/Neutral/0016_000283.wav|ðeɪ hɐdbɪn nˈeɪmd tˈɑːm ænd dʒˈɛɹi. |0
+/ESD/0016/Neutral/0016_000284.wav|tʃˈæptɚɹ ˈeɪtiːn, ðə ɹᵻtˈɜːn dʒˈɜːni. |0
+/ESD/0016/Neutral/0016_000285.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː. |0
+/ESD/0016/Neutral/0016_000286.wav|wˈʌn tˈuː θɹˈiː, wˌɛɹ ɪz jʊɹ bɹˈɛkfəst. |0
+/ESD/0016/Neutral/0016_000287.wav|ɐ vˈɔɪs sˈɛd: kˈʌm ˈɪn. |0
+/ESD/0016/Neutral/0016_000288.wav|ʃiː hɐz fˈɛlt ʃˈaɪ ʌv ɪt. |0
+/ESD/0016/Neutral/0016_000289.wav|nˈoʊ, sˈɛd pˈɪɡi kˈɛɹləsli. |0
+/ESD/0016/Neutral/0016_000290.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn! |0
+/ESD/0016/Neutral/0016_000291.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ. |0
+/ESD/0016/Neutral/0016_000292.wav|ʃiː hɐz ɐ hˈaɪ vˈɔɪs. |0
+/ESD/0016/Neutral/0016_000293.wav|hiː ɪz ˈoʊld fˈæʃənd bˌʌt hiː ɪz ðə bˈɛst ʌv mˈɛn. |0
+/ESD/0016/Neutral/0016_000294.wav|nˈaʊ aɪ ˌʌndɚstˈænd. |0
+/ESD/0016/Neutral/0016_000295.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz. |0
+/ESD/0016/Neutral/0016_000296.wav|juː wˈoʊk mˌiː ˈʌp! |0
+/ESD/0016/Neutral/0016_000297.wav|hˌaʊ tˈɑːm ænd dʒˈɛɹi wɛnt tə vˈɪzɪt mˈɪstɚ sˈæm. |0
+/ESD/0016/Neutral/0016_000298.wav|ʃiː kˈʌm bˈæk tə ðə vˈæli. |0
+/ESD/0016/Neutral/0016_000299.wav|hɪz hˈoʊp wɪl tʃˈiːt hˌɪm. |0
+/ESD/0016/Neutral/0016_000300.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm. |0
+/ESD/0016/Neutral/0016_000301.wav|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt! |0
+/ESD/0016/Neutral/0016_000302.wav|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt? |0
+/ESD/0016/Neutral/0016_000303.wav|aɪɐm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ. |0
+/ESD/0016/Neutral/0016_000304.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd! |0
+/ESD/0016/Neutral/0016_000305.wav|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ. |0
+/ESD/0016/Neutral/0016_000306.wav|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz. |0
+/ESD/0016/Neutral/0016_000307.wav|aɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz. |0
+/ESD/0016/Neutral/0016_000308.wav|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ. |0
+/ESD/0016/Neutral/0016_000309.wav|hiː ˈoʊd mˈɪstɚ lˈɔːsən, aɪ kˈænt tˈɛl juː hˈaʊ. |0
+/ESD/0016/Neutral/0016_000310.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn. |0
+/ESD/0016/Neutral/0016_000311.wav|aɪɐm sˈeɪf bˈæk ɐɡˈɛn. |0
+/ESD/0016/Neutral/0016_000312.wav|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz. |0
+/ESD/0016/Neutral/0016_000313.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs. |0
+/ESD/0016/Neutral/0016_000314.wav|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl. |0
+/ESD/0016/Neutral/0016_000315.wav|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ. |0
+/ESD/0016/Neutral/0016_000316.wav|ɐ θˈiːf ɪnðə nˈaɪt. |0
+/ESD/0016/Neutral/0016_000317.wav|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd. |0
+/ESD/0016/Neutral/0016_000318.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks. |0
+/ESD/0016/Neutral/0016_000319.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz? |0
+/ESD/0016/Neutral/0016_000320.wav|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ. |0
+/ESD/0016/Neutral/0016_000321.wav|kˈɔːld ˈaʊt ðə klˈaʊd. |0
+/ESD/0016/Neutral/0016_000322.wav|ɐ spˈɛʃəl pˈɑːt tˈuː. |0
+/ESD/0016/Neutral/0016_000323.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp! |0
+/ESD/0016/Neutral/0016_000324.wav|ænd ʃiː kˈɔːt æt ðə bɹˈoʊtʃ. |0
+/ESD/0016/Neutral/0016_000325.wav|ʃiː hɐz nˈoʊ plˈeɪs fɔːɹ hˈɑːt pˈɛpɚ . |0
+/ESD/0016/Neutral/0016_000326.wav|ðeɪ ɑːɹ mˌeɪd ʌv wˈʊd. |0
+/ESD/0016/Neutral/0016_000327.wav|ɪts pˈɑːɹt ʌv maɪ sˈiːkɹᵻt. |0
+/ESD/0016/Neutral/0016_000328.wav|ɪt wʊd biː ɐ hˈɑːɹd tʃˈɔɪs. |0
+/ESD/0016/Neutral/0016_000329.wav|ænd hɪz hˈɑːɹt wˈæɡd wɪð dʒˈɔɪ lˈaɪk ɐ lˈæmz tˈeɪl. |0
+/ESD/0016/Neutral/0016_000330.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz. |0
+/ESD/0016/Neutral/0016_000331.wav|ʃiːl biː fˈiːvɚɹɪʃ ˈæftɚ sˈoʊ mˌʌtʃ θˈɪŋkɪŋ. |0
+/ESD/0016/Neutral/0016_000332.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ? |0
+/ESD/0016/Neutral/0016_000333.wav|juː ɡˈeɪn fɔːɹ nˈʌθɪŋ ɡˈɜːl! |0
+/ESD/0016/Neutral/0016_000334.wav|ɐnˈʌðɚ wˌʌn, tˈɛn θˈaʊzənd dˈɑːlɚz. |0
+/ESD/0016/Neutral/0016_000335.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt. |0
+/ESD/0016/Neutral/0016_000336.wav|ˌoʊvɚ ðˌɛm swˈuːpt ðɪ ˈiːɡəlz. |0
+/ESD/0016/Neutral/0016_000337.wav|bˌʌt mˈɑːm aɪm nˌɑːt sˈɜːʔn̩ ɐbˈaʊt. |0
+/ESD/0016/Neutral/0016_000338.wav|pˈɔːlz tˈiːθ ˈeɪkt bɪkˈʌz ʌv lˈɛmən. |0
+/ESD/0016/Neutral/0016_000339.wav|ænd biː wɪð juː,tˈɑːm! |0
+/ESD/0016/Neutral/0016_000340.wav|sˌoʊ tˈɑːm sˈɔː nˈaɪt æz ɪt wɜː bɹˈɔːd dˈeɪlaɪt. |0
+/ESD/0016/Neutral/0016_000341.wav|ɪnˈʌf,juː ɐ fˈuːlɪʃ tʃˈæɾɚ. |0
+/ESD/0016/Neutral/0016_000342.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn? |0
+/ESD/0016/Neutral/0016_000343.wav|ænd wʌt dˈʌz ɪt mˈiːn? |0
+/ESD/0016/Neutral/0016_000344.wav|lˈuːsi, ɐ klˈɛvɚ fˈɑːɹmɚ. |0
+/ESD/0016/Neutral/0016_000345.wav|ɐ wˈɜːɹɪŋ nˈɔɪz wʌz hˈɜːd. |0
+/ESD/0016/Neutral/0016_000346.wav|aɪɐm ɡˌoʊɪŋ tə bˈæk hˈoʊm. |0
+/ESD/0016/Neutral/0016_000347.wav|wˌʌt ɑːɹ juː wˈeɪɾɪŋ fɔːɹ? mˈæn. |0
+/ESD/0016/Neutral/0016_000348.wav|dˈɪɹ kˈʌstəmɚ,wˈɛlkʌm tʊ ˌaʊɚ ʃˈɪp. |0
+/ESD/0016/Neutral/0016_000349.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən? |0
+/ESD/0016/Neutral/0016_000350.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd? |0
+/ESD/0016/Angry/0016_000351.wav|ðə nˈaɪn ðɪ ˈɛɡz, aɪ kˈiːp. |0
+/ESD/0016/Angry/0016_000352.wav|aɪ dˈɪd ɡˈoʊ, ænd mˌeɪd mˈɛni pɹˈɪzənɚz. |0
+/ESD/0016/Angry/0016_000353.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː. |0
+/ESD/0016/Angry/0016_000354.wav|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈæs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt. |0
+/ESD/0016/Angry/0016_000355.wav|klˈɪɹ ðɐn klˈɪɹ wˈɔːɾɚ! |0
+/ESD/0016/Angry/0016_000356.wav|ˈændi wʌts ðə dʒˈaɪɚ ænd tə ɡˈæmbəl. |0
+/ESD/0016/Angry/0016_000357.wav|aɪm æz bˈæd æz aɪ kæn bˈiː. |0
+/ESD/0016/Angry/0016_000358.wav|ðæt wʌz hɪz tʃˈiːf θˈɔːt. |0
+/ESD/0016/Angry/0016_000359.wav|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ. |0
+/ESD/0016/Angry/0016_000360.wav|ɐ nˈɔːsɪəs dɹˈæft. |0
+/ESD/0016/Angry/0016_000361.wav|tʃˈæptɚ tˈɛn ɐ wˈɔːɹm wˈɛlkʌm. |0
+/ESD/0016/Angry/0016_000362.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz. |0
+/ESD/0016/Angry/0016_000363.wav|aɪ hæv bˈʌnbɛɹid ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz. |0
+/ESD/0016/Angry/0016_000364.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː! |0
+/ESD/0016/Angry/0016_000365.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd! |0
+/ESD/0016/Angry/0016_000366.wav|mˈɪstɚ ʃˈɛɹ mˈæn, aɪ mˈuːv fɚɹə dᵻvˈɪʒən. |0
+/ESD/0016/Angry/0016_000367.wav|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən? |0
+/ESD/0016/Angry/0016_000368.wav|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ. |0
+/ESD/0016/Angry/0016_000369.wav|æt ðɪ ˈɛnd ʌv fˈoːɹ. |0
+/ESD/0016/Angry/0016_000370.wav|æt ðə ɹˈuːtsəvə bˈʊʃ əvə ɡɹˈæs. |0
+/ESD/0016/Angry/0016_000371.wav|æz ɹˈɪtʃæz pˈiːɾɚz sˈʌn ɪn lˈɔː! |0
+/ESD/0016/Angry/0016_000372.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz. |0
+/ESD/0016/Angry/0016_000373.wav|aɪ θˈɔːt juː mˈɛnt hˌaʊ ˈoʊld ɑːɹ juː? |0
+/ESD/0016/Angry/0016_000374.wav|ðə fˈʊtbɔːl tˈiːmz ɡˈɪv ɐ tˈiː pˈɑːɹɾi. |0
+/ESD/0016/Angry/0016_000375.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ. |0
+/ESD/0016/Angry/0016_000376.wav|lˈɛts mˌeɪk ðə nˈɔɪz ɐ snˈeɪk. |0
+/ESD/0016/Angry/0016_000377.wav|mˈɔnstɚ mˌeɪd ɐ dˈiːp bˈoʊ. |0
+/ESD/0016/Angry/0016_000378.wav|ʃiː hæd sˈɛd, sˌoʊ ðˈætwˌʌn kʊd kˈiːp ˌʌp ɐ kɑːnvɚsˈeɪʃən! |0
+/ESD/0016/Angry/0016_000379.wav|ɹˈæt kˈeɪm ænd ɹᵻplˈaɪd ɔnðə lˈiːvz. |0
+/ESD/0016/Angry/0016_000380.wav|mˈʌst ɐ nˈeɪm mˈiːn sˈʌmθɪŋ? |0
+/ESD/0016/Angry/0016_000381.wav|ˈɔːl smˈaɪl wɜː ɹˈiːəl ænd ðə hˈæpɪɚ ðə mˈoːɹ sɪnsˈɪɹ . |0
+/ESD/0016/Angry/0016_000382.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː? |0
+/ESD/0016/Angry/0016_000383.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən. |0
+/ESD/0016/Angry/0016_000384.wav|ɐ dᵻvˈaɪn ɹˈæθ mˌeɪd hɜː blˈuː ˈaɪz ˈɔːfəl. |0
+/ESD/0016/Angry/0016_000385.wav|ðə nˈeɪm ɹˈiəli ɪz ðɪ ˈeɪdʒɛdɪdʒd mˈæn. |0
+/ESD/0016/Angry/0016_000386.wav|hˌaʊ aɪ hˈeɪt ðɪs fˈaʊl pˈuːl! |0
+/ESD/0016/Angry/0016_000387.wav|aɪ θˈɪŋk ˌɪɾəl ɛŋkˈɜːɹɪdʒ mˌiː. |0
+/ESD/0016/Angry/0016_000388.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd. |0
+/ESD/0016/Angry/0016_000389.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ. |0
+/ESD/0016/Angry/0016_000390.wav|ɪnwˌɪtʃ fˈɑːks lˈuːzᵻz ɐ tˈeɪl ænd ɪts ˈɛldɚ sˈɪstɚ fˈaɪndz wˌʌn. |0
+/ESD/0016/Angry/0016_000391.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ. |0
+/ESD/0016/Angry/0016_000392.wav|ʃiː mˈeɪ mˈaɪnd jiː ʌv hɜː. |0
+/ESD/0016/Angry/0016_000393.wav|stˈoːɹi twˈɛnti nˈaɪn ɐ bˈɔɪ ænd ɐ mˈʌŋki. |0
+/ESD/0016/Angry/0016_000394.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt. |0
+/ESD/0016/Angry/0016_000395.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz. |0
+/ESD/0016/Angry/0016_000396.wav|ðeɪd nˈɛvɚ nˈoʊ aɪd ɹˈɛɡjʊlɚ ɹˈæn ɐwˈeɪ. |0
+/ESD/0016/Angry/0016_000397.wav|plˈiːz ɛkskjˈuːs mˌiː. |0
+/ESD/0016/Angry/0016_000398.wav|juː ɑːɹ nˌɑːɾɚ ɹˈʌnəwˌeɪ,hˈuː ɑːɹ juː? |0
+/ESD/0016/Angry/0016_000399.wav|ðˈɛn wiː ˈɔːl sˈeɪ ɑːhˈɑː! |0
+/ESD/0016/Angry/0016_000400.wav|ɹˈæbɪt ɡˈeɪv dˈɑːɡ ɐ hˈɜːɹiɪŋ ˌʌp sˈɔːɹt ʌv nˈʌdʒ. |0
+/ESD/0016/Angry/0016_000401.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz. |0
+/ESD/0016/Angry/0016_000402.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs. |0
+/ESD/0016/Angry/0016_000403.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst! |0
+/ESD/0016/Angry/0016_000404.wav|ɑːɹ juː ɐ ɹˈɛɡjʊlɚ dˈɑːɹki ɹˈiəli? |0
+/ESD/0016/Angry/0016_000405.wav|ɐ dˈɛfənɪŋ tʃˈɪɹuːpɪŋ ɹˈɛnt ðɪ ˈɛɹ. |0
+/ESD/0016/Angry/0016_000406.wav|jʊɹ mˈɪdʒɪt wˈaɪf nˈɛvɚ kæn sˈɪŋ ɐ sˈɔŋ. |0
+/ESD/0016/Angry/0016_000407.wav|hˈænɪbəl kˈʌm tə sˈiː juː. |0
+/ESD/0016/Angry/0016_000408.wav|ðɪ ˈɑːktəpəs hɐz ˈeɪt lˈɛɡz. |0
+/ESD/0016/Angry/0016_000409.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni. |0
+/ESD/0016/Angry/0016_000410.wav|ðæt aɪɐm ɐ bˈɔːɹn nˈɜːs. |0
+/ESD/0016/Angry/0016_000411.wav|mˈɪdjɪɹ ɪz dˈeɪ, ʃˈaɪɚ jˈɪɹ. |0
+/ESD/0016/Angry/0016_000412.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili. |0
+/ESD/0016/Angry/0016_000413.wav|ˈæstɚɹˌɔɪd θɹˈiː hˈʌndɹɪd ænd twˈɛnti fˈaɪv. |0
+/ESD/0016/Angry/0016_000414.wav|ænd wiː ɑːɹ sˌoʊ θˈɜːsti! |0
+/ESD/0016/Angry/0016_000415.wav|tˈɑːm kʊd hˈɑːɹdli spˈiːk fɔːɹ lˈæfɪŋ. |0
+/ESD/0016/Angry/0016_000416.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn? |0
+/ESD/0016/Angry/0016_000417.wav|aɪ səpˈoʊz nˈoʊ, ɪt dˈʌzənt! |0
+/ESD/0016/Angry/0016_000418.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd. |0
+/ESD/0016/Angry/0016_000419.wav|nˌɑːt mˈʌtʃ jˈuːs ɪz ɪt, sˈæm? |0
+/ESD/0016/Angry/0016_000420.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ! |0
+/ESD/0016/Angry/0016_000421.wav|ʃiː wʌz bˈɔːɹn ˌɔn ˈeɪpɹəl nˈaɪntiːn fˈɔːɹɾi θɹˈiː. |0
+/ESD/0016/Angry/0016_000422.wav|hˈaʊ ɑːɹ juː, dˈɪɹ tʃˈaɪld? |0
+/ESD/0016/Angry/0016_000423.wav|hˌaʊ səspˈɪʃəs ðɪs fˈɑːks. |0
+/ESD/0016/Angry/0016_000424.wav|kˈʌm ˌɔn maɪ dʒˈæk ɪnðə bˈɑːksᵻz! |0
+/ESD/0016/Angry/0016_000425.wav|aɪd fˈɑːɹ ɹˈæðɚ ɡˌoʊ wɪðˌaʊt ðˌɛm ðɐn ˈiːt ðˌɛm! |0
+/ESD/0016/Angry/0016_000426.wav|ðə hˈæɡ lˈʊkt ɪnðə stˈoʊv. |0
+/ESD/0016/Angry/0016_000427.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ. |0
+/ESD/0016/Angry/0016_000428.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː. |0
+/ESD/0016/Angry/0016_000429.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl. |0
+/ESD/0016/Angry/0016_000430.wav|ðˈɛn ðɛɹwˌʌz ɐ ɹᵻpˈoːɹt. |0
+/ESD/0016/Angry/0016_000431.wav|ænd aɪ nˈɛvɚ hæd ɐ wˈuːpɪŋ kˈɔf wˈaɪ. |0
+/ESD/0016/Angry/0016_000432.wav|ɐ fˈɛɹ dʒˈɔː kɹˈækɚ dwˈɔːɹf lˈæŋɡwɪdʒ mˈʌst bˈiː! |0
+/ESD/0016/Angry/0016_000433.wav|biː ˈɔf nˈaʊ æz kwˈɪk æz juː mˈeɪ! |0
+/ESD/0016/Angry/0016_000434.wav|baɪ hˈʊk ɔːɹ baɪ kɹˈʊk. |0
+/ESD/0016/Angry/0016_000435.wav|səpˈoʊz aɪ tˈeɪk ɡɹˈændmʌðɚɹ ɐ fɹˈɛʃ vˈɛdʒɪɾəbəl. |0
+/ESD/0016/Angry/0016_000436.wav|ænd tˈɪk ɐ tˈæk tˈuː. |0
+/ESD/0016/Angry/0016_000437.wav|ɐ hˈɪpoʊ lˈaɪvz ɪnðə zˈuː. |0
+/ESD/0016/Angry/0016_000438.wav|ɪn maɪ əpˈɪniən ðæt ɪz ɐ ɡˈʊd aɪdˈiə! |0
+/ESD/0016/Angry/0016_000439.wav|lˈɛt ɡˌoʊ ʌv maɪ tˈɑːp nˈɑːt. |0
+/ESD/0016/Angry/0016_000440.wav|ænd ðeɪ dˈɪd pˈʊʃ sˈoʊ! |0
+/ESD/0016/Angry/0016_000441.wav|wiː ɛkspˈɛktᵻd tˈɑːm wʊd dʒˈʌmp fɔːɹ dʒˈɔɪ. |0
+/ESD/0016/Angry/0016_000442.wav|dˈʌz ðə wˈʌn ðæt wˈɪnz ɡɛt ðə kɹˈaʊnd? |0
+/ESD/0016/Angry/0016_000443.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps. |0
+/ESD/0016/Angry/0016_000444.wav|ðeɪ fˈaʊnd ɐ kˈaʊ ɡɹˈeɪzɪŋ ɪn ɐ fˈiːld. |0
+/ESD/0016/Angry/0016_000445.wav|ɑːhˈɑː wʌt ˈaɪ hæv wiː hˈɪɹ? |0
+/ESD/0016/Angry/0016_000446.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ. |0
+/ESD/0016/Angry/0016_000447.wav|kənfˈɛs ðæt juː ˈoʊpənd ðə θˈɜːtiːnθ dˈoːɹ. |0
+/ESD/0016/Angry/0016_000448.wav|sˈɛd ðə wˈɪtʃ. |0
+/ESD/0016/Angry/0016_000449.wav|aɪv hˈɪt ðə ɹˈɔŋ nˈoʊz. |0
+/ESD/0016/Angry/0016_000450.wav|wˈɛl ˈɛnɪhˌaʊ ɪt dˈɪdnt ɹˈeɪn, hiː sˈɛd. |0
+/ESD/0016/Angry/0016_000451.wav|ɪts mˌiː pˈɪɡ lˈɪt, hˈɛlp hˈɛlp! |0
+/ESD/0016/Angry/0016_000452.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm. |0
+/ESD/0016/Angry/0016_000453.wav|ðɪ ˈɛlɪfənt ænd ðə kˈɑːɹpəntɚɹ ɪz ðə lˈɔŋɡɪst. |0
+/ESD/0016/Angry/0016_000454.wav|hˈɪɹ æm ˈaɪ hˈuːm juː sˈiːk. |0
+/ESD/0016/Angry/0016_000455.wav|hiː wʌz kˈɪld baɪ ɐn ˈæɹoʊ. |0
+/ESD/0016/Angry/0016_000456.wav|aɪ ɡˈɛs ɪts ɐ tʃˈɔɪs fˈiːst. |0
+/ESD/0016/Angry/0016_000457.wav|tˈɑːm ænd mˈaɪkəl wˈoʊk ˌʌp nˈɛkst mˈɔːɹnɪŋ. |0
+/ESD/0016/Angry/0016_000458.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt. |0
+/ESD/0016/Angry/0016_000459.wav|ɪf ðeɪ mˈʌðɚ nˈuː ɪt. |0
+/ESD/0016/Angry/0016_000460.wav|ˈækt dɹˈɑːp sˈɛkənd ˈækt sˈiːn. |0
+/ESD/0016/Angry/0016_000461.wav|wiː nˈaɪtli dˈæns ˌaʊɚ hˈeɪdeɪ ɡˈaɪz. |0
+/ESD/0016/Angry/0016_000462.wav|klˈaʊn, tə kˈɔːl hˌɪm dʒˈoʊi. |0
+/ESD/0016/Angry/0016_000463.wav|mˈɪstɚ lˈɔːsən sˈɔː dʒˈɔːɹdʒ lˈæst nˈaɪt. |0
+/ESD/0016/Angry/0016_000464.wav|ɐ hˈæf pˈaʊndz ʌv flˈaʊɚ ænd tˈuː ˈaʊnsᵻz sˈuːɪt. |0
+/ESD/0016/Angry/0016_000465.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl. |0
+/ESD/0016/Angry/0016_000466.wav|nˈoʊ, aɪ bˈɜːst ðə bəlˈuːn! |0
+/ESD/0016/Angry/0016_000467.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn. |0
+/ESD/0016/Angry/0016_000468.wav|lˈʊk ˈaʊt! sˈɛd ˈælɪs. |0
+/ESD/0016/Angry/0016_000469.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ. |0
+/ESD/0016/Angry/0016_000470.wav|ˌaʊɚ kˈɪŋ dʒˈɔːɹdʒ ɪz lˈeɪbɚɹɚz. |0
+/ESD/0016/Angry/0016_000471.wav|fˈɪn ænd ðə fˈɛɹi ʃˈuːmeɪkɚ. |0
+/ESD/0016/Angry/0016_000472.wav|æm aɪ ɐn ˈæbsəlˌuːt pˈɔːpɚ? |0
+/ESD/0016/Angry/0016_000473.wav|aɪɐm fɹʌm tˈaʊəl lˈænd. |0
+/ESD/0016/Angry/0016_000474.wav|juː nˈoʊ, ˈænsɚz tə ðə nˈeɪm ʌv tˈɑːmz sˈʌn. |0
+/ESD/0016/Angry/0016_000475.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː! |0
+/ESD/0016/Angry/0016_000476.wav|ðɪs tˈɜːn ɡoʊz tə ðə hˈɪl. |0
+/ESD/0016/Angry/0016_000477.wav|kˈɑːs aɪ nˈoʊ aɪ hˌæd sʌm hˈʌni. |0
+/ESD/0016/Angry/0016_000478.wav|pˌʊt ðæt ɹˈuːd ɡɹˈæshɑːpɚɹ ɪn dʒˈeɪl! |0
+/ESD/0016/Angry/0016_000479.wav|ɐ lˈɑːɹdʒ flˈæt fˈɛɹi bˈoʊt wʌz mˈʊɹd bᵻsˈaɪd ɪt. |0
+/ESD/0016/Angry/0016_000480.wav|ænd wʊd spˈɔɪl maɪ dʒˈoʊk. |0
+/ESD/0016/Angry/0016_000481.wav|ɪt mˈʌst kˈʌm sˈʌmtaɪmz tə dʒˈæm ɐ dˈeɪ. |0
+/ESD/0016/Angry/0016_000482.wav|aɪ θˈæŋk juː fɔːɹ ðɪs mˈɜːsi! |0
+/ESD/0016/Angry/0016_000483.wav|aɪ smˈɛl ðə bɹˈɛθ əvən ˈɪŋɡlɪʃ. |0
+/ESD/0016/Angry/0016_000484.wav|ɹˈɛɹ ɹˈæbɪt hæd ɐ lˈɪɾəl ˈeɪpɹən. |0
+/ESD/0016/Angry/0016_000485.wav|aɪ blˈɪŋkt maɪ ˈaɪz hˈɑːɹd. |0
+/ESD/0016/Angry/0016_000486.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːl ʌv ɪt. |0
+/ESD/0016/Angry/0016_000487.wav|lˈɛt ðə ɡlˈæs ɡlˈoʊb bˈiː. |0
+/ESD/0016/Angry/0016_000488.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs. |0
+/ESD/0016/Angry/0016_000489.wav|kˈʊkuːz ɪz dˌaʊnhˈɛdᵻd ænd kɹˈaɪɪŋ. |0
+/ESD/0016/Angry/0016_000490.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz! |0
+/ESD/0016/Angry/0016_000491.wav|kæn aɪ lˈɑːdʒ hˈɪɹ tənˈaɪt? |0
+/ESD/0016/Angry/0016_000492.wav|wˈeɪk nˈaʊ maɪ mˈɛɹi tˈædz! |0
+/ESD/0016/Angry/0016_000493.wav|pˈʊsi kæn sˈɪt baɪ ðə fˈaɪɚ ænd sˈɪŋ. |0
+/ESD/0016/Angry/0016_000494.wav|wiː ˈɔːl sˈiː pˈændə ˌɔn tˌiːvˈiː ɔːɹ ɪnðə zˈuː. |0
+/ESD/0016/Angry/0016_000495.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl! |0
+/ESD/0016/Angry/0016_000496.wav|hiː sˈɛd tə dʒˈæk, ðə tʃˈæɾɚɹɚ. |0
+/ESD/0016/Angry/0016_000497.wav|ænd ðɛɹ juːl fˈaɪnd ɐ snˈæp dɹˈæɡən flˈaɪ. |0
+/ESD/0016/Angry/0016_000498.wav|ænd ɔnðə tˈɑːp ʌv ðˌɛm, kˈeɪm wˈɪni, ðə kjˈuːt bˈɛɹ. |0
+/ESD/0016/Angry/0016_000499.wav|maɪ wˈaɪndɪŋ ʃˈiːt! |0
+/ESD/0016/Angry/0016_000500.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf? |0
+/ESD/0016/Angry/0016_000501.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm. |0
+/ESD/0016/Angry/0016_000502.wav|ɡˈɪlti fɔːɹ wʌt dˈuː juː ɹˈuːl? |0
+/ESD/0016/Angry/0016_000503.wav|bˌʌt wiː ɑːɹ nˌɑːt hˈaɪ jˈɛt. |0
+/ESD/0016/Angry/0016_000504.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt. |0
+/ESD/0016/Angry/0016_000505.wav|ðɪs spˈiːtʃ ɹˈaʊzd dˈeɪm ˈɪls tʊ ˈæŋɡɚ. |0
+/ESD/0016/Angry/0016_000506.wav|ðɪ ˈaɪ kʊd nˌɑːt kˈætʃ ðˌɛm. |0
+/ESD/0016/Angry/0016_000507.wav|blˈækbɜːd, ænd dʒˈeɪ. |0
+/ESD/0016/Angry/0016_000508.wav|ɪt lˈʊks mˈʌtʃ bˈɛɾɚ. |0
+/ESD/0016/Angry/0016_000509.wav|sˈʌtʃ tˈuːnz ɑːɹ dʒˈɔɪ tʊ ɐ dˈænsɪŋ fˈeɪ. |0
+/ESD/0016/Angry/0016_000510.wav|kˈɪɾi, kæn juː plˈeɪ tʃˈɛs? |0
+/ESD/0016/Angry/0016_000511.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt. |0
+/ESD/0016/Angry/0016_000512.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz. |0
+/ESD/0016/Angry/0016_000513.wav|hˌaʊ ðeɪ wɛnt tə ðə mˈaʊntɪnz tʊ ˈiːt nˈʌts. |0
+/ESD/0016/Angry/0016_000514.wav|hɪz lˈɑːɹdʒ mˈaʊθ kˈɜːld ˌɪntʊ ɐ snˈɪɹ. |0
+/ESD/0016/Angry/0016_000515.wav|ðeɪ wɜː ɡˌoʊɪŋ fˈæst, wɪð ɐ lˈaɪt klˈɪp. |0
+/ESD/0016/Angry/0016_000516.wav|ðeɪ ˈeɪt bˈiːf æt ðə bˈʊtʃɚ ʃˈɑːp. |0
+/ESD/0016/Angry/0016_000517.wav|aɪ tˈɔɪ wɪð maɪ lᵻkˈɜː. |0
+/ESD/0016/Angry/0016_000518.wav|aɪ sˈɛd juː lˈʊkt lˈaɪk ɐn ˈɛɡ, sˌɜː. |0
+/ESD/0016/Angry/0016_000519.wav|sˈæm wˈeɪvd hɪz ˈɑːɹm vˈeɪɡli. |0
+/ESD/0016/Angry/0016_000520.wav|bˌʌt ɪf juː hˈædənt dˈʌn ðˌɛm. |0
+/ESD/0016/Angry/0016_000521.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ. |0
+/ESD/0016/Angry/0016_000522.wav|aɪʃˌɐl sˈeɪ ɡˈʊd bˈaɪ. |0
+/ESD/0016/Angry/0016_000523.wav|hiː sˈɜːtʃt θɹuː ðə bˈɑːks. |0
+/ESD/0016/Angry/0016_000524.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə. |0
+/ESD/0016/Angry/0016_000525.wav|ˈɔːl ðɪs hæv wiː wˈʌn baɪ ˌaʊɚ lˈeɪbɚ. |0
+/ESD/0016/Angry/0016_000526.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl. |0
+/ESD/0016/Angry/0016_000527.wav|tˈɑːm fˈɛl wɪð ɐ klˈoʊvən hˈɛd. |0
+/ESD/0016/Angry/0016_000528.wav|ænd vˈaʊd hiːd tʃˈeɪndʒ ðə pˈɪɡteɪlz plˈeɪs. |0
+/ESD/0016/Angry/0016_000529.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz. |0
+/ESD/0016/Angry/0016_000530.wav|tˈoʊst fɹʌmðə bɹˈɛd fɹˈuːt tɹˈiː. |0
+/ESD/0016/Angry/0016_000531.wav|fˈɜːst, ˈɪʃuː ɐ ɹᵻwˈɔːɹd. |0
+/ESD/0016/Angry/0016_000532.wav|ˈeɪdʒ fˈɔːɹɾi fˈaɪv ɪf ɐ dˈeɪ ɐ lˈaɪ. |0
+/ESD/0016/Angry/0016_000533.wav|fɹˈɛʃ pˈeɪn sˈiːzd pˈɔːlz bˈɑːdi. |0
+/ESD/0016/Angry/0016_000534.wav|wiː hɐvbɪn fˈaɪn, hˈævənt wiː? |0
+/ESD/0016/Angry/0016_000535.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ. |0
+/ESD/0016/Angry/0016_000536.wav|ʃiː dʒˈʌmp æt ðə tˈeɪl ænd bˈaɪt ɪt sˈævɪdʒli. |0
+/ESD/0016/Angry/0016_000537.wav|ɐn ˈaʊɚɹ ˌaʊɾəv ɡˈɪld fˈoːɹd tˈaʊn. |0
+/ESD/0016/Angry/0016_000538.wav|nˈaʊ kwˈɪkɚ ðə fˈɪdəl wˈɛnt. |0
+/ESD/0016/Angry/0016_000539.wav|wˌɛn sˈʌtʃ wˈɔndɚɹɚz mˈiːt. |0
+/ESD/0016/Angry/0016_000540.wav|ænd ðeɪ wɜː sˈændi jˈɛloʊ bɹˈaʊnɪʃ ˈɔːl ˈoʊvɚ. |0
+/ESD/0016/Angry/0016_000541.wav|aɪ mˌeɪk hɜː kwˈaɪt nˈɜːvi æt tˈaɪmz. |0
+/ESD/0016/Angry/0016_000542.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld. |0
+/ESD/0016/Angry/0016_000543.wav|plˈiːz hˈaɪɚ mˌiː ˈæftɚ juː. |0
+/ESD/0016/Angry/0016_000544.wav|jˈɛs, aɪ mˈɪs hɜː. |0
+/ESD/0016/Angry/0016_000545.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ. |0
+/ESD/0016/Angry/0016_000546.wav|klˈɪɹ ɑːɹ jʊɹ ˈaɪz ænd bɹˈaɪt jʊɹ bɹˈɛθ! |0
+/ESD/0016/Angry/0016_000547.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt. |0
+/ESD/0016/Angry/0016_000548.wav|aɪd ʃˈuːt maɪsˈɛlf. ɐ pˈɔːz. |0
+/ESD/0016/Angry/0016_000549.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ. |0
+/ESD/0016/Angry/0016_000550.wav|ðæt klˈɔθ dʌznˌɑːt lˈʊk wˈɜːθ mˈʌtʃ! |0
+/ESD/0016/Angry/0016_000551.wav|ɐ lˈeɪdi, ɪz ˌɔn ˈælɪsᵻz lˈæp! |0
+/ESD/0016/Angry/0016_000552.wav|ðæt sˈaʊndz ɡˈʊd. |0
+/ESD/0016/Angry/0016_000553.wav|aɪ wʌz nˌɑːt ɡɹˈæbd. |0
+/ESD/0016/Angry/0016_000554.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt. |0
+/ESD/0016/Angry/0016_000555.wav|fˈɪɹ nˈiːðɚ ɹˈuːt nˈɔːɹ spɹˈaʊt! |0
+/ESD/0016/Angry/0016_000556.wav|stˈɪl juː ˈoʊ ɪɾ ɐ dˈuːɾi. |0
+/ESD/0016/Angry/0016_000557.wav|wˌʌt æm ˈaɪ, aɪm ɐ ɹˈeɪsɚ, sˈʌn ʌv ɡˈɑːd. |0
+/ESD/0016/Angry/0016_000558.wav|haʊˈɛvɚ, sˈʌmbɑːdi kˈɪld sˈʌmθɪŋ. |0
+/ESD/0016/Angry/0016_000559.wav|ɐ ɹˈeɪdʒɪŋ fˈaɪɚ wʌz ɪn hɪz ˈaɪz. |0
+/ESD/0016/Angry/0016_000560.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm. |0
+/ESD/0016/Angry/0016_000561.wav|fɹʌm ˈiːtʃ kˈeɪk, ðɛɹ spɹˈæŋ ɐ hjˈuːdʒ dˈɑːɡ. |0
+/ESD/0016/Angry/0016_000562.wav|nˈoʊ θˈæŋk juː. |0
+/ESD/0016/Angry/0016_000563.wav|lˈɛt ɪt ɡˈɪv ˌʌs ɐ tʃˈæns, maɪ pɹˈɛʃəs. |0
+/ESD/0016/Angry/0016_000564.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki! |0
+/ESD/0016/Angry/0016_000565.wav|hiː lˈaɪks dɹˈæɡənz vˈɛɹi mˈʌtʃ. |0
+/ESD/0016/Angry/0016_000566.wav|ɪɾ ˌɪzənt pˈɪkt æɾ ˈɔːl. |0
+/ESD/0016/Angry/0016_000567.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf ! |0
+/ESD/0016/Angry/0016_000568.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ. |0
+/ESD/0016/Angry/0016_000569.wav|bˌʌt ðə tˈuːn ˌɪzənt hɪz ˈoʊn ɪnvˈɛnʃən. |0
+/ESD/0016/Angry/0016_000570.wav|hɜː pˈɔː wɛnt ˌɪntʊ jʊɹ ˈaɪ? |0
+/ESD/0016/Angry/0016_000571.wav|aɪɐm ɐ sˈɛlfɪʃ sˈɪnɚ. |0
+/ESD/0016/Angry/0016_000572.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː. |0
+/ESD/0016/Angry/0016_000573.wav|pˈɪk, pˈɪk, pˈɪk! |0
+/ESD/0016/Angry/0016_000574.wav|dˈuː juː nˈoʊ ðə lˈɪd ˈoʊpənz? |0
+/ESD/0016/Angry/0016_000575.wav|hɜːɹ ɛɡzˈɪstəns mˌeɪks hˌɪm plˈɛzənt. |0
+/ESD/0016/Angry/0016_000576.wav|ænd ðə nˈɛkst dˈeɪ. nˈɜːs wɪl biː ɹᵻlˈiːst. |0
+/ESD/0016/Angry/0016_000577.wav|bˈɔːɹn wˈʌns ˈɛvɹi wˈʌn hˈʌndɹɪd jˈɪɹz, dˈaɪz ɪn flˈeɪmz! |0
+/ESD/0016/Angry/0016_000578.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi. |0
+/ESD/0016/Angry/0016_000579.wav|ðə fˈɜːst jˈɪɹ ðeɪ sˈoʊd ɹˈaɪ. |0
+/ESD/0016/Angry/0016_000580.wav|jʊɹ ˈoʊn wˈaɪf ɪz nˌɑːt æt hˈoʊm. |0
+/ESD/0016/Angry/0016_000581.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ. |0
+/ESD/0016/Angry/0016_000582.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt. |0
+/ESD/0016/Angry/0016_000583.wav|wˌaɪ ʃˌʊd ˈaɪ kˈɛɹ ðˌoʊ dˈeɪvɪdz lˈɪps wɜː twˈɪtʃɪŋ? |0
+/ESD/0016/Angry/0016_000584.wav|hˈɜːɹi ˈʌp, hˈɜːɹi ˈʌp! |0
+/ESD/0016/Angry/0016_000585.wav|ɪf nˈɑːt, aɪʃˌɐl ɡˌoʊ nˈoʊ fˈɜːðɚ. |0
+/ESD/0016/Angry/0016_000586.wav|hˌaʊ ɹˈæʃ juː ɑːɹ! |0
+/ESD/0016/Angry/0016_000587.wav|wˌʌt wʊd ðeɪ dˈuː æt ðɪ ˈɛnd ʌvðə jˈɪɹ? |0
+/ESD/0016/Angry/0016_000588.wav|tədˈeɪ ˌɪzənt ˌɛni ˈʌðɚ dˈeɪ. |0
+/ESD/0016/Angry/0016_000589.wav|ðɪs ɪz ðə wˈeɪ ðæt snˈeɪks ˈɔːlweɪz tˈɔːk. |0
+/ESD/0016/Angry/0016_000590.wav|bˈoʊθ sˈaɪd wɜː sˈɔftli kˈɜːvd. |0
+/ESD/0016/Angry/0016_000591.wav|wiː hæv ʃˈoʊd hɪz ʃˈɑːɹk tˈuːθ. |0
+/ESD/0016/Angry/0016_000592.wav|ɡˈɪv mˌiː jʊɹ hˈænd ɔːɹ aɪ wɪl kɹˈaɪ hˈɑːɹdɚ ðɐn bᵻfˈoːɹ. |0
+/ESD/0016/Angry/0016_000593.wav|ænd hɐz juː slˈeɪn hˌɪm? |0
+/ESD/0016/Angry/0016_000594.wav|ˈɔf fɚðə pɹˈɪzən ʃˈɪp. |0
+/ESD/0016/Angry/0016_000595.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl? |0
+/ESD/0016/Angry/0016_000596.wav|wiː kæn nˌɑːt dˈuː ɪt sˌɜː. |0
+/ESD/0016/Angry/0016_000597.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs. |0
+/ESD/0016/Angry/0016_000598.wav|ɪnwˌɪtʃ pˈɪɡlɪt mˈiːts ɐ ˈɛlɪfənt. |0
+/ESD/0016/Angry/0016_000599.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp. |0
+/ESD/0016/Angry/0016_000600.wav|hɜː kˈaɪnd ænd fˈɜːm ɡlˈæns. |0
+/ESD/0016/Angry/0016_000601.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli. |0
+/ESD/0016/Angry/0016_000602.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt. |0
+/ESD/0016/Angry/0016_000603.wav|aɪ hæv ɐ sˈuːθseɪɚ. |0
+/ESD/0016/Angry/0016_000604.wav|ʃiː lˈæft. |0
+/ESD/0016/Angry/0016_000605.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː. |0
+/ESD/0016/Angry/0016_000606.wav|aɪ mˈʌstɐv tˈuː tə fˈɛtʃ ænd kˈæɹi. |0
+/ESD/0016/Angry/0016_000607.wav|aɪ wʊd skˈɔf æt ðiːz fˈɑːloʊɚz. |0
+/ESD/0016/Angry/0016_000608.wav|mˈʌm ʃˈʌts wˈʌnz mˈaʊθ ˈʌp, dˈʌzənt ɪt. |0
+/ESD/0016/Angry/0016_000609.wav|ðə sˈɔŋ ɪz kˈɔːld wˈeɪz ænd mˈiːnz. |0
+/ESD/0016/Angry/0016_000610.wav|æz sˈuːn æz ʃiː wɛnt ˈɪn, ðɛɹwˌʌz dɪsˈoːɹdɚ. |0
+/ESD/0016/Angry/0016_000611.wav|ˈæftɚɹ ɐ wˈaɪl hiː pɚsˈiːvd bˈoʊθ dʒˈaɪənts. |0
+/ESD/0016/Angry/0016_000612.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm! |0
+/ESD/0016/Angry/0016_000613.wav|ʃiː sˈɛd ɪn sʌbdˈuːd vˈɔɪs. |0
+/ESD/0016/Angry/0016_000614.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm! |0
+/ESD/0016/Angry/0016_000615.wav|aɪv dʒˈʌst ʃˈɑːt ɐ stˈæɡ. |0
+/ESD/0016/Angry/0016_000616.wav|wiː mˈeɪ dʒˈɔɪn wɪð ðæt pˈaʊɚ. |0
+/ESD/0016/Angry/0016_000617.wav|tʃˈæptɚɹ ᵻlˈɛvən ɔnðə dˈoːɹstɛp. |0
+/ESD/0016/Angry/0016_000618.wav|hiː ʃˈoʊd nˈoʊ sˈaɪnz ʌv ˈeɪdʒ. |0
+/ESD/0016/Angry/0016_000619.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp! |0
+/ESD/0016/Angry/0016_000620.wav|tʃˈuː lˈiːvz kwˈɪkli, sˈɛd ɹˈæbɪt. |0
+/ESD/0016/Angry/0016_000621.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ. |0
+/ESD/0016/Angry/0016_000622.wav|nˈoʊ ɐdmˈɪts ɛksˈɛpt ˌɔn pˈɑːɹɾi bˈɪznəs. |0
+/ESD/0016/Angry/0016_000623.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː. |0
+/ESD/0016/Angry/0016_000624.wav|bɪkˈʌz hiː wʌzɐ mˈæn wɪð ˈɪnfɪnət ɹᵻsˈoːɹs ænd səɡˈæsᵻɾi. |0
+/ESD/0016/Angry/0016_000625.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn. |0
+/ESD/0016/Angry/0016_000626.wav|kæn jʊɹ nˈeɪm biː mˈoːɹ hɪlˈɛɹiəs? |0
+/ESD/0016/Angry/0016_000627.wav|ðɪ ˈɛnd pˈɑːɹt ɪz fˈɪʃ mˈaʊθ. |0
+/ESD/0016/Angry/0016_000628.wav|aɪ nˈoʊ juː . |0
+/ESD/0016/Angry/0016_000629.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns. |0
+/ESD/0016/Angry/0016_000630.wav|jʊɹ pˈæθ nˈaʊ ɡoʊz sˈaʊθ. |0
+/ESD/0016/Angry/0016_000631.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ. |0
+/ESD/0016/Angry/0016_000632.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn. |0
+/ESD/0016/Angry/0016_000633.wav|ðeɪ hɐdbɪn nˈeɪmd tˈɑːm ænd dʒˈɛɹi. |0
+/ESD/0016/Angry/0016_000634.wav|tʃˈæptɚɹ ˈeɪtiːn, ðə ɹᵻtˈɜːn dʒˈɜːni. |0
+/ESD/0016/Angry/0016_000635.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː. |0
+/ESD/0016/Angry/0016_000636.wav|wˈʌn tˈuː θɹˈiː, wˌɛɹ ɪz jʊɹ bɹˈɛkfəst. |0
+/ESD/0016/Angry/0016_000637.wav|ɐ vˈɔɪs sˈɛd: kˈʌm ˈɪn. |0
+/ESD/0016/Angry/0016_000638.wav|ʃiː hɐz fˈɛlt ʃˈaɪ ʌv ɪt. |0
+/ESD/0016/Angry/0016_000639.wav|nˈoʊ, sˈɛd pˈɪɡi kˈɛɹləsli. |0
+/ESD/0016/Angry/0016_000640.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn! |0
+/ESD/0016/Angry/0016_000641.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ. |0
+/ESD/0016/Angry/0016_000642.wav|ʃiː hɐz ɐ hˈaɪ vˈɔɪs. |0
+/ESD/0016/Angry/0016_000643.wav|hiː ɪz ˈoʊld fˈæʃənd bˌʌt hiː ɪz ðə bˈɛst ʌv mˈɛn. |0
+/ESD/0016/Angry/0016_000644.wav|nˈaʊ aɪ ˌʌndɚstˈænd. |0
+/ESD/0016/Angry/0016_000645.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz. |0
+/ESD/0016/Angry/0016_000646.wav|juː wˈoʊk mˌiː ˈʌp! |0
+/ESD/0016/Angry/0016_000647.wav|hˌaʊ tˈɑːm ænd dʒˈɛɹi wɛnt tə vˈɪzɪt mˈɪstɚ sˈæm. |0
+/ESD/0016/Angry/0016_000648.wav|ʃiː kˈʌm bˈæk tə ðə vˈæli. |0
+/ESD/0016/Angry/0016_000649.wav|hɪz hˈoʊp wɪl tʃˈiːt hˌɪm. |0
+/ESD/0016/Angry/0016_000650.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm. |0
+/ESD/0016/Angry/0016_000651.wav|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt! |0
+/ESD/0016/Angry/0016_000652.wav|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt? |0
+/ESD/0016/Angry/0016_000653.wav|aɪɐm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ. |0
+/ESD/0016/Angry/0016_000654.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd! |0
+/ESD/0016/Angry/0016_000655.wav|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ. |0
+/ESD/0016/Angry/0016_000656.wav|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz. |0
+/ESD/0016/Angry/0016_000657.wav|aɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz. |0
+/ESD/0016/Angry/0016_000658.wav|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ. |0
+/ESD/0016/Angry/0016_000659.wav|hiː ˈoʊd mˈɪstɚ lˈɔːsən, aɪ kˈænt tˈɛl juː hˈaʊ. |0
+/ESD/0016/Angry/0016_000660.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn. |0
+/ESD/0016/Angry/0016_000661.wav|aɪɐm sˈeɪf bˈæk ɐɡˈɛn. |0
+/ESD/0016/Angry/0016_000662.wav|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz. |0
+/ESD/0016/Angry/0016_000663.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs. |0
+/ESD/0016/Angry/0016_000664.wav|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl. |0
+/ESD/0016/Angry/0016_000665.wav|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ. |0
+/ESD/0016/Angry/0016_000666.wav|ɐ θˈiːf ɪnðə nˈaɪt. |0
+/ESD/0016/Angry/0016_000667.wav|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd. |0
+/ESD/0016/Angry/0016_000668.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks. |0
+/ESD/0016/Angry/0016_000669.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz? |0
+/ESD/0016/Angry/0016_000670.wav|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ. |0
+/ESD/0016/Angry/0016_000671.wav|kˈɔːld ˈaʊt ðə klˈaʊd. |0
+/ESD/0016/Angry/0016_000672.wav|ɐ spˈɛʃəl pˈɑːt tˈuː. |0
+/ESD/0016/Angry/0016_000673.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp! |0
+/ESD/0016/Angry/0016_000674.wav|ænd ʃiː kˈɔːt æt ðə bɹˈoʊtʃ. |0
+/ESD/0016/Angry/0016_000675.wav|ʃiː hɐz nˈoʊ plˈeɪs fɔːɹ hˈɑːt pˈɛpɚ . |0
+/ESD/0016/Angry/0016_000676.wav|ðeɪ ɑːɹ mˌeɪd ʌv wˈʊd. |0
+/ESD/0016/Angry/0016_000677.wav|ɪts pˈɑːɹt ʌv maɪ sˈiːkɹᵻt. |0
+/ESD/0016/Angry/0016_000678.wav|ɪt wʊd biː ɐ hˈɑːɹd tʃˈɔɪs. |0
+/ESD/0016/Angry/0016_000679.wav|ænd hɪz hˈɑːɹt wˈæɡd wɪð dʒˈɔɪ lˈaɪk ɐ lˈæmz tˈeɪl. |0
+/ESD/0016/Angry/0016_000680.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz. |0
+/ESD/0016/Angry/0016_000681.wav|ʃiːl biː fˈiːvɚɹɪʃ ˈæftɚ sˈoʊ mˌʌtʃ θˈɪŋkɪŋ. |0
+/ESD/0016/Angry/0016_000682.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ? |0
+/ESD/0016/Angry/0016_000683.wav|juː ɡˈeɪn fɔːɹ nˈʌθɪŋ ɡˈɜːl! |0
+/ESD/0016/Angry/0016_000684.wav|ɐnˈʌðɚ wˌʌn, tˈɛn θˈaʊzənd dˈɑːlɚz. |0
+/ESD/0016/Angry/0016_000685.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt. |0
+/ESD/0016/Angry/0016_000686.wav|ˌoʊvɚ ðˌɛm swˈuːpt ðɪ ˈiːɡəlz. |0
+/ESD/0016/Angry/0016_000687.wav|bˌʌt mˈɑːm aɪm nˌɑːt sˈɜːʔn̩ ɐbˈaʊt. |0
+/ESD/0016/Angry/0016_000688.wav|pˈɔːlz tˈiːθ ˈeɪkt bɪkˈʌz ʌv lˈɛmən. |0
+/ESD/0016/Angry/0016_000689.wav|ænd biː wɪð juː,tˈɑːm! |0
+/ESD/0016/Angry/0016_000690.wav|sˌoʊ tˈɑːm sˈɔː nˈaɪt æz ɪt wɜː bɹˈɔːd dˈeɪlaɪt. |0
+/ESD/0016/Angry/0016_000691.wav|ɪnˈʌf,juː ɐ fˈuːlɪʃ tʃˈæɾɚ. |0
+/ESD/0016/Angry/0016_000692.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn? |0
+/ESD/0016/Angry/0016_000693.wav|ænd wʌt dˈʌz ɪt mˈiːn? |0
+/ESD/0016/Angry/0016_000694.wav|lˈuːsi, ɐ klˈɛvɚ fˈɑːɹmɚ. |0
+/ESD/0016/Angry/0016_000695.wav|ɐ wˈɜːɹɪŋ nˈɔɪz wʌz hˈɜːd. |0
+/ESD/0016/Angry/0016_000696.wav|aɪɐm ɡˌoʊɪŋ tə bˈæk hˈoʊm. |0
+/ESD/0016/Angry/0016_000697.wav|wˌʌt ɑːɹ juː wˈeɪɾɪŋ fɔːɹ? mˈæn. |0
+/ESD/0016/Angry/0016_000698.wav|dˈɪɹ kˈʌstəmɚ,wˈɛlkʌm tʊ ˌaʊɚ ʃˈɪp. |0
+/ESD/0016/Angry/0016_000699.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən? |0
+/ESD/0016/Angry/0016_000700.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd? |0
+/ESD/0016/Happy/0016_000701.wav|ðə nˈaɪn ðɪ ˈɛɡz, aɪ kˈiːp. |0
+/ESD/0016/Happy/0016_000702.wav|aɪ dˈɪd ɡˈoʊ, ænd mˌeɪd mˈɛni pɹˈɪzənɚz. |0
+/ESD/0016/Happy/0016_000703.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː. |0
+/ESD/0016/Happy/0016_000704.wav|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈæs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt. |0
+/ESD/0016/Happy/0016_000705.wav|klˈɪɹ ðɐn klˈɪɹ wˈɔːɾɚ! |0
+/ESD/0016/Happy/0016_000706.wav|ˈændi wʌts ðə dʒˈaɪɚ ænd tə ɡˈæmbəl. |0
+/ESD/0016/Happy/0016_000707.wav|aɪm æz bˈæd æz aɪ kæn bˈiː. |0
+/ESD/0016/Happy/0016_000708.wav|ðæt wʌz hɪz tʃˈiːf θˈɔːt. |0
+/ESD/0016/Happy/0016_000709.wav|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ. |0
+/ESD/0016/Happy/0016_000710.wav|ɐ nˈɔːsɪəs dɹˈæft. |0
+/ESD/0016/Happy/0016_000711.wav|tʃˈæptɚ tˈɛn ɐ wˈɔːɹm wˈɛlkʌm. |0
+/ESD/0016/Happy/0016_000712.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz. |0
+/ESD/0016/Happy/0016_000713.wav|aɪ hæv bˈʌnbɛɹid ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz. |0
+/ESD/0016/Happy/0016_000714.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː! |0
+/ESD/0016/Happy/0016_000715.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd! |0
+/ESD/0016/Happy/0016_000716.wav|mˈɪstɚ ʃˈɛɹ mˈæn, aɪ mˈuːv fɚɹə dᵻvˈɪʒən. |0
+/ESD/0016/Happy/0016_000717.wav|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən? |0
+/ESD/0016/Happy/0016_000718.wav|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ. |0
+/ESD/0016/Happy/0016_000719.wav|æt ðɪ ˈɛnd ʌv fˈoːɹ. |0
+/ESD/0016/Happy/0016_000720.wav|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs. |0
+/ESD/0016/Happy/0016_000721.wav|æz ɹˈɪtʃæz pˈiːɾɚz sˈʌn ɪn lˈɔː! |0
+/ESD/0016/Happy/0016_000722.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz. |0
+/ESD/0016/Happy/0016_000723.wav|aɪ θˈɔːt juː mˈɛnt hˌaʊ ˈoʊld ɑːɹ juː? |0
+/ESD/0016/Happy/0016_000724.wav|ðə fˈʊtbɔːl tˈiːmz ɡˈɪv ɐ tˈiː pˈɑːɹɾi. |0
+/ESD/0016/Happy/0016_000725.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ. |0
+/ESD/0016/Happy/0016_000726.wav|lˈɛts mˌeɪk ðə nˈɔɪz ɐ snˈeɪk. |0
+/ESD/0016/Happy/0016_000727.wav|mˈɔnstɚ mˌeɪd ɐ dˈiːp bˈoʊ. |0
+/ESD/0016/Happy/0016_000728.wav|ʃiː hæd sˈɛd, sˌoʊ ðˈætwˌʌn kʊd kˈiːp ˌʌp ɐ kɑːnvɚsˈeɪʃən! |0
+/ESD/0016/Happy/0016_000729.wav|ɹˈæt kˈeɪm ænd ɹᵻplˈaɪd ɔnðə lˈiːvz. |0
+/ESD/0016/Happy/0016_000730.wav|mˈʌst ɐ nˈeɪm mˈiːn sˈʌmθɪŋ? |0
+/ESD/0016/Happy/0016_000731.wav|ˈɔːl smˈaɪl wɜː ɹˈiːəl ænd ðə hˈæpɪɚ ðə mˈoːɹ sɪnsˈɪɹ . |0
+/ESD/0016/Happy/0016_000732.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː? |0
+/ESD/0016/Happy/0016_000733.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən. |0
+/ESD/0016/Happy/0016_000734.wav|ɐ dᵻvˈaɪn ɹˈæθ mˌeɪd hɜː blˈuː ˈaɪz ˈɔːfəl. |0
+/ESD/0016/Happy/0016_000735.wav|ðə nˈeɪm ɹˈiəli ɪz ðɪ ˈeɪdʒɛdɪdʒd mˈæn. |0
+/ESD/0016/Happy/0016_000736.wav|hˌaʊ aɪ hˈeɪt ðɪs fˈaʊl pˈuːl! |0
+/ESD/0016/Happy/0016_000737.wav|aɪ θˈɪŋk ˌɪɾəl ɛŋkˈɜːɹɪdʒ mˌiː. |0
+/ESD/0016/Happy/0016_000738.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd. |0
+/ESD/0016/Happy/0016_000739.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ. |0
+/ESD/0016/Happy/0016_000740.wav|ɪnwˌɪtʃ fˈɑːks lˈuːzᵻz ɐ tˈeɪl ænd ɪts ˈɛldɚ sˈɪstɚ fˈaɪndz wˌʌn. |0
+/ESD/0016/Happy/0016_000741.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ. |0
+/ESD/0016/Happy/0016_000742.wav|ʃiː mˈeɪ mˈaɪnd jiː ʌv hɜː. |0
+/ESD/0016/Happy/0016_000743.wav|stˈoːɹi twˈɛnti nˈaɪn ɐ bˈɔɪ ænd ɐ mˈʌŋki. |0
+/ESD/0016/Happy/0016_000744.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt. |0
+/ESD/0016/Happy/0016_000745.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz. |0
+/ESD/0016/Happy/0016_000746.wav|ðeɪd nˈɛvɚ nˈoʊ aɪd ɹˈɛɡjʊlɚ ɹˈæn ɐwˈeɪ. |0
+/ESD/0016/Happy/0016_000747.wav|plˈiːz ɛkskjˈuːs mˌiː. |0
+/ESD/0016/Happy/0016_000748.wav|juː ɑːɹ nˌɑːɾɚ ɹˈʌnəwˌeɪ,hˈuː ɑːɹ juː? |0
+/ESD/0016/Happy/0016_000749.wav|ðˈɛn wiː ˈɔːl sˈeɪ ɑːhˈɑː! |0
+/ESD/0016/Happy/0016_000750.wav|ɹˈæbɪt ɡˈeɪv dˈɑːɡ ɐ hˈɜːɹiɪŋ ˌʌp sˈɔːɹt ʌv nˈʌdʒ. |0
+/ESD/0016/Happy/0016_000751.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz. |0
+/ESD/0016/Happy/0016_000752.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs. |0
+/ESD/0016/Happy/0016_000753.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst! |0
+/ESD/0016/Happy/0016_000754.wav|ɑːɹ juː ɐ ɹˈɛɡjʊlɚ dˈɑːɹki ɹˈiəli? |0
+/ESD/0016/Happy/0016_000755.wav|ɐ dˈɛfənɪŋ tʃˈɪɹuːpɪŋ ɹˈɛnt ðɪ ˈɛɹ. |0
+/ESD/0016/Happy/0016_000756.wav|jʊɹ mˈɪdʒɪt wˈaɪf nˈɛvɚ kæn sˈɪŋ ɐ sˈɔŋ. |0
+/ESD/0016/Happy/0016_000757.wav|hˈænɪbəl kˈʌm tə sˈiː juː. |0
+/ESD/0016/Happy/0016_000758.wav|ðɪ ˈɑːktəpəs hɐz ˈeɪt lˈɛɡz. |0
+/ESD/0016/Happy/0016_000759.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni. |0
+/ESD/0016/Happy/0016_000760.wav|ðæt aɪɐm ɐ bˈɔːɹn nˈɜːs. |0
+/ESD/0016/Happy/0016_000761.wav|mˈɪdjɪɹ ɪz dˈeɪ, ʃˈaɪɚ jˈɪɹ. |0
+/ESD/0016/Happy/0016_000762.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili. |0
+/ESD/0016/Happy/0016_000763.wav|ˈæstɚɹˌɔɪd θɹˈiː hˈʌndɹɪd ænd twˈɛnti fˈaɪv. |0
+/ESD/0016/Happy/0016_000764.wav|ænd wiː ɑːɹ sˌoʊ θˈɜːsti! |0
+/ESD/0016/Happy/0016_000765.wav|tˈɑːm kʊd hˈɑːɹdli spˈiːk fɔːɹ lˈæfɪŋ. |0
+/ESD/0016/Happy/0016_000766.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn? |0
+/ESD/0016/Happy/0016_000767.wav|aɪ səpˈoʊz nˈoʊ, ɪt dˈʌzənt! |0
+/ESD/0016/Happy/0016_000768.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd. |0
+/ESD/0016/Happy/0016_000769.wav|nˌɑːt mˈʌtʃ jˈuːs ɪz ɪt, sˈæm? |0
+/ESD/0016/Happy/0016_000770.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ! |0
+/ESD/0016/Happy/0016_000771.wav|ʃiː wʌz bˈɔːɹn ˌɔn ˈeɪpɹəl nˈaɪntiːn fˈɔːɹɾi θɹˈiː. |0
+/ESD/0016/Happy/0016_000772.wav|hˈaʊ ɑːɹ juː, dˈɪɹ tʃˈaɪld? |0
+/ESD/0016/Happy/0016_000773.wav|hˌaʊ səspˈɪʃəs ðɪs fˈɑːks. |0
+/ESD/0016/Happy/0016_000774.wav|kˈʌm ˌɔn maɪ dʒˈæk ɪnðə bˈɑːksᵻz! |0
+/ESD/0016/Happy/0016_000775.wav|aɪd fˈɑːɹ ɹˈæðɚ ɡˌoʊ wɪðˌaʊt ðˌɛm ðɐn ˈiːt ðˌɛm! |0
+/ESD/0016/Happy/0016_000776.wav|ðə hˈæɡ lˈʊkt ɪnðə stˈoʊv. |0
+/ESD/0016/Happy/0016_000777.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ. |0
+/ESD/0016/Happy/0016_000778.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː. |0
+/ESD/0016/Happy/0016_000779.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl. |0
+/ESD/0016/Happy/0016_000780.wav|ðˈɛn ðɛɹwˌʌz ɐ ɹᵻpˈoːɹt. |0
+/ESD/0016/Happy/0016_000781.wav|ænd aɪ nˈɛvɚ hæd ɐ wˈuːpɪŋ kˈɔf wˈaɪ. |0
+/ESD/0016/Happy/0016_000782.wav|ɐ fˈɛɹ dʒˈɔː kɹˈækɚ dwˈɔːɹf lˈæŋɡwɪdʒ mˈʌst bˈiː! |0
+/ESD/0016/Happy/0016_000783.wav|biː ˈɔf nˈaʊ æz kwˈɪk æz juː mˈeɪ! |0
+/ESD/0016/Happy/0016_000784.wav|baɪ hˈʊk ɔːɹ baɪ kɹˈʊk. |0
+/ESD/0016/Happy/0016_000785.wav|səpˈoʊz aɪ tˈeɪk ɡɹˈændmʌðɚɹ ɐ fɹˈɛʃ vˈɛdʒɪɾəbəl. |0
+/ESD/0016/Happy/0016_000786.wav|ænd tˈɪk ɐ tˈæk tˈuː. |0
+/ESD/0016/Happy/0016_000787.wav|ɐ hˈɪpoʊ lˈaɪvz ɪnðə zˈuː. |0
+/ESD/0016/Happy/0016_000788.wav|ɪn maɪ əpˈɪniən ðæɾɪz ɐ ɡˈʊd aɪdˈiə! |0
+/ESD/0016/Happy/0016_000789.wav|lˈɛt ɡˌoʊ ʌv maɪ tˈɑːp nˈɑːt. |0
+/ESD/0016/Happy/0016_000790.wav|ænd ðeɪ dˈɪd pˈʊʃ sˈoʊ! |0
+/ESD/0016/Happy/0016_000791.wav|wiː ɛkspˈɛktᵻd tˈɑːm wʊd dʒˈʌmp fɔːɹ dʒˈɔɪ. |0
+/ESD/0016/Happy/0016_000792.wav|dˈʌz ðə wˈʌn ðæt wˈɪnz ɡɛt ðə kɹˈaʊnd? |0
+/ESD/0016/Happy/0016_000793.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps. |0
+/ESD/0016/Happy/0016_000794.wav|ðeɪ fˈaʊnd ɐ kˈaʊ ɡɹˈeɪzɪŋ ɪn ɐ fˈiːld. |0
+/ESD/0016/Happy/0016_000795.wav|ɑːhˈɑː wʌt ˈaɪ hæv wiː hˈɪɹ? |0
+/ESD/0016/Happy/0016_000796.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ. |0
+/ESD/0016/Happy/0016_000797.wav|kənfˈɛs ðæt juː ˈoʊpənd ðə θˈɜːtiːnθ dˈoːɹ. |0
+/ESD/0016/Happy/0016_000798.wav|sˈɛd ðə wˈɪtʃ. |0
+/ESD/0016/Happy/0016_000799.wav|aɪv hˈɪt ðə ɹˈɔŋ nˈoʊz. |0
+/ESD/0016/Happy/0016_000800.wav|wˈɛl ˈɛnɪhˌaʊ ɪt dˈɪdnt ɹˈeɪn, hiː sˈɛd. |0
+/ESD/0016/Happy/0016_000801.wav|ɪts mˌiː pˈɪɡlɪt, hˈɛlp hˈɛlp! |0
+/ESD/0016/Happy/0016_000802.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm. |0
+/ESD/0016/Happy/0016_000803.wav|ðɪ ˈɛlɪfənt ænd ðə kˈɑːɹpəntɚɹ ɪz ðə lˈɔŋɡɪst. |0
+/ESD/0016/Happy/0016_000804.wav|hˈɪɹ æm ˈaɪ hˈuːm juː sˈiːk. |0
+/ESD/0016/Happy/0016_000805.wav|hiː wʌz kˈɪld baɪ ɐn ˈæɹoʊ. |0
+/ESD/0016/Happy/0016_000806.wav|aɪ ɡˈɛs ɪts ɐ tʃˈɔɪs fˈiːst. |0
+/ESD/0016/Happy/0016_000807.wav|tˈɑːm ænd mˈaɪkəl wˈoʊk ˌʌp nˈɛkst mˈɔːɹnɪŋ. |0
+/ESD/0016/Happy/0016_000808.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt. |0
+/ESD/0016/Happy/0016_000809.wav|ɪf ðeɪ mˈʌðɚ nˈuː ɪt. |0
+/ESD/0016/Happy/0016_000810.wav|ˈækt dɹˈɑːp sˈɛkənd ˈækt sˈiːn. |0
+/ESD/0016/Happy/0016_000811.wav|wiː nˈaɪtli dˈæns ˌaʊɚ hˈeɪdeɪ ɡˈaɪz. |0
+/ESD/0016/Happy/0016_000812.wav|klˈaʊn, tə kˈɔːl hˌɪm dʒˈoʊi. |0
+/ESD/0016/Happy/0016_000813.wav|mˈɪstɚ lˈɔːsən sˈɔː dʒˈɔːɹdʒ lˈæst nˈaɪt. |0
+/ESD/0016/Happy/0016_000814.wav|ɐ hˈæf pˈaʊndz ʌv flˈaʊɚ ænd tˈuː ˈaʊnsᵻz sˈuːɪt. |0
+/ESD/0016/Happy/0016_000815.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl. |0
+/ESD/0016/Happy/0016_000816.wav|nˈoʊ, aɪ bˈɜːst ðə bəlˈuːn! |0
+/ESD/0016/Happy/0016_000817.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn. |0
+/ESD/0016/Happy/0016_000818.wav|lˈʊk ˈaʊt! sˈɛd ˈælɪs. |0
+/ESD/0016/Happy/0016_000819.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ. |0
+/ESD/0016/Happy/0016_000820.wav|ˌaʊɚ kˈɪŋ dʒˈɔːɹdʒ ɪz lˈeɪbɚɹɚz. |0
+/ESD/0016/Happy/0016_000821.wav|fˈɪn ænd ðə fˈɛɹi ʃˈuːmeɪkɚ. |0
+/ESD/0016/Happy/0016_000822.wav|æm aɪ ɐn ˈæbsəlˌuːt pˈɔːpɚ? |0
+/ESD/0016/Happy/0016_000823.wav|aɪɐm fɹʌm tˈaʊəl lˈænd. |0
+/ESD/0016/Happy/0016_000824.wav|juː nˈoʊ, ˈænsɚz tə ðə nˈeɪm ʌv tˈɑːmz sˈʌn. |0
+/ESD/0016/Happy/0016_000825.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː! |0
+/ESD/0016/Happy/0016_000826.wav|ðɪs tˈɜːn ɡoʊz tə ðə hˈɪl. |0
+/ESD/0016/Happy/0016_000827.wav|kˈɑːs aɪ nˈoʊ aɪ hˌæd sʌm hˈʌni. |0
+/ESD/0016/Happy/0016_000828.wav|pˌʊt ðæt ɹˈuːd ɡɹˈæshɑːpɚɹ ɪn dʒˈeɪl! |0
+/ESD/0016/Happy/0016_000829.wav|ɐ lˈɑːɹdʒ flˈæt fˈɛɹi bˈoʊt wʌz mˈʊɹd bᵻsˌaɪdɪt. |0
+/ESD/0016/Happy/0016_000830.wav|ænd wʊd spˈɔɪl maɪ dʒˈoʊk. |0
+/ESD/0016/Happy/0016_000831.wav|ɪt mˈʌst kˈʌm sˈʌmtaɪmz tə dʒˈæm ɐ dˈeɪ. |0
+/ESD/0016/Happy/0016_000832.wav|aɪ θˈæŋk juː fɔːɹ ðɪs mˈɜːsi! |0
+/ESD/0016/Happy/0016_000833.wav|aɪ smˈɛl ðə bɹˈɛθ əvən ˈɪŋɡlɪʃ. |0
+/ESD/0016/Happy/0016_000834.wav|ɹˈɛɹ ɹˈæbɪt hæd ɐ lˈɪɾəl ˈeɪpɹən. |0
+/ESD/0016/Happy/0016_000835.wav|aɪ blˈɪŋkt maɪ ˈaɪz hˈɑːɹd. |0
+/ESD/0016/Happy/0016_000836.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːlʌv ɪt. |0
+/ESD/0016/Happy/0016_000837.wav|lˈɛt ðə ɡlˈæs ɡlˈoʊb bˈiː. |0
+/ESD/0016/Happy/0016_000838.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs. |0
+/ESD/0016/Happy/0016_000839.wav|kˈʊkuːz ɪz dˌaʊnhˈɛdᵻd ænd kɹˈaɪɪŋ. |0
+/ESD/0016/Happy/0016_000840.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz! |0
+/ESD/0016/Happy/0016_000841.wav|kæn aɪ lˈɑːdʒ hˈɪɹ tənˈaɪt? |0
+/ESD/0016/Happy/0016_000842.wav|wˈeɪk nˈaʊ maɪ mˈɛɹi tˈædz! |0
+/ESD/0016/Happy/0016_000843.wav|pˈʊsi kæn sˈɪt baɪ ðə fˈaɪɚ ænd sˈɪŋ. |0
+/ESD/0016/Happy/0016_000844.wav|wiː ˈɔːl sˈiː pˈændə ˌɔn tˌiːvˈiː ɔːɹ ɪnðə zˈuː. |0
+/ESD/0016/Happy/0016_000845.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl! |0
+/ESD/0016/Happy/0016_000846.wav|hiː sˈɛd tə dʒˈæk, ðə tʃˈæɾɚɹɚ. |0
+/ESD/0016/Happy/0016_000847.wav|ænd ðɛɹ juːl fˈaɪnd ɐ snˈæp dɹˈæɡən flˈaɪ. |0
+/ESD/0016/Happy/0016_000848.wav|ænd ɔnðə tˈɑːp ʌv ðˌɛm, kˈeɪm wˈɪni, ðə kjˈuːt bˈɛɹ. |0
+/ESD/0016/Happy/0016_000849.wav|maɪ wˈaɪndɪŋ ʃˈiːt! |0
+/ESD/0016/Happy/0016_000850.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf! |0
+/ESD/0016/Happy/0016_000851.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm. |0
+/ESD/0016/Happy/0016_000852.wav|ɡˈɪlti fɔːɹ wʌt dˈuː juː ɹˈuːl? |0
+/ESD/0016/Happy/0016_000853.wav|bˌʌt wiː ɑːɹ nˌɑːt hˈaɪ jˈɛt. |0
+/ESD/0016/Happy/0016_000854.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt. |0
+/ESD/0016/Happy/0016_000855.wav|ðɪs spˈiːtʃ ɹˈaʊzd dˈeɪm ˈɪls tʊ ˈæŋɡɚ. |0
+/ESD/0016/Happy/0016_000856.wav|ðɪ ˈaɪ kʊd nˌɑːt kˈætʃ ðˌɛm. |0
+/ESD/0016/Happy/0016_000857.wav|blˈækbɜːd, ænd dʒˈeɪ. |0
+/ESD/0016/Happy/0016_000858.wav|ɪt lˈʊks mˈʌtʃ bˈɛɾɚ. |0
+/ESD/0016/Happy/0016_000859.wav|sˈʌtʃ tˈuːnz ɑːɹ dʒˈɔɪ tʊ ɐ dˈænsɪŋ fˈeɪ. |0
+/ESD/0016/Happy/0016_000860.wav|kˈɪɾi, kæn juː plˈeɪ tʃˈɛs? |0
+/ESD/0016/Happy/0016_000861.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt. |0
+/ESD/0016/Happy/0016_000862.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz. |0
+/ESD/0016/Happy/0016_000863.wav|hˌaʊ ðeɪ wɛnt tə ðə mˈaʊntɪnz tʊ ˈiːt nˈʌts. |0
+/ESD/0016/Happy/0016_000864.wav|hɪz lˈɑːɹdʒ mˈaʊθ kˈɜːld ˌɪntʊ ɐ snˈɪɹ. |0
+/ESD/0016/Happy/0016_000865.wav|ðeɪ wɜː ɡˌoʊɪŋ fˈæst, wɪð ɐ lˈaɪt klˈɪp. |0
+/ESD/0016/Happy/0016_000866.wav|ðeɪ ˈeɪt bˈiːf æt ðə bˈʊtʃɚ ʃˈɑːp. |0
+/ESD/0016/Happy/0016_000867.wav|aɪ tˈɔɪ wɪð maɪ lᵻkˈɜː. |0
+/ESD/0016/Happy/0016_000868.wav|aɪ sˈɛd juː lˈʊkt lˈaɪk ɐn ˈɛɡ, sˌɜː. |0
+/ESD/0016/Happy/0016_000869.wav|sˈæm wˈeɪvd hɪz ˈɑːɹm vˈeɪɡli. |0
+/ESD/0016/Happy/0016_000870.wav|bˌʌt ɪf juː hˈædənt dˈʌn ðˌɛm. |0
+/ESD/0016/Happy/0016_000871.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ. |0
+/ESD/0016/Happy/0016_000872.wav|aɪʃˌɐl sˈeɪ ɡˈʊd bˈaɪ. |0
+/ESD/0016/Happy/0016_000873.wav|hiː sˈɜːtʃt θɹuː ðə bˈɑːks. |0
+/ESD/0016/Happy/0016_000874.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə. |0
+/ESD/0016/Happy/0016_000875.wav|ˈɔːl ðɪs hæv wiː wˈʌn baɪ ˌaʊɚ lˈeɪbɚ. |0
+/ESD/0016/Happy/0016_000876.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl. |0
+/ESD/0016/Happy/0016_000877.wav|tˈɑːm fˈɛl wɪð ɐ klˈoʊvən hˈɛd. |0
+/ESD/0016/Happy/0016_000878.wav|ænd vˈaʊd hiːd tʃˈeɪndʒ ðə pˈɪɡteɪlz plˈeɪs. |0
+/ESD/0016/Happy/0016_000879.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz. |0
+/ESD/0016/Happy/0016_000880.wav|tˈoʊst fɹʌmðə bɹˈɛd fɹˈuːt tɹˈiː. |0
+/ESD/0016/Happy/0016_000881.wav|fˈɜːst, ˈɪʃuː ɐ ɹᵻwˈɔːɹd. |0
+/ESD/0016/Happy/0016_000882.wav|ˈeɪdʒ fˈɔːɹɾi fˈaɪv ɪf ɐ dˈeɪ ɐ lˈaɪ. |0
+/ESD/0016/Happy/0016_000883.wav|fɹˈɛʃ pˈeɪn sˈiːzd pˈɔːlz bˈɑːdi. |0
+/ESD/0016/Happy/0016_000884.wav|wiː hɐvbɪn fˈaɪn, hˈævənt wiː? |0
+/ESD/0016/Happy/0016_000885.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ. |0
+/ESD/0016/Happy/0016_000886.wav|ʃiː dʒˈʌmp æt ðə tˈeɪl ænd bˈaɪt ɪt sˈævɪdʒli. |0
+/ESD/0016/Happy/0016_000887.wav|ɐn ˈaʊɚɹ ˌaʊɾəv ɡˈɪld fˈoːɹd tˈaʊn. |0
+/ESD/0016/Happy/0016_000888.wav|nˈaʊ kwˈɪkɚ ðə fˈɪdəl wˈɛnt. |0
+/ESD/0016/Happy/0016_000889.wav|wˌɛn sˈʌtʃ wˈɔndɚɹɚz mˈiːt. |0
+/ESD/0016/Happy/0016_000890.wav|ænd ðeɪ wɜː sˈændi jˈɛloʊ bɹˈaʊnɪʃ ˈɔːl ˈoʊvɚ. |0
+/ESD/0016/Happy/0016_000891.wav|aɪ mˌeɪk hɜː kwˈaɪt nˈɜːvi æt tˈaɪmz. |0
+/ESD/0016/Happy/0016_000892.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld. |0
+/ESD/0016/Happy/0016_000893.wav|plˈiːz hˈaɪɚ mˌiː ˈæftɚ juː. |0
+/ESD/0016/Happy/0016_000894.wav|jˈɛs, aɪ mˈɪs hɜː. |0
+/ESD/0016/Happy/0016_000895.wav|ɐ bˈoʊt pˌʊt ˈaʊt ɔnðə bˈeɪ. |0
+/ESD/0016/Happy/0016_000896.wav|klˈɪɹ ɑːɹ jʊɹ ˈaɪz ænd bɹˈaɪt jʊɹ bɹˈɛθ! |0
+/ESD/0016/Happy/0016_000897.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt. |0
+/ESD/0016/Happy/0016_000898.wav|aɪd ʃˈuːt maɪsˈɛlf. ɐ pˈɔːz. |0
+/ESD/0016/Happy/0016_000899.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ. |0
+/ESD/0016/Happy/0016_000900.wav|ðæt klˈɔθ dʌznˌɑːt lˈʊk wˈɜːθ mˈʌtʃ! |0
+/ESD/0016/Happy/0016_000901.wav|ɐ lˈeɪdi, ɪz ˌɔn ˈælɪsᵻz lˈæp! |0
+/ESD/0016/Happy/0016_000902.wav|ðæt sˈaʊndz ɡˈʊd. |0
+/ESD/0016/Happy/0016_000903.wav|aɪ wʌz nˌɑːt ɡɹˈæbd. |0
+/ESD/0016/Happy/0016_000904.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt. |0
+/ESD/0016/Happy/0016_000905.wav|fˈɪɹ nˈiːðɚ ɹˈuːt nˈɔːɹ spɹˈaʊt! |0
+/ESD/0016/Happy/0016_000906.wav|stˈɪl juː ˈoʊ ɪɾ ɐ dˈuːɾi. |0
+/ESD/0016/Happy/0016_000907.wav|wˌʌt æm ˈaɪ, aɪm ɐ ɹˈeɪsɚ, sˈʌn ʌv ɡˈɑːd. |0
+/ESD/0016/Happy/0016_000908.wav|haʊˈɛvɚ, sˈʌmbɑːdi kˈɪld sˈʌmθɪŋ. |0
+/ESD/0016/Happy/0016_000909.wav|ɐ ɹˈeɪdʒɪŋ fˈaɪɚ wʌz ɪn hɪz ˈaɪz. |0
+/ESD/0016/Happy/0016_000910.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm. |0
+/ESD/0016/Happy/0016_000911.wav|fɹʌm ˈiːtʃ kˈeɪk, ðɛɹ spɹˈæŋ ɐ hjˈuːdʒ dˈɑːɡ. |0
+/ESD/0016/Happy/0016_000912.wav|nˈoʊ θˈæŋk juː. |0
+/ESD/0016/Happy/0016_000913.wav|lˈɛt ɪt ɡˈɪv ˌʌs ɐ tʃˈæns, maɪ pɹˈɛʃəs. |0
+/ESD/0016/Happy/0016_000914.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki! |0
+/ESD/0016/Happy/0016_000915.wav|hiː lˈaɪks dɹˈæɡənz vˈɛɹi mˈʌtʃ. |0
+/ESD/0016/Happy/0016_000916.wav|ɪɾ ˌɪzənt pˈɪkt æɾ ˈɔːl. |0
+/ESD/0016/Happy/0016_000917.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf ! |0
+/ESD/0016/Happy/0016_000918.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ. |0
+/ESD/0016/Happy/0016_000919.wav|bˌʌt ðə tˈuːn ˌɪzənt hɪz ˈoʊn ɪnvˈɛnʃən. |0
+/ESD/0016/Happy/0016_000920.wav|hɜː pˈɔː wɛnt ˌɪntʊ jʊɹ ˈaɪ? |0
+/ESD/0016/Happy/0016_000921.wav|aɪɐm ɐ sˈɛlfɪʃ sˈɪnɚ. |0
+/ESD/0016/Happy/0016_000922.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː. |0
+/ESD/0016/Happy/0016_000923.wav|pˈɪk, pˈɪk, pˈɪk! |0
+/ESD/0016/Happy/0016_000924.wav|dˈuː juː nˈoʊ ðə lˈɪd ˈoʊpənz? |0
+/ESD/0016/Happy/0016_000925.wav|hɜːɹ ɛɡzˈɪstəns mˌeɪks hˌɪm plˈɛzənt. |0
+/ESD/0016/Happy/0016_000926.wav|ænd ðə nˈɛkst dˈeɪ. nˈɜːs wɪl biː ɹᵻlˈiːst. |0
+/ESD/0016/Happy/0016_000927.wav|bˈɔːɹn wˈʌns ˈɛvɹi wˈʌn hˈʌndɹɪd jˈɪɹz, dˈaɪz ɪn flˈeɪmz! |0
+/ESD/0016/Happy/0016_000928.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi. |0
+/ESD/0016/Happy/0016_000929.wav|ðə fˈɜːst jˈɪɹ ðeɪ sˈoʊd ɹˈaɪ. |0
+/ESD/0016/Happy/0016_000930.wav|jʊɹ ˈoʊn wˈaɪf ɪz nˌɑːt æt hˈoʊm. |0
+/ESD/0016/Happy/0016_000931.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ. |0
+/ESD/0016/Happy/0016_000932.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt. |0
+/ESD/0016/Happy/0016_000933.wav|wˌaɪ ʃˌʊd ˈaɪ kˈɛɹ ðˌoʊ dˈeɪvɪdz lˈɪps wɜː twˈɪtʃɪŋ? |0
+/ESD/0016/Happy/0016_000934.wav|hˈɜːɹi ˈʌp, hˈɜːɹi ˈʌp! |0
+/ESD/0016/Happy/0016_000935.wav|ɪf nˈɑːt, aɪʃˌɐl ɡˌoʊ nˈoʊ fˈɜːðɚ. |0
+/ESD/0016/Happy/0016_000936.wav|hˌaʊ ɹˈæʃ juː ɑːɹ! |0
+/ESD/0016/Happy/0016_000937.wav|wˌʌt wʊd ðeɪ dˈuː æt ðɪ ˈɛnd ʌvðə jˈɪɹ? |0
+/ESD/0016/Happy/0016_000938.wav|tədˈeɪ ˌɪzənt ˌɛni ˈʌðɚ dˈeɪ. |0
+/ESD/0016/Happy/0016_000939.wav|ðɪs ɪz ðə wˈeɪ ðæt snˈeɪks ˈɔːlweɪz tˈɔːk. |0
+/ESD/0016/Happy/0016_000940.wav|bˈoʊθ sˈaɪd wɜː sˈɔftli kˈɜːvd. |0
+/ESD/0016/Happy/0016_000941.wav|wiː hæv ʃˈoʊd hɪz ʃˈɑːɹk tˈuːθ. |0
+/ESD/0016/Happy/0016_000942.wav|ɡˈɪv mˌiː jʊɹ hˈænd ɔːɹ aɪ wɪl kɹˈaɪ hˈɑːɹdɚ ðɐn bᵻfˈoːɹ. |0
+/ESD/0016/Happy/0016_000943.wav|ænd hɐz juː slˈeɪn hˌɪm? |0
+/ESD/0016/Happy/0016_000944.wav|ˈɔf fɚðə pɹˈɪzən ʃˈɪp. |0
+/ESD/0016/Happy/0016_000945.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl? |0
+/ESD/0016/Happy/0016_000946.wav|wiː kæn nˌɑːt dˈuː ɪt sˌɜː. |0
+/ESD/0016/Happy/0016_000947.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs. |0
+/ESD/0016/Happy/0016_000948.wav|ɪnwˌɪtʃ pˈɪɡlɪt mˈiːts ɐ ˈɛlɪfənt. |0
+/ESD/0016/Happy/0016_000949.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp. |0
+/ESD/0016/Happy/0016_000950.wav|hɜː kˈaɪnd ænd fˈɜːm ɡlˈæns. |0
+/ESD/0016/Happy/0016_000951.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli. |0
+/ESD/0016/Happy/0016_000952.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt. |0
+/ESD/0016/Happy/0016_000953.wav|aɪ hæv ɐ sˈuːθseɪɚ. |0
+/ESD/0016/Happy/0016_000954.wav|ʃiː lˈæft. |0
+/ESD/0016/Happy/0016_000955.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː. |0
+/ESD/0016/Happy/0016_000956.wav|aɪ mˈʌstɐv tˈuː tə fˈɛtʃ ænd kˈæɹi. |0
+/ESD/0016/Happy/0016_000957.wav|aɪ wʊd skˈɔf æt ðiːz fˈɑːloʊɚz. |0
+/ESD/0016/Happy/0016_000958.wav|mˈʌm ʃˈʌts wˈʌnz mˈaʊθ ˈʌp, dˈʌzənt ɪt. |0
+/ESD/0016/Happy/0016_000959.wav|ðə sˈɔŋ ɪz kˈɔːld wˈeɪz ænd mˈiːnz. |0
+/ESD/0016/Happy/0016_000960.wav|æz sˈuːn æz ʃiː wɛnt ˈɪn, ðɛɹwˌʌz dɪsˈoːɹdɚ. |0
+/ESD/0016/Happy/0016_000961.wav|ˈæftɚɹ ɐ wˈaɪl hiː pɚsˈiːvd bˈoʊθ dʒˈaɪənts. |0
+/ESD/0016/Happy/0016_000962.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm! |0
+/ESD/0016/Happy/0016_000963.wav|ʃiː sˈɛd ɪn sʌbdˈuːd vˈɔɪs. |0
+/ESD/0016/Happy/0016_000964.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm! |0
+/ESD/0016/Happy/0016_000965.wav|aɪv dʒˈʌst ʃˈɑːt ɐ stˈæɡ. |0
+/ESD/0016/Happy/0016_000966.wav|wiː mˈeɪ dʒˈɔɪn wɪð ðæt pˈaʊɚ. |0
+/ESD/0016/Happy/0016_000967.wav|tʃˈæptɚɹ ᵻlˈɛvən ɔnðə dˈoːɹstɛp. |0
+/ESD/0016/Happy/0016_000968.wav|hiː ʃˈoʊd nˈoʊ sˈaɪnz ʌv ˈeɪdʒ. |0
+/ESD/0016/Happy/0016_000969.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp! |0
+/ESD/0016/Happy/0016_000970.wav|tʃˈuː lˈiːvz kwˈɪkli, sˈɛd ɹˈæbɪt. |0
+/ESD/0016/Happy/0016_000971.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ. |0
+/ESD/0016/Happy/0016_000972.wav|nˈoʊ ɐdmˈɪts ɛksˈɛpt ˌɔn pˈɑːɹɾi bˈɪznəs. |0
+/ESD/0016/Happy/0016_000973.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː. |0
+/ESD/0016/Happy/0016_000974.wav|bɪkˈʌz hiː wʌzɐ mˈæn wɪð ˈɪnfɪnət ɹᵻsˈoːɹs ænd səɡˈæsᵻɾi. |0
+/ESD/0016/Happy/0016_000975.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn. |0
+/ESD/0016/Happy/0016_000976.wav|kæn jʊɹ nˈeɪm biː mˈoːɹ hɪlˈɛɹiəs? |0
+/ESD/0016/Happy/0016_000977.wav|ðɪ ˈɛnd pˈɑːɹt ɪz fˈɪʃ mˈaʊθ. |0
+/ESD/0016/Happy/0016_000978.wav|aɪ nˈoʊ juː . |0
+/ESD/0016/Happy/0016_000979.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns. |0
+/ESD/0016/Happy/0016_000980.wav|jʊɹ pˈæθ nˈaʊ ɡoʊz sˈaʊθ. |0
+/ESD/0016/Happy/0016_000981.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ. |0
+/ESD/0016/Happy/0016_000982.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn. |0
+/ESD/0016/Happy/0016_000983.wav|ðeɪ hɐdbɪn nˈeɪmd tˈɑːm ænd dʒˈɛɹi. |0
+/ESD/0016/Happy/0016_000984.wav|tʃˈæptɚɹ ˈeɪtiːn, ðə ɹᵻtˈɜːn dʒˈɜːni. |0
+/ESD/0016/Happy/0016_000985.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː. |0
+/ESD/0016/Happy/0016_000986.wav|wˈʌn tˈuː θɹˈiː, wˌɛɹ ɪz jʊɹ bɹˈɛkfəst. |0
+/ESD/0016/Happy/0016_000987.wav|ɐ vˈɔɪs sˈɛd: kˈʌm ˈɪn. |0
+/ESD/0016/Happy/0016_000988.wav|ʃiː hɐz fˈɛlt ʃˈaɪ ʌv ɪt. |0
+/ESD/0016/Happy/0016_000989.wav|nˈoʊ, sˈɛd pˈɪɡi kˈɛɹləsli. |0
+/ESD/0016/Happy/0016_000990.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn! |0
+/ESD/0016/Happy/0016_000991.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ. |0
+/ESD/0016/Happy/0016_000992.wav|ʃiː hɐz ɐ hˈaɪ vˈɔɪs. |0
+/ESD/0016/Happy/0016_000993.wav|hiː ɪz ˈoʊld fˈæʃənd bˌʌt hiː ɪz ðə bˈɛst ʌv mˈɛn. |0
+/ESD/0016/Happy/0016_000994.wav|nˈaʊ aɪ ˌʌndɚstˈænd. |0
+/ESD/0016/Happy/0016_000995.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz. |0
+/ESD/0016/Happy/0016_000996.wav|juː wˈoʊk mˌiː ˈʌp! |0
+/ESD/0016/Happy/0016_000997.wav|hˌaʊ tˈɑːm ænd dʒˈɛɹi wɛnt tə vˈɪzɪt mˈɪstɚ sˈæm. |0
+/ESD/0016/Happy/0016_000998.wav|ʃiː kˈʌm bˈæk tə ðə vˈæli. |0
+/ESD/0016/Happy/0016_000999.wav|hɪz hˈoʊp wɪl tʃˈiːt hˌɪm. |0
+/ESD/0016/Happy/0016_001000.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm. |0
+/ESD/0016/Happy/0016_001001.wav|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt! |0
+/ESD/0016/Happy/0016_001002.wav|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt? |0
+/ESD/0016/Happy/0016_001003.wav|aɪɐm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ. |0
+/ESD/0016/Happy/0016_001004.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd! |0
+/ESD/0016/Happy/0016_001005.wav|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ. |0
+/ESD/0016/Happy/0016_001006.wav|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz. |0
+/ESD/0016/Happy/0016_001007.wav|aɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz. |0
+/ESD/0016/Happy/0016_001008.wav|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ. |0
+/ESD/0016/Happy/0016_001009.wav|hiː ˈoʊd mˈɪstɚ lˈɔːsən, aɪ kˈænt tˈɛl juː hˈaʊ. |0
+/ESD/0016/Happy/0016_001010.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn. |0
+/ESD/0016/Happy/0016_001011.wav|aɪɐm sˈeɪf bˈæk ɐɡˈɛn. |0
+/ESD/0016/Happy/0016_001012.wav|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz. |0
+/ESD/0016/Happy/0016_001013.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs. |0
+/ESD/0016/Happy/0016_001014.wav|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl. |0
+/ESD/0016/Happy/0016_001015.wav|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ. |0
+/ESD/0016/Happy/0016_001016.wav|ɐ θˈiːf ɪnðə nˈaɪt. |0
+/ESD/0016/Happy/0016_001017.wav|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd. |0
+/ESD/0016/Happy/0016_001018.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks. |0
+/ESD/0016/Happy/0016_001019.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz? |0
+/ESD/0016/Happy/0016_001020.wav|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ. |0
+/ESD/0016/Happy/0016_001021.wav|kˈɔːld ˈaʊt ðə klˈaʊd. |0
+/ESD/0016/Happy/0016_001022.wav|ɐ spˈɛʃəl pˈɑːt tˈuː. |0
+/ESD/0016/Happy/0016_001023.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp! |0
+/ESD/0016/Happy/0016_001024.wav|ænd ʃiː kˈɔːt æt ðə bɹˈoʊtʃ. |0
+/ESD/0016/Happy/0016_001025.wav|ʃiː hɐz nˈoʊ plˈeɪs fɔːɹ hˈɑːt pˈɛpɚ . |0
+/ESD/0016/Happy/0016_001026.wav|ðeɪ ɑːɹ mˌeɪd ʌv wˈʊd. |0
+/ESD/0016/Happy/0016_001027.wav|ɪts pˈɑːɹt ʌv maɪ sˈiːkɹᵻt. |0
+/ESD/0016/Happy/0016_001028.wav|ɪt wʊd biː ɐ hˈɑːɹd tʃˈɔɪs. |0
+/ESD/0016/Happy/0016_001029.wav|ænd hɪz hˈɑːɹt wˈæɡd wɪð dʒˈɔɪ lˈaɪk ɐ lˈæmz tˈeɪl. |0
+/ESD/0016/Happy/0016_001030.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz. |0
+/ESD/0016/Happy/0016_001031.wav|ʃiːl biː fˈiːvɚɹɪʃ ˈæftɚ sˈoʊ mˌʌtʃ θˈɪŋkɪŋ. |0
+/ESD/0016/Happy/0016_001032.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ? |0
+/ESD/0016/Happy/0016_001033.wav|juː ɡˈeɪn fɔːɹ nˈʌθɪŋ ɡˈɜːl! |0
+/ESD/0016/Happy/0016_001034.wav|ɐnˈʌðɚ wˌʌn, tˈɛn θˈaʊzənd dˈɑːlɚz. |0
+/ESD/0016/Happy/0016_001035.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt. |0
+/ESD/0016/Happy/0016_001036.wav|ˌoʊvɚ ðˌɛm swˈuːpt ðɪ ˈiːɡəlz. |0
+/ESD/0016/Happy/0016_001037.wav|bˌʌt mˈɑːm aɪm nˌɑːt sˈɜːʔn̩ ɐbˈaʊt. |0
+/ESD/0016/Happy/0016_001038.wav|pˈɔːlz tˈiːθ ˈeɪkt bɪkˈʌz ʌv lˈɛmən. |0
+/ESD/0016/Happy/0016_001039.wav|ænd biː wɪð juː,tˈɑːm! |0
+/ESD/0016/Happy/0016_001040.wav|sˌoʊ tˈɑːm sˈɔː nˈaɪt æz ɪt wɜː bɹˈɔːt dˈeɪlaɪt. |0
+/ESD/0016/Happy/0016_001041.wav|ɪnˈʌf,juː ɐ fˈuːlɪʃ tʃˈæɾɚ. |0
+/ESD/0016/Happy/0016_001042.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn? |0
+/ESD/0016/Happy/0016_001043.wav|ænd wʌt dˈʌz ɪt mˈiːn? |0
+/ESD/0016/Happy/0016_001044.wav|lˈuːsi, ɐ klˈɛvɚ fˈɑːɹmɚ. |0
+/ESD/0016/Happy/0016_001045.wav|ɐ wˈɜːɹɪŋ nˈɔɪz wʌz hˈɜːd. |0
+/ESD/0016/Happy/0016_001046.wav|aɪɐm ɡˌoʊɪŋ tə bˈæk hˈoʊm. |0
+/ESD/0016/Happy/0016_001047.wav|wˌʌt ɑːɹ juː wˈeɪɾɪŋ fɔːɹ? mˈæn. |0
+/ESD/0016/Happy/0016_001048.wav|dˈɪɹ kˈʌstəmɚ,wˈɛlkʌm tʊ ˌaʊɚ ʃˈɪp. |0
+/ESD/0016/Happy/0016_001049.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən? |0
+/ESD/0016/Happy/0016_001050.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd? |0
+/ESD/0016/Sad/0016_001051.wav|ðə nˈaɪn ðɪ ˈɛɡz, aɪ kˈiːp. |0
+/ESD/0016/Sad/0016_001052.wav|aɪ dˈɪd ɡˈoʊ, ænd mˌeɪd mˈɛni pɹˈɪzənɚz. |0
+/ESD/0016/Sad/0016_001053.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː. |0
+/ESD/0016/Sad/0016_001054.wav|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈæs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt. |0
+/ESD/0016/Sad/0016_001055.wav|klˈɪɹ ðɐn klˈɪɹ wˈɔːɾɚ! |0
+/ESD/0016/Sad/0016_001056.wav|ˈændi wʌts ðə dʒˈaɪɚ ænd tə ɡˈæmbəl. |0
+/ESD/0016/Sad/0016_001057.wav|aɪm æz bˈæd æz aɪ kæn bˈiː. |0
+/ESD/0016/Sad/0016_001058.wav|ðæt wʌz hɪz tʃˈiːf θˈɔːt. |0
+/ESD/0016/Sad/0016_001059.wav|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ. |0
+/ESD/0016/Sad/0016_001060.wav|ɐ nˈɔːsɪəs dɹˈæft. |0
+/ESD/0016/Sad/0016_001061.wav|tʃˈæptɚ tˈɛn ɐ wˈɔːɹm wˈɛlkʌm. |0
+/ESD/0016/Sad/0016_001062.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz. |0
+/ESD/0016/Sad/0016_001063.wav|aɪ hæv bˈʌnbɛɹid ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz. |0
+/ESD/0016/Sad/0016_001064.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː! |0
+/ESD/0016/Sad/0016_001065.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd! |0
+/ESD/0016/Sad/0016_001066.wav|mˈɪstɚ ʃˈɛɹ mˈæn, aɪ mˈuːv fɚɹə dᵻvˈɪʒən. |0
+/ESD/0016/Sad/0016_001067.wav|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən? |0
+/ESD/0016/Sad/0016_001068.wav|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ. |0
+/ESD/0016/Sad/0016_001069.wav|æt ðɪ ˈɛnd ʌv fˈoːɹ. |0
+/ESD/0016/Sad/0016_001070.wav|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs. |0
+/ESD/0016/Sad/0016_001071.wav|æz ɹˈɪtʃ æz pˈiːɾɚz sˈʌn ɪn lˈɔː! |0
+/ESD/0016/Sad/0016_001072.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz. |0
+/ESD/0016/Sad/0016_001073.wav|aɪ θˈɔːt juː mˈɛnt hˌaʊ ˈoʊld ɑːɹ juː? |0
+/ESD/0016/Sad/0016_001074.wav|ðə fˈʊtbɔːl tˈiːmz ɡˈɪv ɐ tˈiː pˈɑːɹɾi. |0
+/ESD/0016/Sad/0016_001075.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ. |0
+/ESD/0016/Sad/0016_001076.wav|lˈɛts mˌeɪk ðə nˈɔɪz ɐ snˈeɪk. |0
+/ESD/0016/Sad/0016_001077.wav|mˈɔnstɚ mˌeɪd ɐ dˈiːp bˈoʊ. |0
+/ESD/0016/Sad/0016_001078.wav|ʃiː hæd sˈɛd, sˌoʊ ðˈætwˌʌn kʊd kˈiːp ˌʌp ɐ kɑːnvɚsˈeɪʃən! |0
+/ESD/0016/Sad/0016_001079.wav|ɹˈæt kˈeɪm ænd ɹᵻplˈaɪd ɔnðə lˈiːvz. |0
+/ESD/0016/Sad/0016_001080.wav|mˈʌst ɐ nˈeɪm mˈiːn sˈʌmθɪŋ? |0
+/ESD/0016/Sad/0016_001081.wav|ˈɔːl smˈaɪl wɜː ɹˈiːəl ænd ðə hˈæpɪɚ ðə mˈoːɹ sɪnsˈɪɹ . |0
+/ESD/0016/Sad/0016_001082.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː? |0
+/ESD/0016/Sad/0016_001083.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən. |0
+/ESD/0016/Sad/0016_001084.wav|ɐ dᵻvˈaɪn ɹˈæθ mˌeɪd hɜː blˈuː ˈaɪz ˈɔːfəl. |0
+/ESD/0016/Sad/0016_001085.wav|ðə nˈeɪm ɹˈiəli ɪz ðɪ ˈeɪdʒɛdɪdʒd mˈæn. |0
+/ESD/0016/Sad/0016_001086.wav|hˌaʊ aɪ hˈeɪt ðɪs fˈaʊl pˈuːl! |0
+/ESD/0016/Sad/0016_001087.wav|aɪ θˈɪŋk ˌɪɾəl ɛŋkˈɜːɹɪdʒ mˌiː. |0
+/ESD/0016/Sad/0016_001088.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd. |0
+/ESD/0016/Sad/0016_001089.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ. |0
+/ESD/0016/Sad/0016_001090.wav|ɪnwˌɪtʃ fˈɑːks lˈuːzᵻz ɐ tˈeɪl ænd ɪts ˈɛldɚ sˈɪstɚ fˈaɪndz wˌʌn. |0
+/ESD/0016/Sad/0016_001091.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ. |0
+/ESD/0016/Sad/0016_001092.wav|ʃiː mˈeɪ mˈaɪnd jiː ʌv hɜː. |0
+/ESD/0016/Sad/0016_001093.wav|stˈoːɹi twˈɛnti nˈaɪn ɐ bˈɔɪ ænd ɐ mˈʌŋki. |0
+/ESD/0016/Sad/0016_001094.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt. |0
+/ESD/0016/Sad/0016_001095.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz. |0
+/ESD/0016/Sad/0016_001096.wav|ðeɪd nˈɛvɚ nˈoʊ aɪd ɹˈɛɡjʊlɚ ɹˈæn ɐwˈeɪ. |0
+/ESD/0016/Sad/0016_001097.wav|plˈiːz ɛkskjˈuːs mˌiː. |0
+/ESD/0016/Sad/0016_001098.wav|juː ɑːɹ nˌɑːɾɚ ɹˈʌnəwˌeɪ,hˈuː ɑːɹ juː? |0
+/ESD/0016/Sad/0016_001099.wav|ðˈɛn wiː ˈɔːl sˈeɪ ɑːhˈɑː! |0
+/ESD/0016/Sad/0016_001100.wav|ɹˈæbɪt ɡˈeɪv dˈɑːɡ ɐ hˈɜːɹiɪŋ ˌʌp sˈɔːɹt ʌv nˈʌdʒ. |0
+/ESD/0016/Sad/0016_001101.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz. |0
+/ESD/0016/Sad/0016_001102.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs. |0
+/ESD/0016/Sad/0016_001103.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst! |0
+/ESD/0016/Sad/0016_001104.wav|ɑːɹ juː ɐ ɹˈɛɡjʊlɚ dˈɑːɹki ɹˈiəli? |0
+/ESD/0016/Sad/0016_001105.wav|ɐ dˈɛfənɪŋ tʃˈɪɹuːpɪŋ ɹˈɛnt ðɪ ˈɛɹ. |0
+/ESD/0016/Sad/0016_001106.wav|jʊɹ mˈɪdʒɪt wˈaɪf nˈɛvɚ kæn sˈɪŋ ɐ sˈɔŋ. |0
+/ESD/0016/Sad/0016_001107.wav|hˈænɪbəl kˈʌm tə sˈiː juː. |0
+/ESD/0016/Sad/0016_001108.wav|ðɪ ˈɑːktəpəs hɐz ˈeɪt lˈɛɡz. |0
+/ESD/0016/Sad/0016_001109.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni. |0
+/ESD/0016/Sad/0016_001110.wav|ðæt aɪɐm ɐ bˈɔːɹn nˈɜːs. |0
+/ESD/0016/Sad/0016_001111.wav|mˈɪdjɪɹ ɪz dˈeɪ, ʃˈaɪɚ jˈɪɹ. |0
+/ESD/0016/Sad/0016_001112.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili. |0
+/ESD/0016/Sad/0016_001113.wav|ˈæstɚɹˌɔɪd θɹˈiː hˈʌndɹɪd ænd twˈɛnti fˈaɪv. |0
+/ESD/0016/Sad/0016_001114.wav|ænd wiː ɑːɹ sˌoʊ θˈɜːsti! |0
+/ESD/0016/Sad/0016_001115.wav|tˈɑːm kʊd hˈɑːɹdli spˈiːk fɔːɹ lˈæfɪŋ. |0
+/ESD/0016/Sad/0016_001116.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn? |0
+/ESD/0016/Sad/0016_001117.wav|aɪ səpˈoʊz nˈoʊ, ɪt dˈʌzənt! |0
+/ESD/0016/Sad/0016_001118.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd. |0
+/ESD/0016/Sad/0016_001119.wav|nˌɑːt mˈʌtʃ jˈuːs ɪz ɪt, sˈæm? |0
+/ESD/0016/Sad/0016_001120.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ! |0
+/ESD/0016/Sad/0016_001121.wav|ʃiː wʌz bˈɔːɹn ˌɔn ˈeɪpɹəl nˈaɪntiːn fˈɔːɹɾi θɹˈiː. |0
+/ESD/0016/Sad/0016_001122.wav|hˈaʊ ɑːɹ juː, dˈɪɹ tʃˈaɪld? |0
+/ESD/0016/Sad/0016_001123.wav|hˌaʊ səspˈɪʃəs ðɪs fˈɑːks. |0
+/ESD/0016/Sad/0016_001124.wav|kˈʌm ˌɔn maɪ dʒˈæk ɪnðə bˈɑːksᵻz! |0
+/ESD/0016/Sad/0016_001125.wav|aɪd fˈɑːɹ ɹˈæðɚ ɡˌoʊ wɪðˌaʊt ðˌɛm ðɐn ˈiːt ðˌɛm! |0
+/ESD/0016/Sad/0016_001126.wav|ðə hˈæɡ lˈʊkt ɪnðə stˈoʊv. |0
+/ESD/0016/Sad/0016_001127.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ. |0
+/ESD/0016/Sad/0016_001128.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː. |0
+/ESD/0016/Sad/0016_001129.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl. |0
+/ESD/0016/Sad/0016_001130.wav|ðˈɛn ðɛɹwˌʌz ɐ ɹᵻpˈoːɹt. |0
+/ESD/0016/Sad/0016_001131.wav|ænd aɪ nˈɛvɚ hæd ɐ wˈuːpɪŋ kˈɔf wˈaɪ. |0
+/ESD/0016/Sad/0016_001132.wav|ɐ fˈɛɹ dʒˈɔː kɹˈækɚ dwˈɔːɹf lˈæŋɡwɪdʒ mˈʌst bˈiː! |0
+/ESD/0016/Sad/0016_001133.wav|biː ˈɔf nˈaʊ æz kwˈɪk æz juː mˈeɪ! |0
+/ESD/0016/Sad/0016_001134.wav|baɪ hˈʊk ɔːɹ baɪ kɹˈʊk. |0
+/ESD/0016/Sad/0016_001135.wav|səpˈoʊz aɪ tˈeɪk ɡɹˈændmʌðɚɹ ɐ fɹˈɛʃ vˈɛdʒɪɾəbəl. |0
+/ESD/0016/Sad/0016_001136.wav|ænd tˈɪk ɐ tˈæk tˈuː. |0
+/ESD/0016/Sad/0016_001137.wav|ɐ hˈɪpoʊ lˈaɪvz ɪnðə zˈuː. |0
+/ESD/0016/Sad/0016_001138.wav|ɪn maɪ əpˈɪniən ðæt ɪz ɐ ɡˈʊd aɪdˈiə! |0
+/ESD/0016/Sad/0016_001139.wav|lˈɛt ɡˌoʊ ʌv maɪ tˈɑːp nˈɑːt. |0
+/ESD/0016/Sad/0016_001140.wav|ænd ðeɪ dˈɪd pˈʊʃ sˈoʊ! |0
+/ESD/0016/Sad/0016_001141.wav|wiː ɛkspˈɛktᵻd tˈɑːm wʊd dʒˈʌmp fɔːɹ dʒˈɔɪ. |0
+/ESD/0016/Sad/0016_001142.wav|dˈʌz ðə wˈʌn ðæt wˈɪnz ɡɛt ðə kɹˈaʊnd? |0
+/ESD/0016/Sad/0016_001143.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps. |0
+/ESD/0016/Sad/0016_001144.wav|ðeɪ fˈaʊnd ɐ kˈaʊ ɡɹˈeɪzɪŋ ɪn ɐ fˈiːld. |0
+/ESD/0016/Sad/0016_001145.wav|ɑːhˈɑː wʌt ˈaɪ hæv wiː hˈɪɹ? |0
+/ESD/0016/Sad/0016_001146.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ. |0
+/ESD/0016/Sad/0016_001147.wav|kənfˈɛs ðæt juː ˈoʊpənd ðə θˈɜːtiːnθ dˈoːɹ. |0
+/ESD/0016/Sad/0016_001148.wav|sˈɛd ðə wˈɪtʃ. |0
+/ESD/0016/Sad/0016_001149.wav|aɪv hˈɪt ðə ɹˈɔŋ nˈoʊz. |0
+/ESD/0016/Sad/0016_001150.wav|wˈɛl ˈɛnɪhˌaʊ ɪt dˈɪdnt ɹˈeɪn, hiː sˈɛd. |0
+/ESD/0016/Sad/0016_001151.wav|ɪts mˌiː pˈɪɡ lˈɪt, hˈɛlp hˈɛlp! |0
+/ESD/0016/Sad/0016_001152.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm. |0
+/ESD/0016/Sad/0016_001153.wav|ðɪ ˈɛlɪfənt ænd ðə kˈɑːɹpəntɚɹ ɪz ðə lˈɔŋɡɪst. |0
+/ESD/0016/Sad/0016_001154.wav|hˈɪɹ æm ˈaɪ hˈuːm juː sˈiːk. |0
+/ESD/0016/Sad/0016_001155.wav|hiː wʌz kˈɪld baɪ ɐn ˈæɹoʊ. |0
+/ESD/0016/Sad/0016_001156.wav|aɪ ɡˈɛs ɪts ɐ tʃˈɔɪs fˈiːst. |0
+/ESD/0016/Sad/0016_001157.wav|tˈɑːm ænd mˈaɪkəl wˈoʊk ˌʌp nˈɛkst mˈɔːɹnɪŋ. |0
+/ESD/0016/Sad/0016_001158.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt. |0
+/ESD/0016/Sad/0016_001159.wav|ɪf ðeɪ mˈʌðɚ nˈuː ɪt. |0
+/ESD/0016/Sad/0016_001160.wav|ˈækt dɹˈɑːp sˈɛkənd ˈækt sˈiːn. |0
+/ESD/0016/Sad/0016_001161.wav|wiː nˈaɪtli dˈæns ˌaʊɚ hˈeɪdeɪ ɡˈaɪz. |0
+/ESD/0016/Sad/0016_001162.wav|klˈaʊn, tə kˈɔːl hˌɪm dʒˈoʊi. |0
+/ESD/0016/Sad/0016_001163.wav|mˈɪstɚ lˈɔːsən sˈɔː dʒˈɔːɹdʒ lˈæst nˈaɪt. |0
+/ESD/0016/Sad/0016_001164.wav|ɐ hˈæf pˈaʊndz ʌv flˈaʊɚ ænd tˈuː ˈaʊnsᵻz sˈuːɪt. |0
+/ESD/0016/Sad/0016_001165.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl. |0
+/ESD/0016/Sad/0016_001166.wav|nˈoʊ, aɪ bˈɜːst ðə bəlˈuːn! |0
+/ESD/0016/Sad/0016_001167.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn. |0
+/ESD/0016/Sad/0016_001168.wav|lˈʊk ˈaʊt! sˈɛd ˈælɪs. |0
+/ESD/0016/Sad/0016_001169.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ. |0
+/ESD/0016/Sad/0016_001170.wav|ˌaʊɚ kˈɪŋ dʒˈɔːɹdʒ ɪz lˈeɪbɚɹɚz. |0
+/ESD/0016/Sad/0016_001171.wav|fˈɪn ænd ðə fˈɛɹi ʃˈuːmeɪkɚ. |0
+/ESD/0016/Sad/0016_001172.wav|æm aɪ ɐn ˈæbsəlˌuːt pˈɔːpɚ? |0
+/ESD/0016/Sad/0016_001173.wav|aɪɐm fɹʌm tˈaʊəl lˈænd. |0
+/ESD/0016/Sad/0016_001174.wav|juː nˈoʊ, ˈænsɚz tə ðə nˈeɪm ʌv tˈɑːmz sˈʌn. |0
+/ESD/0016/Sad/0016_001175.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː! |0
+/ESD/0016/Sad/0016_001176.wav|ðɪs tˈɜːn ɡoʊz tə ðə hˈɪl. |0
+/ESD/0016/Sad/0016_001177.wav|kˈɑːs aɪ nˈoʊ aɪ hˌæd sʌm hˈʌni. |0
+/ESD/0016/Sad/0016_001178.wav|pˌʊt ðæt ɹˈuːd ɡɹˈæshɑːpɚɹ ɪn dʒˈeɪl! |0
+/ESD/0016/Sad/0016_001179.wav|ɐ lˈɑːɹdʒ flˈæt fˈɛɹi bˈoʊt wʌz mˈʊɹd bᵻsˌaɪdɪt. |0
+/ESD/0016/Sad/0016_001180.wav|ænd wʊd spˈɔɪl maɪ dʒˈoʊk. |0
+/ESD/0016/Sad/0016_001181.wav|ɪt mˈʌst kˈʌm sˈʌmtaɪmz tə dʒˈæm ɐ dˈeɪ. |0
+/ESD/0016/Sad/0016_001182.wav|aɪ θˈæŋk juː fɔːɹ ðɪs mˈɜːsi! |0
+/ESD/0016/Sad/0016_001183.wav|aɪ smˈɛl ðə bɹˈɛθ əvən ˈɪŋɡlɪʃ. |0
+/ESD/0016/Sad/0016_001184.wav|ɹˈɛɹ ɹˈæbɪt hæd ɐ lˈɪɾəl ˈeɪpɹən. |0
+/ESD/0016/Sad/0016_001185.wav|aɪ blˈɪŋkt maɪ ˈaɪz hˈɑːɹd. |0
+/ESD/0016/Sad/0016_001186.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːl ʌv ɪt. |0
+/ESD/0016/Sad/0016_001187.wav|lˈɛt ðə ɡlˈæs ɡlˈoʊb bˈiː. |0
+/ESD/0016/Sad/0016_001188.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs. |0
+/ESD/0016/Sad/0016_001189.wav|kˈʊkuːz ɪz dˌaʊnhˈɛdᵻd ænd kɹˈaɪɪŋ. |0
+/ESD/0016/Sad/0016_001190.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz! |0
+/ESD/0016/Sad/0016_001191.wav|kæn aɪ lˈɑːdʒ hˈɪɹ tənˈaɪt? |0
+/ESD/0016/Sad/0016_001192.wav|wˈeɪk nˈaʊ maɪ mˈɛɹi tˈædz! |0
+/ESD/0016/Sad/0016_001193.wav|pˈʊsi kæn sˈɪt baɪ ðə fˈaɪɚ ænd sˈɪŋ. |0
+/ESD/0016/Sad/0016_001194.wav|wiː ˈɔːl sˈiː pˈændə ˌɔn tˌiːvˈiː ɔːɹ ɪnðə zˈuː. |0
+/ESD/0016/Sad/0016_001195.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl! |0
+/ESD/0016/Sad/0016_001196.wav|hiː sˈɛd tə dʒˈæk, ðə tʃˈæɾɚɹɚ. |0
+/ESD/0016/Sad/0016_001197.wav|ænd ðɛɹ juːl fˈaɪnd ɐ snˈæp dɹˈæɡən flˈaɪ. |0
+/ESD/0016/Sad/0016_001198.wav|ænd ɔnðə tˈɑːp ʌv ðˌɛm, kˈeɪm wˈɪni, ðə kjˈuːt bˈɛɹ. |0
+/ESD/0016/Sad/0016_001199.wav|maɪ wˈaɪndɪŋ ʃˈiːt! |0
+/ESD/0016/Sad/0016_001200.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf? |0
+/ESD/0016/Sad/0016_001201.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm. |0
+/ESD/0016/Sad/0016_001202.wav|ɡˈɪlti fɔːɹ wʌt dˈuː juː ɹˈuːl? |0
+/ESD/0016/Sad/0016_001203.wav|bˌʌt wiː ɑːɹ nˌɑːt hˈaɪ jˈɛt. |0
+/ESD/0016/Sad/0016_001204.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt. |0
+/ESD/0016/Sad/0016_001205.wav|ðɪs spˈiːtʃ ɹˈaʊzd dˈeɪm ˈɪls tʊ ˈæŋɡɚ. |0
+/ESD/0016/Sad/0016_001206.wav|ðɪ ˈaɪ kʊd nˌɑːt kˈætʃ ðˌɛm. |0
+/ESD/0016/Sad/0016_001207.wav|blˈækbɜːd, ænd dʒˈeɪ. |0
+/ESD/0016/Sad/0016_001208.wav|ɪt lˈʊks mˈʌtʃ bˈɛɾɚ. |0
+/ESD/0016/Sad/0016_001209.wav|sˈʌtʃ tˈuːnz ɑːɹ dʒˈɔɪ tʊ ɐ dˈænsɪŋ fˈeɪ. |0
+/ESD/0016/Sad/0016_001210.wav|kˈɪɾi, kæn juː plˈeɪ tʃˈɛs? |0
+/ESD/0016/Sad/0016_001211.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt. |0
+/ESD/0016/Sad/0016_001212.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz. |0
+/ESD/0016/Sad/0016_001213.wav|hˌaʊ ðeɪ wɛnt tə ðə mˈaʊntɪnz tʊ ˈiːt nˈʌts. |0
+/ESD/0016/Sad/0016_001214.wav|hɪz lˈɑːɹdʒ mˈaʊθ kˈɜːld ˌɪntʊ ɐ snˈɪɹ. |0
+/ESD/0016/Sad/0016_001215.wav|ðeɪ wɜː ɡˌoʊɪŋ fˈæst, wɪð ɐ lˈaɪt klˈɪp. |0
+/ESD/0016/Sad/0016_001216.wav|ðeɪ ˈeɪt bˈiːf æt ðə bˈʊtʃɚ ʃˈɑːp. |0
+/ESD/0016/Sad/0016_001217.wav|aɪ tˈɔɪ wɪð maɪ lᵻkˈɜː. |0
+/ESD/0016/Sad/0016_001218.wav|aɪ sˈɛd juː lˈʊkt lˈaɪk ɐn ˈɛɡ, sˌɜː. |0
+/ESD/0016/Sad/0016_001219.wav|sˈæm wˈeɪvd hɪz ˈɑːɹm vˈeɪɡli. |0
+/ESD/0016/Sad/0016_001220.wav|bˌʌt ɪf juː hˈædənt dˈʌn ðˌɛm. |0
+/ESD/0016/Sad/0016_001221.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ. |0
+/ESD/0016/Sad/0016_001222.wav|aɪʃˌɐl sˈeɪ ɡˈʊd bˈaɪ. |0
+/ESD/0016/Sad/0016_001223.wav|hiː sˈɜːtʃt θɹuː ðə bˈɑːks. |0
+/ESD/0016/Sad/0016_001224.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə. |0
+/ESD/0016/Sad/0016_001225.wav|ˈɔːl ðɪs hæv wiː wˈʌn baɪ ˌaʊɚ lˈeɪbɚ. |0
+/ESD/0016/Sad/0016_001226.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl. |0
+/ESD/0016/Sad/0016_001227.wav|tˈɑːm fˈɛl wɪð ɐ klˈoʊvən hˈɛd. |0
+/ESD/0016/Sad/0016_001228.wav|ænd vˈaʊd hiːd tʃˈeɪndʒ ðə pˈɪɡteɪlz plˈeɪs. |0
+/ESD/0016/Sad/0016_001229.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz. |0
+/ESD/0016/Sad/0016_001230.wav|tˈoʊst fɹʌmðə bɹˈɛd fɹˈuːt tɹˈiː. |0
+/ESD/0016/Sad/0016_001231.wav|fˈɜːst, ˈɪʃuː ɐ ɹᵻwˈɔːɹd. |0
+/ESD/0016/Sad/0016_001232.wav|ˈeɪdʒ fˈɔːɹɾi fˈaɪv ɪf ɐ dˈeɪ ɐ lˈaɪ. |0
+/ESD/0016/Sad/0016_001233.wav|fɹˈɛʃ pˈeɪn sˈiːzd pˈɔːlz bˈɑːdi. |0
+/ESD/0016/Sad/0016_001234.wav|wiː hɐvbɪn fˈaɪn, hˈævənt wiː? |0
+/ESD/0016/Sad/0016_001235.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ. |0
+/ESD/0016/Sad/0016_001236.wav|ʃiː dʒˈʌmp æt ðə tˈeɪl ænd bˈaɪt ɪt sˈævɪdʒli. |0
+/ESD/0016/Sad/0016_001237.wav|ɐn ˈaʊɚɹ ˌaʊɾəv ɡˈɪld fˈoːɹd tˈaʊn. |0
+/ESD/0016/Sad/0016_001238.wav|nˈaʊ kwˈɪkɚ ðə fˈɪdəl wˈɛnt. |0
+/ESD/0016/Sad/0016_001239.wav|wˌɛn sˈʌtʃ wˈɔndɚɹɚz mˈiːt. |0
+/ESD/0016/Sad/0016_001240.wav|ænd ðeɪ wɜː sˈændi jˈɛloʊ bɹˈaʊnɪʃ ˈɔːl ˈoʊvɚ. |0
+/ESD/0016/Sad/0016_001241.wav|aɪ mˌeɪk hɜː kwˈaɪt nˈɜːvi æt tˈaɪmz. |0
+/ESD/0016/Sad/0016_001242.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld. |0
+/ESD/0016/Sad/0016_001243.wav|plˈiːz hˈaɪɚ mˌiː ˈæftɚ juː. |0
+/ESD/0016/Sad/0016_001244.wav|jˈɛs, aɪ mˈɪs hɜː. |0
+/ESD/0016/Sad/0016_001245.wav|ɐ bˈoʊt pˌʊt ˈaʊt ɔnðə bˈeɪ. |0
+/ESD/0016/Sad/0016_001246.wav|klˈɪɹ ɑːɹ jʊɹ ˈaɪz ænd bɹˈaɪt jʊɹ bɹˈɛθ! |0
+/ESD/0016/Sad/0016_001247.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt. |0
+/ESD/0016/Sad/0016_001248.wav|aɪd ʃˈuːt maɪsˈɛlf. ɐ pˈɔːz. |0
+/ESD/0016/Sad/0016_001249.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ. |0
+/ESD/0016/Sad/0016_001250.wav|ðæt klˈɔθ dʌznˌɑːt lˈʊk wˈɜːθ mˈʌtʃ! |0
+/ESD/0016/Sad/0016_001251.wav|ɐ lˈeɪdi, ɪz ˌɔn ˈælɪsᵻz lˈæp! |0
+/ESD/0016/Sad/0016_001252.wav|ðæt sˈaʊndz ɡˈʊd. |0
+/ESD/0016/Sad/0016_001253.wav|aɪ wʌz nˌɑːt ɡɹˈæbd. |0
+/ESD/0016/Sad/0016_001254.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt. |0
+/ESD/0016/Sad/0016_001255.wav|fˈɪɹ nˈiːðɚ ɹˈuːt nˈɔːɹ spɹˈaʊt! |0
+/ESD/0016/Sad/0016_001256.wav|stˈɪl juː ˈoʊ ɪɾ ɐ dˈuːɾi. |0
+/ESD/0016/Sad/0016_001257.wav|wˌʌt æm ˈaɪ, aɪm ɐ ɹˈeɪsɚ, sˈʌn ʌv ɡˈɑːd. |0
+/ESD/0016/Sad/0016_001258.wav|haʊˈɛvɚ, sˈʌmbɑːdi kˈɪld sˈʌmθɪŋ. |0
+/ESD/0016/Sad/0016_001259.wav|ɐ ɹˈeɪdʒɪŋ fˈaɪɚ wʌzɪn hɪz ˈaɪz. |0
+/ESD/0016/Sad/0016_001260.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm. |0
+/ESD/0016/Sad/0016_001261.wav|fɹʌm ˈiːtʃ kˈeɪk, ðɛɹ spɹˈæŋ ɐ hjˈuːdʒ dˈɑːɡ. |0
+/ESD/0016/Sad/0016_001262.wav|nˈoʊ θˈæŋk juː. |0
+/ESD/0016/Sad/0016_001263.wav|lˈɛt ɪt ɡˈɪv ˌʌs ɐ tʃˈæns, maɪ pɹˈɛʃəs. |0
+/ESD/0016/Sad/0016_001264.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki! |0
+/ESD/0016/Sad/0016_001265.wav|hiː lˈaɪks dɹˈæɡənz vˈɛɹi mˈʌtʃ. |0
+/ESD/0016/Sad/0016_001266.wav|ɪɾ ˌɪzənt pˈɪkt æɾ ˈɔːl. |0
+/ESD/0016/Sad/0016_001267.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf ! |0
+/ESD/0016/Sad/0016_001268.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ. |0
+/ESD/0016/Sad/0016_001269.wav|bˌʌt ðə tˈuːn ˌɪzənt hɪz ˈoʊn ɪnvˈɛnʃən. |0
+/ESD/0016/Sad/0016_001270.wav|hɜː pˈɔː wɛnt ˌɪntʊ jʊɹ ˈaɪ? |0
+/ESD/0016/Sad/0016_001271.wav|aɪɐm ɐ sˈɛlfɪʃ sˈɪnɚ. |0
+/ESD/0016/Sad/0016_001272.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː. |0
+/ESD/0016/Sad/0016_001273.wav|pˈɪk, pˈɪk, pˈɪk! |0
+/ESD/0016/Sad/0016_001274.wav|dˈuː juː nˈoʊ ðə lˈɪd ˈoʊpənz? |0
+/ESD/0016/Sad/0016_001275.wav|hɜːɹ ɛɡzˈɪstəns mˌeɪks hˌɪm plˈɛzənt. |0
+/ESD/0016/Sad/0016_001276.wav|ænd ðə nˈɛkst dˈeɪ. nˈɜːs wɪl biː ɹᵻlˈiːst. |0
+/ESD/0016/Sad/0016_001277.wav|bˈɔːɹn wˈʌns ˈɛvɹi wˈʌn hˈʌndɹɪd jˈɪɹz, dˈaɪz ɪn flˈeɪmz! |0
+/ESD/0016/Sad/0016_001278.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi. |0
+/ESD/0016/Sad/0016_001279.wav|ðə fˈɜːst jˈɪɹ ðeɪ sˈoʊd ɹˈaɪ. |0
+/ESD/0016/Sad/0016_001280.wav|jʊɹ ˈoʊn wˈaɪf ɪz nˌɑːt æt hˈoʊm. |0
+/ESD/0016/Sad/0016_001281.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ. |0
+/ESD/0016/Sad/0016_001282.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt. |0
+/ESD/0016/Sad/0016_001283.wav|wˌaɪ ʃˌʊd ˈaɪ kˈɛɹ ðˌoʊ dˈeɪvɪdz lˈɪps wɜː twˈɪtʃɪŋ? |0
+/ESD/0016/Sad/0016_001284.wav|hˈɜːɹi ˈʌp, hˈɜːɹi ˈʌp! |0
+/ESD/0016/Sad/0016_001285.wav|ɪf nˈɑːt, aɪʃˌɐl ɡˌoʊ nˈoʊ fˈɜːðɚ. |0
+/ESD/0016/Sad/0016_001286.wav|hˌaʊ ɹˈæʃ juː ɑːɹ! |0
+/ESD/0016/Sad/0016_001287.wav|wˌʌt wʊd ðeɪ dˈuː æt ðɪ ˈɛnd ʌvðə jˈɪɹ? |0
+/ESD/0016/Sad/0016_001288.wav|tədˈeɪ ˌɪzənt ˌɛni ˈʌðɚ dˈeɪ. |0
+/ESD/0016/Sad/0016_001289.wav|ðɪs ɪz ðə wˈeɪ ðæt snˈeɪks ˈɔːlweɪz tˈɔːk. |0
+/ESD/0016/Sad/0016_001290.wav|bˈoʊθ sˈaɪd wɜː sˈɔftli kˈɜːvd. |0
+/ESD/0016/Sad/0016_001291.wav|wiː hæv ʃˈoʊd hɪz ʃˈɑːɹk tˈuːθ. |0
+/ESD/0016/Sad/0016_001292.wav|ɡˈɪv mˌiː jʊɹ hˈænd ɔːɹ aɪ wɪl kɹˈaɪ hˈɑːɹdɚ ðɐn bᵻfˈoːɹ. |0
+/ESD/0016/Sad/0016_001293.wav|ænd hɐz juː slˈeɪn hˌɪm? |0
+/ESD/0016/Sad/0016_001294.wav|ˈɔf fɚðə pɹˈɪzən ʃˈɪp. |0
+/ESD/0016/Sad/0016_001295.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl? |0
+/ESD/0016/Sad/0016_001296.wav|wiː kæn nˌɑːt dˈuː ɪt sˌɜː. |0
+/ESD/0016/Sad/0016_001297.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs. |0
+/ESD/0016/Sad/0016_001298.wav|ɪnwˌɪtʃ pˈɪɡlɪt mˈiːts ɐ ˈɛlɪfənt. |0
+/ESD/0016/Sad/0016_001299.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp. |0
+/ESD/0016/Sad/0016_001300.wav|hɜː kˈaɪnd ænd fˈɜːm ɡlˈæns. |0
+/ESD/0016/Sad/0016_001301.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli. |0
+/ESD/0016/Sad/0016_001302.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt. |0
+/ESD/0016/Sad/0016_001303.wav|aɪ hæv ɐ sˈuːθseɪɚ. |0
+/ESD/0016/Sad/0016_001304.wav|ʃiː lˈæft. |0
+/ESD/0016/Sad/0016_001305.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː. |0
+/ESD/0016/Sad/0016_001306.wav|aɪ mˈʌstɐv tˈuː tə fˈɛtʃ ænd kˈæɹi. |0
+/ESD/0016/Sad/0016_001307.wav|aɪ wʊd skˈɔf æt ðiːz fˈɑːloʊɚz. |0
+/ESD/0016/Sad/0016_001308.wav|mˈʌm ʃˈʌts wˈʌnz mˈaʊθ ˈʌp, dˈʌzənt ɪt. |0
+/ESD/0016/Sad/0016_001309.wav|ðə sˈɔŋ ɪz kˈɔːld wˈeɪz ænd mˈiːnz. |0
+/ESD/0016/Sad/0016_001310.wav|æz sˈuːn æz ʃiː wɛnt ˈɪn, ðɛɹwˌʌz dɪsˈoːɹdɚ. |0
+/ESD/0016/Sad/0016_001311.wav|ˈæftɚɹ ɐ wˈaɪl hiː pɚsˈiːvd bˈoʊθ dʒˈaɪənts. |0
+/ESD/0016/Sad/0016_001312.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm! |0
+/ESD/0016/Sad/0016_001313.wav|ʃiː sˈɛd ɪn sʌbdˈuːd vˈɔɪs. |0
+/ESD/0016/Sad/0016_001314.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm! |0
+/ESD/0016/Sad/0016_001315.wav|aɪv dʒˈʌst ʃˈɑːt ɐ stˈæɡ. |0
+/ESD/0016/Sad/0016_001316.wav|wiː mˈeɪ dʒˈɔɪn wɪð ðæt pˈaʊɚ. |0
+/ESD/0016/Sad/0016_001317.wav|tʃˈæptɚɹ ᵻlˈɛvən ɔnðə dˈoːɹstɛp. |0
+/ESD/0016/Sad/0016_001318.wav|hiː ʃˈoʊd nˈoʊ sˈaɪnz ʌv ˈeɪdʒ. |0
+/ESD/0016/Sad/0016_001319.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp! |0
+/ESD/0016/Sad/0016_001320.wav|tʃˈuː lˈiːvz kwˈɪkli, sˈɛd ɹˈæbɪt. |0
+/ESD/0016/Sad/0016_001321.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ. |0
+/ESD/0016/Sad/0016_001322.wav|nˈoʊ ɐdmˈɪtəns ɛksˈɛpt ˌɔn pˈɑːɹɾi bˈɪznəs. |0
+/ESD/0016/Sad/0016_001323.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː. |0
+/ESD/0016/Sad/0016_001324.wav|bɪkˈʌz hiː wʌzɐ mˈæn wɪð ˈɪnfɪnət ɹᵻsˈoːɹs ænd səɡˈæsᵻɾi. |0
+/ESD/0016/Sad/0016_001325.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn. |0
+/ESD/0016/Sad/0016_001326.wav|kæn jʊɹ nˈeɪm biː mˈoːɹ hɪlˈɛɹiəs? |0
+/ESD/0016/Sad/0016_001327.wav|ðɪ ˈɛnd pˈɑːɹt ɪz fˈɪʃ mˈaʊθ. |0
+/ESD/0016/Sad/0016_001328.wav|aɪ nˈoʊ juː . |0
+/ESD/0016/Sad/0016_001329.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns. |0
+/ESD/0016/Sad/0016_001330.wav|jʊɹ pˈæθ nˈaʊ ɡoʊz sˈaʊθ. |0
+/ESD/0016/Sad/0016_001331.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ. |0
+/ESD/0016/Sad/0016_001332.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn. |0
+/ESD/0016/Sad/0016_001333.wav|ðeɪ hɐdbɪn nˈeɪmd tˈɑːm ænd dʒˈɛɹi. |0
+/ESD/0016/Sad/0016_001334.wav|tʃˈæptɚɹ ˈeɪtiːn, ðə ɹᵻtˈɜːn dʒˈɜːni. |0
+/ESD/0016/Sad/0016_001335.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː. |0
+/ESD/0016/Sad/0016_001336.wav|wˈʌn tˈuː θɹˈiː, wˌɛɹ ɪz jʊɹ bɹˈɛkfəst. |0
+/ESD/0016/Sad/0016_001337.wav|ɐ vˈɔɪs sˈɛd: kˈʌm ˈɪn. |0
+/ESD/0016/Sad/0016_001338.wav|ʃiː hɐz fˈɛlt ʃˈaɪ ʌv ɪt. |0
+/ESD/0016/Sad/0016_001339.wav|nˈoʊ, sˈɛd pˈɪɡi kˈɛɹləsli. |0
+/ESD/0016/Sad/0016_001340.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn! |0
+/ESD/0016/Sad/0016_001341.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ. |0
+/ESD/0016/Sad/0016_001342.wav|ʃiː hɐz ɐ hˈaɪ vˈɔɪs. |0
+/ESD/0016/Sad/0016_001343.wav|hiː ɪz ˈoʊld fˈæʃənd bˌʌt hiː ɪz ðə bˈɛst ʌv mˈɛn. |0
+/ESD/0016/Sad/0016_001344.wav|nˈaʊ aɪ ˌʌndɚstˈænd. |0
+/ESD/0016/Sad/0016_001345.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz. |0
+/ESD/0016/Sad/0016_001346.wav|juː wˈoʊk mˌiː ˈʌp! |0
+/ESD/0016/Sad/0016_001347.wav|hˌaʊ tˈɑːm ænd dʒˈɛɹi wɛnt tə vˈɪzɪt mˈɪstɚ sˈæm. |0
+/ESD/0016/Sad/0016_001348.wav|ʃiː kˈʌm bˈæk tə ðə vˈæli. |0
+/ESD/0016/Sad/0016_001349.wav|hɪz hˈoʊp wɪl tʃˈiːt hˌɪm. |0
+/ESD/0016/Sad/0016_001350.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm. |0
+/ESD/0016/Sad/0016_001351.wav|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt! |0
+/ESD/0016/Sad/0016_001352.wav|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt? |0
+/ESD/0016/Sad/0016_001353.wav|aɪɐm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ. |0
+/ESD/0016/Sad/0016_001354.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd! |0
+/ESD/0016/Sad/0016_001355.wav|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ. |0
+/ESD/0016/Sad/0016_001356.wav|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz. |0
+/ESD/0016/Sad/0016_001357.wav|aɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz. |0
+/ESD/0016/Sad/0016_001358.wav|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ. |0
+/ESD/0016/Sad/0016_001359.wav|hiː ˈoʊd mˈɪstɚ lˈɔːsən, aɪ kˈænt tˈɛl juː hˈaʊ. |0
+/ESD/0016/Sad/0016_001360.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn. |0
+/ESD/0016/Sad/0016_001361.wav|aɪɐm sˈeɪf bˈæk ɐɡˈɛn. |0
+/ESD/0016/Sad/0016_001362.wav|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz. |0
+/ESD/0016/Sad/0016_001363.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs. |0
+/ESD/0016/Sad/0016_001364.wav|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl. |0
+/ESD/0016/Sad/0016_001365.wav|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ. |0
+/ESD/0016/Sad/0016_001366.wav|ɐ θˈiːf ɪnðə nˈaɪt. |0
+/ESD/0016/Sad/0016_001367.wav|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd. |0
+/ESD/0016/Sad/0016_001368.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks. |0
+/ESD/0016/Sad/0016_001369.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz? |0
+/ESD/0016/Sad/0016_001370.wav|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ. |0
+/ESD/0016/Sad/0016_001371.wav|kˈɔːld ˈaʊt ðə klˈaʊd. |0
+/ESD/0016/Sad/0016_001372.wav|ɐ spˈɛʃəl pˈɑːt tˈuː. |0
+/ESD/0016/Sad/0016_001373.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp! |0
+/ESD/0016/Sad/0016_001374.wav|ænd ʃiː kˈɔːt æt ðə bɹˈoʊtʃ. |0
+/ESD/0016/Sad/0016_001375.wav|ʃiː hɐz nˈoʊ plˈeɪs fɔːɹ hˈɑːt pˈɛpɚ . |0
+/ESD/0016/Sad/0016_001376.wav|ðeɪ ɑːɹ mˌeɪd ʌv wˈʊd. |0
+/ESD/0016/Sad/0016_001377.wav|ɪts pˈɑːɹt ʌv maɪ sˈiːkɹᵻt. |0
+/ESD/0016/Sad/0016_001378.wav|ɪt wʊd biː ɐ hˈɑːɹd tʃˈɔɪs. |0
+/ESD/0016/Sad/0016_001379.wav|ænd hɪz hˈɑːɹt wˈæɡd wɪð dʒˈɔɪ lˈaɪk ɐ lˈæmz tˈeɪl. |0
+/ESD/0016/Sad/0016_001380.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz. |0
+/ESD/0016/Sad/0016_001381.wav|ʃiːl biː fˈiːvɚɹɪʃ ˈæftɚ sˈoʊ mˌʌtʃ θˈɪŋkɪŋ. |0
+/ESD/0016/Sad/0016_001382.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ? |0
+/ESD/0016/Sad/0016_001383.wav|juː ɡˈeɪn fɔːɹ nˈʌθɪŋ ɡˈɜːl! |0
+/ESD/0016/Sad/0016_001384.wav|ɐnˈʌðɚ wˌʌn, tˈɛn θˈaʊzənd dˈɑːlɚz. |0
+/ESD/0016/Sad/0016_001385.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt. |0
+/ESD/0016/Sad/0016_001386.wav|ˌoʊvɚ ðˌɛm swˈuːpt ðɪ ˈiːɡəlz. |0
+/ESD/0016/Sad/0016_001387.wav|bˌʌt mˈɑːm aɪm nˌɑːt sˈɜːʔn̩ ɐbˈaʊt. |0
+/ESD/0016/Sad/0016_001388.wav|pˈɔːlz tˈiːθ ˈeɪkt bɪkˈʌz ʌv lˈɛmən. |0
+/ESD/0016/Sad/0016_001389.wav|ænd biː wɪð juː,tˈɑːm! |0
+/ESD/0016/Sad/0016_001390.wav|sˌoʊ tˈɑːm sˈɔː nˈaɪt æz ɪt wɜː bɹˈɔːd dˈeɪlaɪt. |0
+/ESD/0016/Sad/0016_001391.wav|ɪnˈʌf,juː ɐ fˈuːlɪʃ tʃˈæɾɚ. |0
+/ESD/0016/Sad/0016_001392.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn? |0
+/ESD/0016/Sad/0016_001393.wav|ænd wʌt dˈʌz ɪt mˈiːn? |0
+/ESD/0016/Sad/0016_001394.wav|lˈuːsi, ɐ klˈɛvɚ fˈɑːɹmɚ. |0
+/ESD/0016/Sad/0016_001395.wav|ɐ wˈɜːɹɪŋ nˈɔɪz wʌz hˈɜːd. |0
+/ESD/0016/Sad/0016_001396.wav|aɪɐm ɡˌoʊɪŋ tə bˈæk hˈoʊm. |0
+/ESD/0016/Sad/0016_001397.wav|wˌʌt ɑːɹ juː wˈeɪɾɪŋ fɔːɹ? mˈæn. |0
+/ESD/0016/Sad/0016_001398.wav|dˈɪɹ kˈʌstəmɚ,wˈɛlkʌm tʊ ˌaʊɚ ʃˈɪp. |0
+/ESD/0016/Sad/0016_001399.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən? |0
+/ESD/0016/Sad/0016_001400.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd? |0
+/ESD/0016/Surprise/0016_001401.wav|ðə nˈaɪn ðɪ ˈɛɡz, aɪ kˈiːp. |0
+/ESD/0016/Surprise/0016_001402.wav|aɪ dˈɪd ɡˈoʊ, ænd mˌeɪd mˈɛni pɹˈɪzənɚz. |0
+/ESD/0016/Surprise/0016_001403.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː. |0
+/ESD/0016/Surprise/0016_001404.wav|ðeɪ wɛnt ˌʌp tə ðə dˈɑːɹk mˈæs dʒˈɑːb hæd pˈɔɪntᵻd ˈaʊt. |0
+/ESD/0016/Surprise/0016_001405.wav|klˈɪɹ ðɐn klˈɪɹ wˈɔːɾɚ! |0
+/ESD/0016/Surprise/0016_001406.wav|ˈændi wʌts ðə dʒˈaɪɚ ænd tə ɡˈæmbəl. |0
+/ESD/0016/Surprise/0016_001407.wav|aɪm æz bˈæd æz aɪ kæn bˈiː. |0
+/ESD/0016/Surprise/0016_001408.wav|ðæt wʌz hɪz tʃˈiːf θˈɔːt. |0
+/ESD/0016/Surprise/0016_001409.wav|ɔnðə twˈɛnti sˈɛkənd ʌv lˈæst mˈɑːɹtʃ. |0
+/ESD/0016/Surprise/0016_001410.wav|ɐ nˈɔːsɪəs dɹˈæft. |0
+/ESD/0016/Surprise/0016_001411.wav|tʃˈæptɚ tˈɛn ɐ wˈɔːɹm wˈɛlkʌm. |0
+/ESD/0016/Surprise/0016_001412.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz. |0
+/ESD/0016/Surprise/0016_001413.wav|aɪ hæv bˈʌnbɛɹid ˈɔːl ˌoʊvɚ ɡˈoʊt ˌɔn tˈuː sˈɛpɹət əkˈeɪʒənz. |0
+/ESD/0016/Surprise/0016_001414.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː! |0
+/ESD/0016/Surprise/0016_001415.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd! |0
+/ESD/0016/Surprise/0016_001416.wav|mˈɪstɚ ʃˈɛɹ mˈæn, aɪ mˈuːv fɚɹə dᵻvˈɪʒən. |0
+/ESD/0016/Surprise/0016_001417.wav|wˌaɪ hɐz ðɪs ˈɛɡ nˌɑːt bɹˈoʊkən? |0
+/ESD/0016/Surprise/0016_001418.wav|ðˈɛn sˈædli ɪɾ ɪz mˈʌtʃ fˈɑːɹðɚ. |0
+/ESD/0016/Surprise/0016_001419.wav|æt ðɪ ˈɛnd ʌv fˈoːɹ. |0
+/ESD/0016/Surprise/0016_001420.wav|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs. |0
+/ESD/0016/Surprise/0016_001421.wav|æz ɹˈɪtʃæz pˈiːɾɚz sˈʌn ɪn lˈɔː! |0
+/ESD/0016/Surprise/0016_001422.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz. |0
+/ESD/0016/Surprise/0016_001423.wav|aɪ θˈɔːt juː mˈɛnt hˌaʊ ˈoʊld ɑːɹ juː? |0
+/ESD/0016/Surprise/0016_001424.wav|ðə fˈʊtbɔːl tˈiːmz ɡˈɪv ɐ tˈiː pˈɑːɹɾi. |0
+/ESD/0016/Surprise/0016_001425.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ. |0
+/ESD/0016/Surprise/0016_001426.wav|lˈɛts mˌeɪk ðə nˈɔɪz ɐ snˈeɪk. |0
+/ESD/0016/Surprise/0016_001427.wav|mˈɔnstɚ mˌeɪd ɐ dˈiːp bˈoʊ. |0
+/ESD/0016/Surprise/0016_001428.wav|ʃiː hæd sˈɛd, sˌoʊ ðˈætwˌʌn kʊd kˈiːp ˌʌp ɐ kɑːnvɚsˈeɪʃən! |0
+/ESD/0016/Surprise/0016_001429.wav|ɹˈæt kˈeɪm ænd ɹᵻplˈaɪd ɔnðə lˈiːvz. |0
+/ESD/0016/Surprise/0016_001430.wav|mˈʌst ɐ nˈeɪm mˈiːn sˈʌmθɪŋ? |0
+/ESD/0016/Surprise/0016_001431.wav|ˈɔːl smˈaɪl wɜː ɹˈiːəl ænd ðə hˈæpɪɚ ðə mˈoːɹ sɪnsˈɪɹ . |0
+/ESD/0016/Surprise/0016_001432.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː? |0
+/ESD/0016/Surprise/0016_001433.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən. |0
+/ESD/0016/Surprise/0016_001434.wav|ɐ dᵻvˈaɪn ɹˈæθ mˌeɪd hɜː blˈuː ˈaɪz ˈɔːfəl. |0
+/ESD/0016/Surprise/0016_001435.wav|ðə nˈeɪm ɹˈiəli ɪz ðɪ ˈeɪdʒɛdɪdʒd mˈæn. |0
+/ESD/0016/Surprise/0016_001436.wav|hˌaʊ aɪ hˈeɪt ðɪs fˈaʊl pˈuːl! |0
+/ESD/0016/Surprise/0016_001437.wav|aɪ θˈɪŋk ˌɪɾəl ɛŋkˈɜːɹɪdʒ mˌiː. |0
+/ESD/0016/Surprise/0016_001438.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd. |0
+/ESD/0016/Surprise/0016_001439.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ. |0
+/ESD/0016/Surprise/0016_001440.wav|ɪnwˌɪtʃ fˈɑːks lˈuːzᵻz ɐ tˈeɪl ænd ɪts ˈɛldɚ sˈɪstɚ fˈaɪndz wˌʌn. |0
+/ESD/0016/Surprise/0016_001441.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ. |0
+/ESD/0016/Surprise/0016_001442.wav|ʃiː mˈeɪ mˈaɪnd jiː ʌv hɜː. |0
+/ESD/0016/Surprise/0016_001443.wav|stˈoːɹi twˈɛnti nˈaɪn ɐ bˈɔɪ ænd ɐ mˈʌŋki. |0
+/ESD/0016/Surprise/0016_001444.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt. |0
+/ESD/0016/Surprise/0016_001445.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz. |0
+/ESD/0016/Surprise/0016_001446.wav|ðeɪd nˈɛvɚ nˈoʊ aɪd ɹˈɛɡjʊlɚ ɹˈæn ɐwˈeɪ. |0
+/ESD/0016/Surprise/0016_001447.wav|plˈiːz ɛkskjˈuːs mˌiː. |0
+/ESD/0016/Surprise/0016_001448.wav|juː ɑːɹ nˌɑːɾɚ ɹˈʌnəwˌeɪ,hˈuː ɑːɹ juː? |0
+/ESD/0016/Surprise/0016_001449.wav|ðˈɛn wiː ˈɔːl sˈeɪ ɑːhˈɑː! |0
+/ESD/0016/Surprise/0016_001450.wav|ɹˈæbɪt ɡˈeɪv dˈɑːɡ ɐ hˈɜːɹiɪŋ ˌʌp sˈɔːɹt ʌv nˈʌdʒ. |0
+/ESD/0016/Surprise/0016_001451.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz. |0
+/ESD/0016/Surprise/0016_001452.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs. |0
+/ESD/0016/Surprise/0016_001453.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst! |0
+/ESD/0016/Surprise/0016_001454.wav|ɑːɹ juː ɐ ɹˈɛɡjʊlɚ dˈɑːɹki ɹˈiəli? |0
+/ESD/0016/Surprise/0016_001455.wav|ɐ dˈɛfənɪŋ tʃˈɪɹuːpɪŋ ɹˈɛnt ðɪ ˈɛɹ. |0
+/ESD/0016/Surprise/0016_001456.wav|jʊɹ mˈɪdʒɪt wˈaɪf nˈɛvɚ kæn sˈɪŋ ɐ sˈɔŋ. |0
+/ESD/0016/Surprise/0016_001457.wav|hˈænɪbəl kˈʌm tə sˈiː juː. |0
+/ESD/0016/Surprise/0016_001458.wav|ðɪ ˈɑːktəpəs hɐz ˈeɪt lˈɛɡz. |0
+/ESD/0016/Surprise/0016_001459.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni. |0
+/ESD/0016/Surprise/0016_001460.wav|ðæt aɪɐm ɐ bˈɔːɹn nˈɜːs. |0
+/ESD/0016/Surprise/0016_001461.wav|mˈɪdjɪɹ ɪz dˈeɪ, ʃˈaɪɚ jˈɪɹ. |0
+/ESD/0016/Surprise/0016_001462.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili. |0
+/ESD/0016/Surprise/0016_001463.wav|ˈæstɚɹˌɔɪd θɹˈiː hˈʌndɹɪd ænd twˈɛnti fˈaɪv. |0
+/ESD/0016/Surprise/0016_001464.wav|ænd wiː ɑːɹ sˌoʊ θˈɜːsti! |0
+/ESD/0016/Surprise/0016_001465.wav|tˈɑːm kʊd hˈɑːɹdli spˈiːk fɔːɹ lˈæfɪŋ. |0
+/ESD/0016/Surprise/0016_001466.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn? |0
+/ESD/0016/Surprise/0016_001467.wav|aɪ səpˈoʊz nˈoʊ, ɪt dˈʌzənt! |0
+/ESD/0016/Surprise/0016_001468.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd. |0
+/ESD/0016/Surprise/0016_001469.wav|nˌɑːt mˈʌtʃ jˈuːs ɪz ɪt, sˈæm? |0
+/ESD/0016/Surprise/0016_001470.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ! |0
+/ESD/0016/Surprise/0016_001471.wav|ʃiː wʌz bˈɔːɹn ˌɔn ˈeɪpɹəl nˈaɪntiːn fˈɔːɹɾi θɹˈiː. |0
+/ESD/0016/Surprise/0016_001472.wav|hˈaʊ ɑːɹ juː, dˈɪɹ tʃˈaɪld? |0
+/ESD/0016/Surprise/0016_001473.wav|hˌaʊ səspˈɪʃəs ðɪs fˈɑːks. |0
+/ESD/0016/Surprise/0016_001474.wav|kˈʌm ˌɔn maɪ dʒˈæk ɪnðə bˈɑːksᵻz! |0
+/ESD/0016/Surprise/0016_001475.wav|aɪd fˈɑːɹ ɹˈæðɚ ɡˌoʊ wɪðˌaʊt ðˌɛm ðɐn ˈiːt ðˌɛm! |0
+/ESD/0016/Surprise/0016_001476.wav|ðə hˈæɡ lˈʊkt ɪnðə stˈoʊv. |0
+/ESD/0016/Surprise/0016_001477.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ. |0
+/ESD/0016/Surprise/0016_001478.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː. |0
+/ESD/0016/Surprise/0016_001479.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl. |0
+/ESD/0016/Surprise/0016_001480.wav|ðˈɛn ðɛɹwˌʌz ɐ ɹᵻpˈoːɹt. |0
+/ESD/0016/Surprise/0016_001481.wav|ænd aɪ nˈɛvɚ hæd ɐ wˈuːpɪŋ kˈɔf wˈaɪ. |0
+/ESD/0016/Surprise/0016_001482.wav|ɐ fˈɛɹ dʒˈɔː kɹˈækɚ dwˈɔːɹf lˈæŋɡwɪdʒ mˈʌst bˈiː! |0
+/ESD/0016/Surprise/0016_001483.wav|biː ˈɔf nˈaʊ æz kwˈɪk æz juː mˈeɪ! |0
+/ESD/0016/Surprise/0016_001484.wav|baɪ hˈʊk ɔːɹ baɪ kɹˈʊk. |0
+/ESD/0016/Surprise/0016_001485.wav|səpˈoʊz aɪ tˈeɪk ɡɹˈændmʌðɚɹ ɐ fɹˈɛʃ vˈɛdʒɪɾəbəl. |0
+/ESD/0016/Surprise/0016_001486.wav|ænd tˈɪk ɐ tˈæk tˈuː. |0
+/ESD/0016/Surprise/0016_001487.wav|ɐ hˈɪpoʊ lˈaɪvz ɪnðə zˈuː. |0
+/ESD/0016/Surprise/0016_001488.wav|ɪn maɪ əpˈɪniən ðæt ɪz ɐ ɡˈʊd aɪdˈiə! |0
+/ESD/0016/Surprise/0016_001489.wav|lˈɛt ɡˌoʊ ʌv maɪ tˈɑːp nˈɑːt. |0
+/ESD/0016/Surprise/0016_001490.wav|ænd ðeɪ dˈɪd pˈʊʃ sˈoʊ! |0
+/ESD/0016/Surprise/0016_001491.wav|wiː ɛkspˈɛktᵻd tˈɑːm wʊd dʒˈʌmp fɔːɹ dʒˈɔɪ. |0
+/ESD/0016/Surprise/0016_001492.wav|dˈʌz ðə wˈʌn ðæt wˈɪnz ɡɛt ðə kɹˈaʊnd? |0
+/ESD/0016/Surprise/0016_001493.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps. |0
+/ESD/0016/Surprise/0016_001494.wav|ðeɪ fˈaʊnd ɐ kˈaʊ ɡɹˈeɪzɪŋ ɪn ɐ fˈiːld. |0
+/ESD/0016/Surprise/0016_001495.wav|ɑːhˈɑː wʌt ˈaɪ hæv wiː hˈɪɹ? |0
+/ESD/0016/Surprise/0016_001496.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ. |0
+/ESD/0016/Surprise/0016_001497.wav|kənfˈɛs ðæt juː ˈoʊpənd ðə θˈɜːtiːnθ dˈoːɹ. |0
+/ESD/0016/Surprise/0016_001498.wav|sˈɛd ðə wˈɪtʃ. |0
+/ESD/0016/Surprise/0016_001499.wav|aɪv hˈɪt ðə ɹˈɔŋ nˈoʊz. |0
+/ESD/0016/Surprise/0016_001500.wav|wˈɛl ˈɛnɪhˌaʊ ɪt dˈɪdnt ɹˈeɪn, hiː sˈɛd. |0
+/ESD/0016/Surprise/0016_001501.wav|ɪts mˌiː pˈɪɡ lˈɪt, hˈɛlp hˈɛlp! |0
+/ESD/0016/Surprise/0016_001502.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm. |0
+/ESD/0016/Surprise/0016_001503.wav|ðɪ ˈɛlɪfənt ænd ðə kˈɑːɹpəntɚɹ ɪz ðə lˈɔŋɡɪst. |0
+/ESD/0016/Surprise/0016_001504.wav|hˈɪɹ æm ˈaɪ hˈuːm juː sˈiːk. |0
+/ESD/0016/Surprise/0016_001505.wav|hiː wʌz kˈɪld baɪ ɐn ˈæɹoʊ. |0
+/ESD/0016/Surprise/0016_001506.wav|aɪ ɡˈɛs ɪts ɐ tʃˈɔɪs fˈiːst. |0
+/ESD/0016/Surprise/0016_001507.wav|tˈɑːm ænd mˈaɪkəl wˈoʊk ˌʌp nˈɛkst mˈɔːɹnɪŋ. |0
+/ESD/0016/Surprise/0016_001508.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt. |0
+/ESD/0016/Surprise/0016_001509.wav|ɪf ðeɪ mˈʌðɚ nˈuː ɪt. |0
+/ESD/0016/Surprise/0016_001510.wav|ˈækt dɹˈɑːp sˈɛkənd ˈækt sˈiːn. |0
+/ESD/0016/Surprise/0016_001511.wav|wiː nˈaɪtli dˈæns ˌaʊɚ hˈeɪdeɪ ɡˈaɪz. |0
+/ESD/0016/Surprise/0016_001512.wav|klˈaʊn, tə kˈɔːl hˌɪm dʒˈoʊi. |0
+/ESD/0016/Surprise/0016_001513.wav|mˈɪstɚ lˈɔːsən sˈɔː dʒˈɔːɹdʒ lˈæst nˈaɪt. |0
+/ESD/0016/Surprise/0016_001514.wav|ɐ hˈæf pˈaʊndz ʌv flˈaʊɚ ænd tˈuː ˈaʊnsᵻz sˈuːɪt. |0
+/ESD/0016/Surprise/0016_001515.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl. |0
+/ESD/0016/Surprise/0016_001516.wav|nˈoʊ, aɪ bˈɜːst ðə bəlˈuːn! |0
+/ESD/0016/Surprise/0016_001517.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn. |0
+/ESD/0016/Surprise/0016_001518.wav|lˈʊk ˈaʊt! sˈɛd ˈælɪs. |0
+/ESD/0016/Surprise/0016_001519.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ. |0
+/ESD/0016/Surprise/0016_001520.wav|ˌaʊɚ kˈɪŋ dʒˈɔːɹdʒ ɪz lˈeɪbɚɹɚz. |0
+/ESD/0016/Surprise/0016_001521.wav|fˈɪn ænd ðə fˈɛɹi ʃˈuːmeɪkɚ. |0
+/ESD/0016/Surprise/0016_001522.wav|æm aɪ ɐn ˈæbsəlˌuːt pˈɔːpɚ? |0
+/ESD/0016/Surprise/0016_001523.wav|aɪɐm fɹʌm tˈaʊəl lˈænd. |0
+/ESD/0016/Surprise/0016_001524.wav|juː nˈoʊ, ˈænsɚz tə ðə nˈeɪm ʌv tˈɑːmz sˈʌn. |0
+/ESD/0016/Surprise/0016_001525.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː! |0
+/ESD/0016/Surprise/0016_001526.wav|ðɪs tˈɜːn ɡoʊz tə ðə hˈɪl. |0
+/ESD/0016/Surprise/0016_001527.wav|kˈɑːs aɪ nˈoʊ aɪ hˌæd sʌm hˈʌni. |0
+/ESD/0016/Surprise/0016_001528.wav|pˌʊt ðæt ɹˈuːd ɡɹˈæshɑːpɚɹ ɪn dʒˈeɪl! |0
+/ESD/0016/Surprise/0016_001529.wav|ɐ lˈɑːɹdʒ flˈæt fˈɛɹi bˈoʊt wʌz mˈʊɹd bᵻsˌaɪdɪt. |0
+/ESD/0016/Surprise/0016_001530.wav|ænd wʊd spˈɔɪl maɪ dʒˈoʊk. |0
+/ESD/0016/Surprise/0016_001531.wav|ɪt mˈʌst kˈʌm sˈʌmtaɪmz tə dʒˈæm ɐ dˈeɪ. |0
+/ESD/0016/Surprise/0016_001532.wav|aɪ θˈæŋk juː fɔːɹ ðɪs mˈɜːsi! |0
+/ESD/0016/Surprise/0016_001533.wav|aɪ smˈɛl ðə bɹˈɛθ əvən ˈɪŋɡlɪʃ. |0
+/ESD/0016/Surprise/0016_001534.wav|ɹˈɛɹ ɹˈæbɪt hæd ɐ lˈɪɾəl ˈeɪpɹən. |0
+/ESD/0016/Surprise/0016_001535.wav|aɪ blˈɪŋkt maɪ ˈaɪz hˈɑːɹd. |0
+/ESD/0016/Surprise/0016_001536.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːl ʌv ɪt. |0
+/ESD/0016/Surprise/0016_001537.wav|lˈɛt ðə ɡlˈæs ɡlˈoʊb bˈiː. |0
+/ESD/0016/Surprise/0016_001538.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs. |0
+/ESD/0016/Surprise/0016_001539.wav|kˈʊkuːz ɪz dˌaʊnhˈɛdᵻd ænd kɹˈaɪɪŋ. |0
+/ESD/0016/Surprise/0016_001540.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz! |0
+/ESD/0016/Surprise/0016_001541.wav|kæn aɪ lˈɑːdʒ hˈɪɹ tənˈaɪt? |0
+/ESD/0016/Surprise/0016_001542.wav|wˈeɪk nˈaʊ maɪ mˈɛɹi tˈædz! |0
+/ESD/0016/Surprise/0016_001543.wav|pˈʊsi kæn sˈɪt baɪ ðə fˈaɪɚ ænd sˈɪŋ. |0
+/ESD/0016/Surprise/0016_001544.wav|wiː ˈɔːl sˈiː pˈændə ˌɔn tˌiːvˈiː ɔːɹ ɪnðə zˈuː. |0
+/ESD/0016/Surprise/0016_001545.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl! |0
+/ESD/0016/Surprise/0016_001546.wav|hiː sˈɛd tə dʒˈæk, ðə tʃˈæɾɚɹɚ. |0
+/ESD/0016/Surprise/0016_001547.wav|ænd ðɛɹ juːl fˈaɪnd ɐ snˈæp dɹˈæɡən flˈaɪ. |0
+/ESD/0016/Surprise/0016_001548.wav|ænd ɔnðə tˈɑːp ʌv ðˌɛm, kˈeɪm wˈɪni, ðə kjˈuːt bˈɛɹ. |0
+/ESD/0016/Surprise/0016_001549.wav|maɪ wˈaɪndɪŋ ʃˈiːt! |0
+/ESD/0016/Surprise/0016_001550.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf! |0
+/ESD/0016/Surprise/0016_001551.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm. |0
+/ESD/0016/Surprise/0016_001552.wav|ɡˈɪlti fɔːɹ wʌt dˈuː juː ɹˈuːl? |0
+/ESD/0016/Surprise/0016_001553.wav|bˌʌt wiː ɑːɹ nˌɑːt hˈaɪ jˈɛt. |0
+/ESD/0016/Surprise/0016_001554.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt. |0
+/ESD/0016/Surprise/0016_001555.wav|ðɪs spˈiːtʃ ɹˈaʊzd dˈeɪm ˈɪls tʊ ˈæŋɡɚ. |0
+/ESD/0016/Surprise/0016_001556.wav|ðɪ ˈaɪ kʊd nˌɑːt kˈætʃ ðˌɛm. |0
+/ESD/0016/Surprise/0016_001557.wav|blˈækbɜːd, ænd dʒˈeɪ. |0
+/ESD/0016/Surprise/0016_001558.wav|ɪt lˈʊks mˈʌtʃ bˈɛɾɚ. |0
+/ESD/0016/Surprise/0016_001559.wav|sˈʌtʃ tˈuːnz ɑːɹ dʒˈɔɪ tʊ ɐ dˈænsɪŋ fˈeɪ. |0
+/ESD/0016/Surprise/0016_001560.wav|kˈɪɾi, kæn juː plˈeɪ tʃˈɛs? |0
+/ESD/0016/Surprise/0016_001561.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt. |0
+/ESD/0016/Surprise/0016_001562.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz. |0
+/ESD/0016/Surprise/0016_001563.wav|hˌaʊ ðeɪ wɛnt tə ðə mˈaʊntɪnz tʊ ˈiːt nˈʌts. |0
+/ESD/0016/Surprise/0016_001564.wav|hɪz lˈɑːɹdʒ mˈaʊθ kˈɜːld ˌɪntʊ ɐ snˈɪɹ. |0
+/ESD/0016/Surprise/0016_001565.wav|ðeɪ wɜː ɡˌoʊɪŋ fˈæst, wɪð ɐ lˈaɪt klˈɪp. |0
+/ESD/0016/Surprise/0016_001566.wav|ðeɪ ˈeɪt bˈiːf æt ðə bˈʊtʃɚ ʃˈɑːp. |0
+/ESD/0016/Surprise/0016_001567.wav|aɪ tˈɔɪ wɪð maɪ lᵻkˈɜː. |0
+/ESD/0016/Surprise/0016_001568.wav|aɪ sˈɛd juː lˈʊkt lˈaɪk ɐn ˈɛɡ, sˌɜː. |0
+/ESD/0016/Surprise/0016_001569.wav|sˈæm wˈeɪvd hɪz ˈɑːɹm vˈeɪɡli. |0
+/ESD/0016/Surprise/0016_001570.wav|bˌʌt ɪf juː hˈædənt dˈʌn ðˌɛm. |0
+/ESD/0016/Surprise/0016_001571.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ. |0
+/ESD/0016/Surprise/0016_001572.wav|aɪʃˌɐl sˈeɪ ɡˈʊd bˈaɪ. |0
+/ESD/0016/Surprise/0016_001573.wav|hiː sˈɜːtʃt θɹuː ðə bˈɑːks. |0
+/ESD/0016/Surprise/0016_001574.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə. |0
+/ESD/0016/Surprise/0016_001575.wav|ˈɔːl ðɪs hæv wiː wˈʌn baɪ ˌaʊɚ lˈeɪbɚ. |0
+/ESD/0016/Surprise/0016_001576.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl. |0
+/ESD/0016/Surprise/0016_001577.wav|tˈɑːm fˈɛl wɪð ɐ klˈoʊvən hˈɛd. |0
+/ESD/0016/Surprise/0016_001578.wav|ænd vˈaʊd hiːd tʃˈeɪndʒ ðə pˈɪɡteɪlz plˈeɪs. |0
+/ESD/0016/Surprise/0016_001579.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz. |0
+/ESD/0016/Surprise/0016_001580.wav|tˈoʊst fɹʌmðə bɹˈɛd fɹˈuːt tɹˈiː. |0
+/ESD/0016/Surprise/0016_001581.wav|fˈɜːst, ˈɪʃuː ɐ ɹᵻwˈɔːɹd. |0
+/ESD/0016/Surprise/0016_001582.wav|ˈeɪdʒ fˈɔːɹɾi fˈaɪv ɪf ɐ dˈeɪ ɐ lˈaɪ. |0
+/ESD/0016/Surprise/0016_001583.wav|fɹˈɛʃ pˈeɪn sˈiːzd pˈɔːlz bˈɑːdi. |0
+/ESD/0016/Surprise/0016_001584.wav|wiː hɐvbɪn fˈaɪn, hˈævənt wiː? |0
+/ESD/0016/Surprise/0016_001585.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ. |0
+/ESD/0016/Surprise/0016_001586.wav|ʃiː dʒˈʌmp æt ðə tˈeɪl ænd bˈaɪt ɪt sˈævɪdʒli. |0
+/ESD/0016/Surprise/0016_001587.wav|ɐn ˈaʊɚɹ ˌaʊɾəv ɡˈɪld fˈoːɹd tˈaʊn. |0
+/ESD/0016/Surprise/0016_001588.wav|nˈaʊ kwˈɪkɚ ðə fˈɪdəl wˈɛnt. |0
+/ESD/0016/Surprise/0016_001589.wav|wˌɛn sˈʌtʃ wˈɔndɚɹɚz mˈiːt. |0
+/ESD/0016/Surprise/0016_001590.wav|ænd ðeɪ wɜː sˈændi jˈɛloʊ bɹˈaʊnɪʃ ˈɔːl ˈoʊvɚ. |0
+/ESD/0016/Surprise/0016_001591.wav|aɪ mˌeɪk hɜː kwˈaɪt nˈɜːvi æt tˈaɪmz. |0
+/ESD/0016/Surprise/0016_001592.wav|aɪ hæv tə ɡɹˈoʊ ˈoʊld. |0
+/ESD/0016/Surprise/0016_001593.wav|plˈiːz hˈaɪɚ mˌiː ˈæftɚ juː. |0
+/ESD/0016/Surprise/0016_001594.wav|jˈɛs, aɪ mˈɪs hɜː. |0
+/ESD/0016/Surprise/0016_001595.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ. |0
+/ESD/0016/Surprise/0016_001596.wav|klˈɪɹ ɑːɹ jʊɹ ˈaɪz ænd bɹˈaɪt jʊɹ bɹˈɛθ! |0
+/ESD/0016/Surprise/0016_001597.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt. |0
+/ESD/0016/Surprise/0016_001598.wav|aɪd ʃˈuːt maɪsˈɛlf. ɐ pˈɔːz. |0
+/ESD/0016/Surprise/0016_001599.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ. |0
+/ESD/0016/Surprise/0016_001600.wav|ðæt klˈɔθ dʌznˌɑːt lˈʊk wˈɜːθ mˈʌtʃ! |0
+/ESD/0016/Surprise/0016_001601.wav|ɐ lˈeɪdi, ɪz ˌɔn ˈælɪsᵻz lˈæp! |0
+/ESD/0016/Surprise/0016_001602.wav|ðæt sˈaʊndz ɡˈʊd. |0
+/ESD/0016/Surprise/0016_001603.wav|aɪ wʌz nˌɑːt ɡɹˈæbd. |0
+/ESD/0016/Surprise/0016_001604.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt. |0
+/ESD/0016/Surprise/0016_001605.wav|fˈɪɹ nˈiːðɚ ɹˈuːt nˈɔːɹ spɹˈaʊt! |0
+/ESD/0016/Surprise/0016_001606.wav|stˈɪl juː ˈoʊ ɪɾ ɐ dˈuːɾi. |0
+/ESD/0016/Surprise/0016_001607.wav|wˌʌt æm ˈaɪ, aɪm ɐ ɹˈeɪsɚ, sˈʌn ʌv ɡˈɑːd. |0
+/ESD/0016/Surprise/0016_001608.wav|haʊˈɛvɚ, sˈʌmbɑːdi kˈɪld sˈʌmθɪŋ. |0
+/ESD/0016/Surprise/0016_001609.wav|ɐ ɹˈeɪdʒɪŋ fˈaɪɚ wʌz ɪn hɪz ˈaɪz. |0
+/ESD/0016/Surprise/0016_001610.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm. |0
+/ESD/0016/Surprise/0016_001611.wav|fɹʌm ˈiːtʃ kˈeɪk, ðɛɹ spɹˈæŋ ɐ hjˈuːdʒ dˈɑːɡ. |0
+/ESD/0016/Surprise/0016_001612.wav|nˈoʊ θˈæŋk juː. |0
+/ESD/0016/Surprise/0016_001613.wav|lˈɛt ɪt ɡˈɪv ˌʌs ɐ tʃˈæns, maɪ pɹˈɛʃəs. |0
+/ESD/0016/Surprise/0016_001614.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki! |0
+/ESD/0016/Surprise/0016_001615.wav|hiː lˈaɪks dɹˈæɡənz vˈɛɹi mˈʌtʃ. |0
+/ESD/0016/Surprise/0016_001616.wav|ɪɾ ˌɪzənt pˈɪkt æɾ ˈɔːl. |0
+/ESD/0016/Surprise/0016_001617.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf ! |0
+/ESD/0016/Surprise/0016_001618.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ. |0
+/ESD/0016/Surprise/0016_001619.wav|bˌʌt ðə tˈuːn ˌɪzənt hɪz ˈoʊn ɪnvˈɛnʃən. |0
+/ESD/0016/Surprise/0016_001620.wav|hɜː pˈɔː wɛnt ˌɪntʊ jʊɹ ˈaɪ? |0
+/ESD/0016/Surprise/0016_001621.wav|aɪɐm ɐ sˈɛlfɪʃ sˈɪnɚ. |0
+/ESD/0016/Surprise/0016_001622.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː. |0
+/ESD/0016/Surprise/0016_001623.wav|pˈɪk, pˈɪk, pˈɪk! |0
+/ESD/0016/Surprise/0016_001624.wav|dˈuː juː nˈoʊ ðə lˈɪd ˈoʊpənz? |0
+/ESD/0016/Surprise/0016_001625.wav|hɜːɹ ɛɡzˈɪstəns mˌeɪks hˌɪm plˈɛzənt. |0
+/ESD/0016/Surprise/0016_001626.wav|ænd ðə nˈɛkst dˈeɪ. nˈɜːs wɪl biː ɹᵻlˈiːst. |0
+/ESD/0016/Surprise/0016_001627.wav|bˈɔːɹn wˈʌns ˈɛvɹi wˈʌn hˈʌndɹɪd jˈɪɹz, dˈaɪz ɪn flˈeɪmz! |0
+/ESD/0016/Surprise/0016_001628.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi. |0
+/ESD/0016/Surprise/0016_001629.wav|ðə fˈɜːst jˈɪɹ ðeɪ sˈoʊd ɹˈaɪ. |0
+/ESD/0016/Surprise/0016_001630.wav|jʊɹ ˈoʊn wˈaɪf ɪz nˌɑːt æt hˈoʊm. |0
+/ESD/0016/Surprise/0016_001631.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ. |0
+/ESD/0016/Surprise/0016_001632.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt. |0
+/ESD/0016/Surprise/0016_001633.wav|wˌaɪ ʃˌʊd ˈaɪ kˈɛɹ ðˌoʊ dˈeɪvɪdz lˈɪps wɜː twˈɪtʃɪŋ? |0
+/ESD/0016/Surprise/0016_001634.wav|hˈɜːɹi ˈʌp, hˈɜːɹi ˈʌp! |0
+/ESD/0016/Surprise/0016_001635.wav|ɪf nˈɑːt, aɪʃˌɐl ɡˌoʊ nˈoʊ fˈɜːðɚ. |0
+/ESD/0016/Surprise/0016_001636.wav|hˌaʊ ɹˈæʃ juː ɑːɹ! |0
+/ESD/0016/Surprise/0016_001637.wav|wˌʌt wʊd ðeɪ dˈuː æt ðɪ ˈɛnd ʌvðə jˈɪɹ? |0
+/ESD/0016/Surprise/0016_001638.wav|tədˈeɪ ˌɪzənt ˌɛni ˈʌðɚ dˈeɪ. |0
+/ESD/0016/Surprise/0016_001639.wav|ðɪs ɪz ðə wˈeɪ ðæt snˈeɪks ˈɔːlweɪz tˈɔːk. |0
+/ESD/0016/Surprise/0016_001640.wav|bˈoʊθ sˈaɪd wɜː sˈɔftli kˈɜːvd. |0
+/ESD/0016/Surprise/0016_001641.wav|wiː hæv ʃˈoʊd hɪz ʃˈɑːɹk tˈuːθ. |0
+/ESD/0016/Surprise/0016_001642.wav|ɡˈɪv mˌiː jʊɹ hˈænd ɔːɹ aɪ wɪl kɹˈaɪ hˈɑːɹdɚ ðɐn bᵻfˈoːɹ. |0
+/ESD/0016/Surprise/0016_001643.wav|ænd hɐz juː slˈeɪn hˌɪm? |0
+/ESD/0016/Surprise/0016_001644.wav|ˈɔf fɚðə pɹˈɪzən ʃˈɪp. |0
+/ESD/0016/Surprise/0016_001645.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl? |0
+/ESD/0016/Surprise/0016_001646.wav|wiː kæn nˌɑːt dˈuː ɪt sˌɜː. |0
+/ESD/0016/Surprise/0016_001647.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs. |0
+/ESD/0016/Surprise/0016_001648.wav|ɪnwˌɪtʃ pˈɪɡlɪt mˈiːts ɐ ˈɛlɪfənt. |0
+/ESD/0016/Surprise/0016_001649.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp. |0
+/ESD/0016/Surprise/0016_001650.wav|hɜː kˈaɪnd ænd fˈɜːm ɡlˈæns. |0
+/ESD/0016/Surprise/0016_001651.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli. |0
+/ESD/0016/Surprise/0016_001652.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt. |0
+/ESD/0016/Surprise/0016_001653.wav|aɪ hæv ɐ sˈuːθseɪɚ. |0
+/ESD/0016/Surprise/0016_001654.wav|ʃiː lˈæft. |0
+/ESD/0016/Surprise/0016_001655.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː. |0
+/ESD/0016/Surprise/0016_001656.wav|aɪ mˈʌstɐv tˈuː tə fˈɛtʃ ænd kˈæɹi. |0
+/ESD/0016/Surprise/0016_001657.wav|aɪ wʊd skˈɔf æt ðiːz fˈɑːloʊɚz. |0
+/ESD/0016/Surprise/0016_001658.wav|mˈʌm ʃˈʌts wˈʌnz mˈaʊθ ˈʌp, dˈʌzənt ɪt. |0
+/ESD/0016/Surprise/0016_001659.wav|ðə sˈɔŋ ɪz kˈɔːld wˈeɪz ænd mˈiːnz. |0
+/ESD/0016/Surprise/0016_001660.wav|æz sˈuːn æz ʃiː wɛnt ˈɪn, ðɛɹwˌʌz dɪsˈoːɹdɚ. |0
+/ESD/0016/Surprise/0016_001661.wav|ˈæftɚɹ ɐ wˈaɪl hiː pɚsˈiːvd bˈoʊθ dʒˈaɪənts. |0
+/ESD/0016/Surprise/0016_001662.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm! |0
+/ESD/0016/Surprise/0016_001663.wav|ʃiː sˈɛd ɪn sʌbdˈuːd vˈɔɪs. |0
+/ESD/0016/Surprise/0016_001664.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm! |0
+/ESD/0016/Surprise/0016_001665.wav|aɪv dʒˈʌst ʃˈɑːt ɐ stˈæɡ. |0
+/ESD/0016/Surprise/0016_001666.wav|wiː mˈeɪ dʒˈɔɪn wɪð ðæt pˈaʊɚ. |0
+/ESD/0016/Surprise/0016_001667.wav|tʃˈæptɚɹ ᵻlˈɛvən ɔnðə dˈoːɹstɛp. |0
+/ESD/0016/Surprise/0016_001668.wav|hiː ʃˈoʊd nˈoʊ sˈaɪnz ʌv ˈeɪdʒ. |0
+/ESD/0016/Surprise/0016_001669.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp! |0
+/ESD/0016/Surprise/0016_001670.wav|tʃˈuː lˈiːvz kwˈɪkli, sˈɛd ɹˈæbɪt. |0
+/ESD/0016/Surprise/0016_001671.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ. |0
+/ESD/0016/Surprise/0016_001672.wav|nˈoʊ ɐdmˈɪtəns ɛksˈɛpt ˌɔn pˈɑːɹɾi bˈɪznəs. |0
+/ESD/0016/Surprise/0016_001673.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː. |0
+/ESD/0016/Surprise/0016_001674.wav|bɪkˈʌz hiː wʌzɐ mˈæn wɪð ˈɪnfɪnət ɹᵻsˈoːɹs ænd səɡˈæsᵻɾi. |0
+/ESD/0016/Surprise/0016_001675.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn. |0
+/ESD/0016/Surprise/0016_001676.wav|kæn jʊɹ nˈeɪm biː mˈoːɹ hɪlˈɛɹiəs? |0
+/ESD/0016/Surprise/0016_001677.wav|ðɪ ˈɛnd pˈɑːɹt ɪz fˈɪʃ mˈaʊθ. |0
+/ESD/0016/Surprise/0016_001678.wav|aɪ nˈoʊ juː . |0
+/ESD/0016/Surprise/0016_001679.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns. |0
+/ESD/0016/Surprise/0016_001680.wav|jʊɹ pˈæθ nˈaʊ ɡoʊz sˈaʊθ. |0
+/ESD/0016/Surprise/0016_001681.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ. |0
+/ESD/0016/Surprise/0016_001682.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn. |0
+/ESD/0016/Surprise/0016_001683.wav|ðeɪ hɐdbɪn nˈeɪmd tˈɑːm ænd dʒˈɛɹi. |0
+/ESD/0016/Surprise/0016_001684.wav|tʃˈæptɚɹ ˈeɪtiːn, ðə ɹᵻtˈɜːn dʒˈɜːni. |0
+/ESD/0016/Surprise/0016_001685.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː. |0
+/ESD/0016/Surprise/0016_001686.wav|wˈʌn tˈuː θɹˈiː, wˌɛɹ ɪz jʊɹ bɹˈɛkfəst. |0
+/ESD/0016/Surprise/0016_001687.wav|ɐ vˈɔɪs sˈɛd: kˈʌm ˈɪn. |0
+/ESD/0016/Surprise/0016_001688.wav|ʃiː hɐz fˈɛlt ʃˈaɪ ʌv ɪt. |0
+/ESD/0016/Surprise/0016_001689.wav|nˈoʊ, sˈɛd pˈɪɡi kˈɛɹləsli. |0
+/ESD/0016/Surprise/0016_001690.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn! |0
+/ESD/0016/Surprise/0016_001691.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ. |0
+/ESD/0016/Surprise/0016_001692.wav|ʃiː hɐz ɐ hˈaɪ vˈɔɪs. |0
+/ESD/0016/Surprise/0016_001693.wav|hiː ɪz ˈoʊld fˈæʃənd bˌʌt hiː ɪz ðə bˈɛst ʌv mˈɛn. |0
+/ESD/0016/Surprise/0016_001694.wav|nˈaʊ aɪ ˌʌndɚstˈænd. |0
+/ESD/0016/Surprise/0016_001695.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz. |0
+/ESD/0016/Surprise/0016_001696.wav|juː wˈoʊk mˌiː ˈʌp! |0
+/ESD/0016/Surprise/0016_001697.wav|hˌaʊ tˈɑːm ænd dʒˈɛɹi wɛnt tə vˈɪzɪt mˈɪstɚ sˈæm. |0
+/ESD/0016/Surprise/0016_001698.wav|ʃiː kˈʌm bˈæk tə ðə vˈæli. |0
+/ESD/0016/Surprise/0016_001699.wav|hɪz hˈoʊp wɪl tʃˈiːt hˌɪm. |0
+/ESD/0016/Surprise/0016_001700.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm. |0
+/ESD/0016/Surprise/0016_001701.wav|aɪm ʃˈʊɹ jʊɹ fɹˈɛndz kæn wˈeɪt! |0
+/ESD/0016/Surprise/0016_001702.wav|fˈaɪv hˈʌndɹɪd ænd wˈʌn mˈɪliən ɹˈaɪt? |0
+/ESD/0016/Surprise/0016_001703.wav|aɪɐm lˈoʊθ tə sˈiː hˌɪm ɡˈoʊ. |0
+/ESD/0016/Surprise/0016_001704.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd! |0
+/ESD/0016/Surprise/0016_001705.wav|ðə fˈɪʃɚmən ænd hɪz wˈaɪf sˈiː dʒˈɔːɹdʒ ˈɛvɹi dˈeɪ. |0
+/ESD/0016/Surprise/0016_001706.wav|plˈiːz ɪnvˈaɪt tˈɑːm ɪf ðɛɹ ɪz nˌɑːt ɹᵻkwˈaɪɚz. |0
+/ESD/0016/Surprise/0016_001707.wav|aɪ ˈoʊ ðˌɛm fˈaɪv hˈʌndɹɪd dˈɑːlɚz. |0
+/ESD/0016/Surprise/0016_001708.wav|pɚhˈæps juː θˈɪŋk ðæt ɪz ɐ kwˈɪɹ tˈaɪɾəl fɔːɹ ðɪs tʃˈæptɚ. |0
+/ESD/0016/Surprise/0016_001709.wav|hiː ˈoʊd mˈɪstɚ lˈɔːsən, aɪ kˈænt tˈɛl juː hˈaʊ. |0
+/ESD/0016/Surprise/0016_001710.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn. |0
+/ESD/0016/Surprise/0016_001711.wav|aɪɐm sˈeɪf bˈæk ɐɡˈɛn. |0
+/ESD/0016/Surprise/0016_001712.wav|fˈɑːðɚ hɐz jˈɛloʊ ˈaɪz. |0
+/ESD/0016/Surprise/0016_001713.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs. |0
+/ESD/0016/Surprise/0016_001714.wav|bˈɑːb ɡoʊz tʊ ɐ nˈuː skˈuːl. |0
+/ESD/0016/Surprise/0016_001715.wav|ɪts tə sˈeɪ hˌaʊ dˈuː juː dˈuː wɪð tˈɑːmz ˈænsɚ. |0
+/ESD/0016/Surprise/0016_001716.wav|ɐ θˈiːf ɪnðə nˈaɪt. |0
+/ESD/0016/Surprise/0016_001717.wav|æt lˈɛŋθ ðeɪ kˈeɪm tʊ ɐ ʃˈɑːɹp bˈɛnd. |0
+/ESD/0016/Surprise/0016_001718.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks. |0
+/ESD/0016/Surprise/0016_001719.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz? |0
+/ESD/0016/Surprise/0016_001720.wav|ɡˈoʊt bˈɪli ˈæskt ðɪ ˈoʊld tʃaɪnˈiːz ɡˈaɪ. |0
+/ESD/0016/Surprise/0016_001721.wav|kˈɔːld ˈaʊt ðə klˈaʊd. |0
+/ESD/0016/Surprise/0016_001722.wav|ɐ spˈɛʃəl pˈɑːt tˈuː. |0
+/ESD/0016/Surprise/0016_001723.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp! |0
+/ESD/0016/Surprise/0016_001724.wav|ænd ʃiː kˈɔːt æt ðə bɹˈoʊtʃ. |0
+/ESD/0016/Surprise/0016_001725.wav|ʃiː hɐz nˈoʊ plˈeɪs fɔːɹ hˈɑːt pˈɛpɚ . |0
+/ESD/0016/Surprise/0016_001726.wav|ðeɪ ɑːɹ mˌeɪd ʌv wˈʊd. |0
+/ESD/0016/Surprise/0016_001727.wav|ɪts pˈɑːɹt ʌv maɪ sˈiːkɹᵻt. |0
+/ESD/0016/Surprise/0016_001728.wav|ɪt wʊd biː ɐ hˈɑːɹd tʃˈɔɪs. |0
+/ESD/0016/Surprise/0016_001729.wav|ænd hɪz hˈɑːɹt wˈæɡd wɪð dʒˈɔɪ lˈaɪk ɐ lˈæmz tˈeɪl. |0
+/ESD/0016/Surprise/0016_001730.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz. |0
+/ESD/0016/Surprise/0016_001731.wav|ʃiːl biː fˈiːvɚɹɪʃ ˈæftɚ sˈoʊ mˌʌtʃ θˈɪŋkɪŋ. |0
+/ESD/0016/Surprise/0016_001732.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ? |0
+/ESD/0016/Surprise/0016_001733.wav|juː ɡˈeɪn fɔːɹ nˈʌθɪŋ ɡˈɜːl! |0
+/ESD/0016/Surprise/0016_001734.wav|ɐnˈʌðɚ wˌʌn, tˈɛn θˈaʊzənd dˈɑːlɚz. |0
+/ESD/0016/Surprise/0016_001735.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt. |0
+/ESD/0016/Surprise/0016_001736.wav|ˌoʊvɚ ðˌɛm swˈuːpt ðɪ ˈiːɡəlz. |0
+/ESD/0016/Surprise/0016_001737.wav|bˌʌt mˈɑːm aɪm nˌɑːt sˈɜːʔn̩ ɐbˈaʊt. |0
+/ESD/0016/Surprise/0016_001738.wav|pˈɔːlz tˈiːθ ˈeɪkt bɪkˈʌz ʌv lˈɛmən. |0
+/ESD/0016/Surprise/0016_001739.wav|ænd biː wɪð juː,tˈɑːm! |0
+/ESD/0016/Surprise/0016_001740.wav|sˌoʊ tˈɑːm sˈɔː nˈaɪt æz ɪt wɜː bɹˈɔːd dˈeɪlaɪt. |0
+/ESD/0016/Surprise/0016_001741.wav|ɪnˈʌf,juː ɐ fˈuːlɪʃ tʃˈæɾɚ. |0
+/ESD/0016/Surprise/0016_001742.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn? |0
+/ESD/0016/Surprise/0016_001743.wav|ænd wʌt dˈʌz ɪt mˈiːn? |0
+/ESD/0016/Surprise/0016_001744.wav|lˈuːsi, ɐ klˈɛvɚ fˈɑːɹmɚ. |0
+/ESD/0016/Surprise/0016_001745.wav|ɐ wˈɜːɹɪŋ nˈɔɪz wʌz hˈɜːd. |0
+/ESD/0016/Surprise/0016_001746.wav|aɪɐm ɡˌoʊɪŋ tə bˈæk hˈoʊm. |0
+/ESD/0016/Surprise/0016_001747.wav|wˌʌt ɑːɹ juː wˈeɪɾɪŋ fɔːɹ? mˈæn. |0
+/ESD/0016/Surprise/0016_001748.wav|dˈɪɹ kˈʌstəmɚ,wˈɛlkʌm tʊ ˌaʊɚ ʃˈɪp. |0
+/ESD/0016/Surprise/0016_001749.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən? |0
+/ESD/0016/Surprise/0016_001750.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd? |0
