@@ -5,7 +5,7 @@ def phonemize(global_phonemizer, text):
     return global_phonemizer.phonemize([text])[0]
 
 # Open the file
-with open('D:\\Datasets\\vivos\\train\\prompts.txt', 'r', encoding='utf-8') as f:
+with open('D:\\Datasets\\Speech_Dataset\\vivos\\train\\temp.txt', 'r', encoding='utf-8') as f:
     lines = f.readlines()
 
 # Save the extracted data to a TXT file with the specified format and UTF-8 encoding
